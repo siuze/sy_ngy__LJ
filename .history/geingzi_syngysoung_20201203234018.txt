@@ -1,12 +1,11 @@
+#本章分类列出连江话常用词语，词语按连读后的读音标音。每条词语先写连江话说法，
+接着是标音，标音后是普通话的说法或该词语义。
 #转写说明：
 #入声尾韵统一用“?”;送气统一用“'";"ŋ"统一用	ng;
 #ø统一用	o/; ɔ统一用	oo ；β统一用	w ʒ统一用	z
 #白读下划线统一在字后加“*”
-#部分刻意简化的生僻字，忠实原文，并作补注%
+#
 
-#p1298L
-#本章分类列出连江话常用词语，词语按连读后的读音标音。每条词语先写连江话说法，
-接着是标音，标音后是普通话的说法或该词语义。
 #一、天文
 日头	ni?5 t'au52	太阳
 月	nguo?5	月亮
@@ -21,79 +20,76 @@
 呆*天	gai'lien44	坏天气
 天晴	tieg4san52	晴天
 阴乌天	ein2'u4lien44	阴天
-⿺辶𠃓雨天	tou2'toy2'lieng4	下雨天%逷盪
+雨天	tou2'toy2'lieng4	下雨天
 天暖	trien44nuog33	天 气暖和
 天凉	tiefg41yon52	天 气凉爽
 二八天	ni2lBei?l2rieng44	春 秋冷暖适宜天气
 南风天	nan'oug*nie044	潮湿天气
-白露☐	pa2lu2koy213	白 露前后热天气
+白露也	pa2lu2koy213	白 露前后热天气
 秋凉	tsiu44lyon'2	秋天凉爽天气
 秋烘	tsiuS2oyn342	秋天热天气
-转润*	tuon44noun213	反潮
-#p1298R
+转润	tuon44noun213	反潮
 热天	ie?ftien'	夏天
-凊天	tsig4nien44	冷天
+清天	tsig4nien44	冷天
 做旱	ts52an3天旱
 做大水	tso44Iuai213y33发大水
 做溪水	ts32ke23y33山洪爆发
-做风𱃗	tso3'hun'nai14刮台风
-风𱃗气	hun21 naiS2kei213	有 刮台风的征象
-⿺辶𠃓雨	toug2lgy33	下雨%逷盪
+做风飑	tso3'hun'nai14刮台风
+风飑气	hun21 naiS2kei213	有 刮台风的征象
+边雨	toug2lgy33	下雨
 雷雨	lai2ly33	雷 阵雨
 雷公响	lait4ug4hyong33	响雷
 雷霎	lai2'sia?l2 闪电
-雨濛	y2'mug°4毛毛雨
-濛濛雨	muy2'muy52ny33 毛 毛雨
+雨檬	y2'mug°4毛毛雨
+檬檬雨	muy2'muy52ny33 毛 毛雨
 霉雨	mui21y33	连日 下雨
 晡时雨	puos21:21y33阵雨
-⿺辶𠃓晡时	toun2lpu441:52	下 阵雨%逷盪
+通晡时	toun2lpu441:52	下 阵雨
 沃雨	uos2y3淋雨
-过𣆯雨	kuo52oug2'ny33	短暂 下雨
+过晰雨	kuo52oug2'ny33	短暂 下雨
 风丝	hu4si44	微风
 踅螺风	suorly4ug44	旋风
 雷云	lai2+ug2	下雷 雨前的乌云
-☐雾	muo'2'ou242雾
+口雾	muo'2'ou242雾
 落霜	l4souy44	下霜
 落雪	l3-suo?l2	下雪
-#p1299L
 珍珠雪	tsio521uo22	小粒雪
-龙雹*	lyn*poyp'冰雹
-⿺辶𠃓雹*	tuofpropf	下冰雹%逷盪
+龙雹	lyn*poyp'冰雹
+通雹	tuofpropf	下冰雹
 地牛转肩	tftuo'rio	地震
 露水	1u523y33	露水
 天光	teg*kuon44	天亮
 天暗	reg*an?13	天黑
 #二、地理
-水涨*	tsy24lou33(海水)涨潮
+水涨	tsy24lou33(海水)涨潮
 水湓	tsy4Buog213(海水)退潮
-海☐		hai2'piap	海边 泥滩
+海口	hai2'piap	海边 泥滩
 沙坂	sa52Buay33沙滩
-海𪨧	hai4oun213	海啸
-海墘下	hi+ien?'nga242沿海
+海卷	hai4oun213	海啸
+海境下	hi+ien?'nga242沿海
 讨海	t324hai33	海洋捕 鱼
 讨小海	t32'siu24hai33	近海捕 鱼
-两*头*水	lag2'nau2'3y33	涨 潮退潮
-☐☐囝	kan2' meing2nian3瓦砾
+两头水	lag2'nau2'3y33	涨 潮退潮
+口口国	kan2' meing2nian3瓦砾
 山岗	san'2nou213	山峰
-山骹	sag4ka4	山脚下
-山里*	sanS2nie33山区
+山骸	sag4ka4	山脚下
+山里	sanS2nie33山区
 山里角	san'ne*koy2	偏僻山区
 龙潭	lyr2'ran52	山坑
 平洋	pa'tyo52	大片平地
 田	tsein52田地
 园	huon52旱地
-田*堘	tsein'ninf2	田埂
-埕	tian52	空地
-曝粟埕	pus'u*tias	晒谷场
+田埠	tsein'ninf2	田埂
+埋	tian52	空地
+曝粟堤	pus'u*tias	晒谷场
 拦潭	lan"taos2	石头
 拦潭囝	la'lan2'nian33小石头
-石*头*母*	syolau2'mo33 大石头
-石头囝	syfla"iai*_小石头
-石*头*卵*	s(ur'bu22	鹅卵石
+石头母	syolau2'mo33 大石头
+石头图	syfla"iai*_小石头
+石头卵	s(ur'bu22	鹅卵石
 沙	sai44	沙子
 涂	tu52	泥土
-#p1299R
-𬲕水	tsan243y33	淡水%䭕
+誓水	tsan243y33	淡水
 咸水	kein'3y33	海水、 咸水
 滚汤	kug?'noung4	开水
 汤	t'ouy44	热水
@@ -101,11 +97,11 @@
 河	52	河
 溪	ke44溪
 贝	pui213	小溪
-𰉣	tuo242路%墿
-马𰉣	ma441uo242 2	公路%墿
+择	tuo242路
+马译	ma441uo242 2	公路
 街中	ke**loun44	街 上
-半𰉣中	puan'nuo4louy44	半路 上%墿 
-塭尘	ugn4nin52	灰尘
+半泽中	puan'nuo4louy44	半路 上
+堤尘	ugn4nin52	灰尘
 粪倒	puy*2n垃圾
 城里	sian3'mie33	城里
 县城	keing*nian52	指 县府驻地
@@ -113,17 +109,17 @@
 #三、时间
 今年暝	kingtnieng'man'2	今年
 明年暝	man2'nieg2'man2明年
-后*年暝	atfnieng*man'后年
-☐后年	noyo13aunierg2	大后年
+后年暝	atfnieng*man'后年
+口后年	noyo13aunierg2	大后年
 去年	k'f*nieg2去年
 昨年 sa3'nies2	前年
-☐昨年	noy2l3s32'niery52	大前年
+因昨年	noy2l3s32'niery52	大前年
 昨暝	so2'may52	昨天
 昨日	so44nirS	前日
 今旦	kin52nan23	今天
-明*旦	ma?'nag213	明天
+明旦	ma?'nag213	明天
 后日	au2'ni?S	后天
-☐后日	noy2l3au2'nir'大后天
+口后日	noy2l3au2'nir'大后天
 上昼	syon2'nau213	上午
 当昼	touy?2nau213中午
 下昼	a2lau243	下午

@@ -21,7 +21,7 @@
 呆*天	gai'lien44	坏天气
 天晴	tieg4san52	晴天
 阴乌天	ein2'u4lien44	阴天
-⿺辶𠃓雨天	tou2'toy2'lieng4	下雨天%逷盪
+⿺辶𠃓雨天	tou2'toy2'lieng4	下雨天%逷
 天暖	trien44nuog33	天 气暖和
 天凉	tiefg41yon52	天 气凉爽
 二八天	ni2lBei?l2rieng44	春 秋冷暖适宜天气
@@ -73,7 +73,7 @@
 讨海	t324hai33	海洋捕 鱼
 讨小海	t32'siu24hai33	近海捕 鱼
 两*头*水	lag2'nau2'3y33	涨 潮退潮
-☐☐囝	kan2' meing2nian3瓦砾
+☐☐国	kan2' meing2nian3瓦砾
 山岗	san'2nou213	山峰
 山骹	sag4ka4	山脚下
 山里*	sanS2nie33山区
@@ -92,7 +92,6 @@
 石*头*卵*	s(ur'bu22	鹅卵石
 沙	sai44	沙子
 涂	tu52	泥土
-#p1299R
 𬲕水	tsan243y33	淡水%䭕
 咸水	kein'3y33	海水、 咸水
 滚汤	kug?'noung4	开水
@@ -101,11 +100,11 @@
 河	52	河
 溪	ke44溪
 贝	pui213	小溪
-𰉣	tuo242路%墿
-马𰉣	ma441uo242 2	公路%墿
+择	tuo242路
+马译	ma441uo242 2	公路
 街中	ke**loun44	街 上
-半𰉣中	puan'nuo4louy44	半路 上%墿 
-塭尘	ugn4nin52	灰尘
+半泽中	puan'nuo4louy44	半路 上
+堤尘	ugn4nin52	灰尘
 粪倒	puy*2n垃圾
 城里	sian3'mie33	城里
 县城	keing*nian52	指 县府驻地
@@ -113,17 +112,17 @@
 #三、时间
 今年暝	kingtnieng'man'2	今年
 明年暝	man2'nieg2'man2明年
-后*年暝	atfnieng*man'后年
-☐后年	noyo13aunierg2	大后年
+后年暝	atfnieng*man'后年
+口后年	noyo13aunierg2	大后年
 去年	k'f*nieg2去年
 昨年 sa3'nies2	前年
-☐昨年	noy2l3s32'niery52	大前年
+因昨年	noy2l3s32'niery52	大前年
 昨暝	so2'may52	昨天
 昨日	so44nirS	前日
 今旦	kin52nan23	今天
-明*旦	ma?'nag213	明天
+明旦	ma?'nag213	明天
 后日	au2'ni?S	后天
-☐后日	noy2l3au2'nir'大后天
+口后日	noy2l3au2'nir'大后天
 上昼	syon2'nau213	上午
 当昼	touy?2nau213中午
 下昼	a2lau243	下午
