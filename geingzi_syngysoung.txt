@@ -585,59 +585,49 @@ p1305R
 裙	kun52	裙子
 背心	pi4ing4	背心
 p1306L
-汗槨	kan}'loug33	汗衣
-羊毛榔	yon2'm3-louy33	羊毛衣
+汗𧜛	kan}'loug33	汗衣
+羊毛𧜛	yon2'm3-louy33	羊毛衣
 背褡	pui52la?l2	背心
-羊毛神	yon321m32hka22	羊毛背心
+羊毛䘥	yon321m32hka22	羊毛背心
 长衫	toung4nang44	长袍
 鲜衣	tieng4:44	旗袍
 大衣	tuai44:44	大衣
 裤头带	k44lau2lai213	裤带
-颂困衫	syn'noungnany44	睡 腰衣
-鞋鞭	2-lia2l2	拖鞋
+颂睏衫	syn'noungnany44	睡 腰衣
+鞋靸	2-lia2l2	拖鞋
 鞋屐	e44kiars	木屐
-鞋口屐	e21o44kKia?S	木屐
-O	口帽	nian
-21 pianj
-52 mo242
-有舌帽
+鞋☐屐	e21o44kKia?S	木屐
+☐☐帽	nian21 pianj52 mo242	有舌帽
 碗帽	uan44mo342	瓜 皮帽
-草履皸	tsau144ia2	草 编拖鞋
+草履靸	tsau144ia2	草 编拖鞋
 围身裙	uilinig4tuy52	围裙
 领巾	lian2'oyn44 围巾
-鞋套	e2-t3213
-雨鞋
+鞋套	e2-t3213	雨鞋
 雨靴	y2uo44	长统雨鞋
-尿燥	niul1.213
-尿布
-啊遮	lan?'sia4	围嘴儿
+尿燥	niul1.213	尿布
+𪢌遮	lan?'sia4	围嘴儿
 袜	ua?袜子
-耳坠	nj21ui242
-耳坠子
+耳坠	nj21ui242	耳坠子
 手镯	tsiu2lb?手镯子
 手指	tsiu243i3	戒指
-手輅	tuiul2l2	手套
+手𦃆	tuiul2l2	手套
 手巾	tstu2'y4	手帕
 袄轮	32lus52	套衫
-手惋	tsiu2*uo33	袖子
-胆领	tau2liag3	领子
+手䘼	tsiu2*uo33	袖子
+脰领	tau2liag3	领子
 裤斗	kuS2lau33	裤裆
-长惋	toug2"ouo33	长袖
-短婉	toy2tuon'
-短袖
-十四、身体
-头	tau2	脑袋
-头发	tau2"uo2l2	头发
-额头	qaleu'2
-额头
+长*䘼	toug2"ouo33	长袖
+短*䘼	toy2tuon'	短袖
+*十四、身体
+头*	tau2	脑袋
+头*发	tau2"uo2l2	头发
+额头*	qaleu'2	额头
 眉毛	mi2'm52	眉毛
-且霎	moy?sial2	睫毛
-且腡	mei? tsiu44
-眼睛
-面顿	migf2me33	脸蛋儿
+目*霎	moy?sial2	睫毛
+目*睭	mei? tsiu44	眼睛
+面*𱂮	migf2me33	脸蛋儿%䫌
 鼻	pei13	鼻子
-耳	gei42
-耳朵
+耳*	gei42	耳朵
 喙	tsui213	嘴
 喙皮	tul4Buis	嘴唇
 牙	na21:33	牙齿
