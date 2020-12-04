@@ -124,24 +124,25 @@
 明*旦	ma?'nag213	明天
 后日	au2'ni?S	后天
 ☐后日	noy2l3au2'nir'大后天
-上昼	syon2'nau213	上午
-当昼	touy?2nau213中午
+上昼*	syon2'nau213	上午
+当昼*	touy?2nau213中午
 下昼	a2lau243	下午
-早头	tia2laus2	早晨
-早辰头	tisa'iq'nau'2	早晨
+早*头*	tia2laus2	早晨
+早*辰*头*	tisa'iq'nau'2	早晨
+#p1200L
 半晡	puagpuuo4 中午与黄昏之间
 暝晡	manmuo44	晚上
 暝晡头	man'muolaus2	晚上
 半暝	puan*mary52	半夜
 半暝囝	puaf*many'nian33	半夜
-蜀暝天光	so'nanenouog	通宵
+蜀*暝天光	so'nanenouog	通宵
 个郎工	kLouoykoyo44	整天
 个郎晡	kbuogpuo	整夜
-年把两	nien21 ma41any242一年多至两年
+年把两*	nien21 ma41any242一年多至两年
 月把日	guor?pa'ni-个 多月
 十除工	sirfytoyo44	十来天
-仂久	li?2ku33	一会儿
-价今	tan44	现在
+仂久*	li?2ku33	一会儿
+仱	tan44	现在
 旧底	ku2le33以前
 往南帮	uon21 nan4 moung44以前
 往南日	uon?2Inagf*ni? 前几天
@@ -154,70 +155,66 @@
 八月中秋	pilZquortysiu44	中秋节
 做年	tsonien52过年
 做节	ts52tscip12	过节
-三+暝晡	sao2'nei? mang*muo44	大年三 十晚上
+三十暝晡	sao2'nei? mang*muo44	大年三 十晚上
 初一早	tse?'i?l2tsia33	大年初一
 #四、方位
 位处	ui'3oy213 地方，位置
-悬势	kein?'nie213	上面
-悬顶	ke'lein33上面
+悬*势	kein?'nie213	上面
+悬*顶	ke'lein33上面
 下底	a2"le33	下面
-里势	ti*lie1里面
-外斗	gie"lau33	外面
-边斗	pierS2nau33	旁边
+里*势	ti*lie1里面
+外*斗*	gie"lau33	外面
+边斗*	pierS2nau33	旁边
+#p1300R
 四势	s52si23	到处
 七处	tsi? tsoy'213到处
-台	tao	中间
-台中中	tailou"noug*中间
+台中*	tao	中间
+台中*中*	tailou"noug*中间
 地兜	t#lau44	地面
 桌面	t52meig213桌上
-门楼口	muon2lau2kau33	门口
+门楼口*	muon2lau2kau33	门口
 门后角	muo2' qur2oy?2	门后
-后斗	a2"lau33	后面
-尾斗	mui24lau33	后面
-尾后	muii44au242背后
+后*斗*	a2"lau33	后面
+尾斗*	mui24lau33	后面
+尾后*	muii44au242背后
 角角	koy2koy22	角落
-面前	min" nein'2 前面
-面头前	mingnaulein2	前面
+面*前*	min" nein'2 前面
+面*头*前*	mingnaulein2	前面
 #五、房舍
 厝	tsuo'房屋
 厝瓦顶	tsuotyua2'lisj3	屋顶
-檐境头	sn'nie21 nau3屋檐
+檐墘头*	sn'nie21 nau3屋檐
 桁	ao"2	檁(屋顶上托住椽子的横木)
 椽	t'uon52椽子
-廊柱	loug?'riu242	柱子
-柱珠	tiu44yuo04	柱 下石
+廊柱*	loug?'riu242	柱子
+柱*珠	tiu44yuo04	柱 下石
 磉盘	souy2'muan52	顶着“柱珠”的石板
-门陳	muon21 nein342门槛
-楼顶	lau2'lig33	楼上
-阶座	kie23242台阶
-房里	pun21 nie33屋里
+门䧘	muon21 nein342门槛
+楼*顶	lau2'lig33	楼上
+阶*座	kie23242台阶
+房里*	pun21 nie33屋里
 露台	lu44ai52. 凉台
 拦牢	lang21ns52.拦杆
 门扇	muon21 nien213	门板
 槛门囝	kan21 muop52giag33	窗 户
-灶前	tsau4lein'2	厨 房
+灶前*	tsau4lein'2	厨 房
 粪坑厝	pug2hnan23uo213	厕 所
 仰板	yon24 mein3天花板
 厅中	tiagnoun44	大厅
-
+#p1301L
 #六、器具
-家私	k41444
-家具，工具
+家私*	k41444	家具，工具
 眠床	ming'ts'oun52	床
-藤床框	tog'souokuog44
-床绷子
-行铺	kian"muon4	临时搭 起的床铺
-月桌	guo?2 t52l2
-园桌
+藤床框	tog'souokuog44	床绷子
+行*铺	kian"muon4	临时搭 起的床铺
+月桌	guo?2 t52l2园桌
 月椅	quor?ie33	园凳子
-椅条	ie2'leus2
-条凳
-椅头	ie2Hlaus2	凳子
+椅条	ie2'leus2	条凳
+椅头*	ie2Hlaus2	凳子
 椅囝	ie24ian33	小凳 子
 裙座椅	kug2352ie33	太师 椅
 床荐	tsoun?'sein213	草垫
-毡	tsien44
-毛毯
+毡	tsien44	毛毯
 铺板	pus2βein33	床板
 帐	tyon213	蚊帐
 褥	yr	褥子
@@ -225,414 +222,287 @@
 簏	loy?S	抽屉
 签甲桌	tsieng2'gap'topl2	大写字台
 妆台桌	tsyon52nai2ls212	梳妆台
-鼎救	ian4nin213	锅盖
-鼎杼	tian2*tyo
-锅铲
+鼎㪠	ian4nin213	锅盖
+鼎杼	tian2*tyo	锅铲
 鼎筅	tian'tseig33	炊帚
-铁	Driel2tsie?'铁瓢
-漏口	lautsie?
-漏瓢
+铁☐	Driel2tsie?'铁瓢
+漏☐	lautsie?	漏瓢
 笊篱	tsia4tie52	在水中捞物的用具
-水管	tsy2*uon33 舀水竹简
-饭口	pun}'3eirg213
-蒸饭具
+水管*	tsy2*uon33 舀水竹简
+饭☐	pun}'3eirg213	蒸饭具
 拔桶	puar?toyu33	吊水桶
 碗缸	uan2'koug44	大碗
-碗囝	uan34 gian'
-小碗
-酒盏	tsiu*sian33
-酒杯
-酒澩	tsiu2in52
-斟酒酒壶
-茶婆	ta2.ps52
-茶壶
+碗囝	uan34 gian'	小碗
+酒盏	tsiu*sian33	酒杯
+酒漀	tsiu2in52	斟酒酒壶
+茶婆	ta2.ps52	茶壶
 茶桌	ta21lo?12	茶几
 开水壶	kai?23y2Lus2	热水壶
 罗盆	l2?Buo52	脸 盆儿
-面布	mig'2muo213	洗脸巾
+#p1301R
+面*布	mig'2muo213	洗脸巾
 牙齿罐	ait**uag213	牙杯
-胶布	ka2PBuo213	擦脚布
-骰桶	ka'2loyy33	洗衣桶
-口板	hao2'meig33
-切菜板
+骹布	ka2PBuo213	擦脚布
+骹桶	ka'2loyy33	洗衣桶
+☐板	hao2'meig33	切菜板
 碟囝	tie?kian33	小碟 子
-洋罐	yon?'guan213
-煤油灯
+洋罐	yon?'guan213	煤油灯
 电光	tien4ouon44	电灯
 手电	tutteg242	手电筒
-电涂	tien4teuS2
-电池
+电涂	tien4teuS2	电池
 不求人	pu2lkiu2i52	竹 制抓痒具
 纸媒	tsai2'muiS2	引火 用的细纸卷
-洋火	yonr'bui33	火柴
-薰筒	houn*noyu52
-水烟筒
-柴柿	tsia2pui21
-木屑
-火管	hui2*uoy33	吹火筒
+洋火*	yonr'bui33	火柴
+薰筒	houn*noyu52	水烟筒
+柴柿	tsia2pui21	木屑
+火*管*	hui2*uoy33	吹火筒
 甏	pan44 大口缸
 瓮	oyn213	小口缸
-破钵	hai2lBua2l2	缽 头
+硋鉢	hai2lBua2l2	缽 头%原书鉢即为繁体
 瓶瓶	pin2'pin52	小瓶子
 罐罐	kuag2hkuag213	小罐 子
-宪帚	tsein3*siu33	扫帚
+筅帚	tsein3*siu33	扫帚
 挂橱	kua44liu52	菜 橱
-猴桶	kau"loyr"3	提水用 小水桶
-头梳	tautle4	梳子
+猴*桶	kau"loyr"3	提水用 小水桶
+头*梳	tautle4	梳子
 篦梳	pitae44	篦子
-便妆	piensoup
-梳妆盒
+便妆	piensoup	梳妆盒
 衣裳车	4yoyo03ia44	缝纫机
 铰刀	ka441544	剪刀
-竹筑	ty?°oun242	晒衣竹竿
-骸踏车	ka"la'fsia44	自行车
+竹𥮕	ty?°oun242	晒衣竹竿
+骹踏车	ka"la'fsia44	自行车
 风抽	hungtiu44	打气简
-竹床	ty?"tsoun52
-竹床
+竹床	ty?"tsoun52	竹床
 竹席	tyltsyo?'竹席 子
 鼎	tian33	铁锅
 灶刀	tsau*t14	切菜刀
 文明杖	ue2'migftryo322	手杖
+#p1302L
 痰盆	tan?'puon52	痰盂
 #七、动物
-头牲	ta4an44	牲畜
-生港	yu2"koy33	公牛
-生母	nu2'm33
-母牛
+头*牲*	ta4an44	牲畜
+牛*港	yu2"koy33	公牛
+牛*母*	nu2'm33	母牛
 猪射	ty21ia242	公猪
 猪豚	ty44louy52	中猪
 猪囝	ty2iany33 小猪
 菜猪	tsai441y44	肉猪
-羊	yon52
-羊
-猫口	ma2'nei213:猫
+羊	yon52	羊
+猫☐	ma2'nei213:猫
 鸡角	kie'2oy2l2	公鸡
 鸭雄	a2lhyp52	公鸭
-水鸡	tsy2Hie44
-田蛙
-蜂蛛	kuor' toy213	山坑蛙
+水鸡	tsy2Hie44	田蛙
+蛒	kuor' toy213	山坑蛙
 青鸭	tsian52na2l2	青蛙
 黄蜱	uog2lpe52	小青蛙
-黄蜱口	uoy21 me21lui242	蝌蚪
-老虎	la21u33	老虎
-老蛇	laut4tie2	蛇
+黄蜱☐	uoy21 me21lui242	蝌蚪
+老*虎	la21u33	老虎
+老*蛇	laut4tie2	蛇
 拉狸	la21:33	穿山甲
-猴囝	kau2lian33
-猴子
-豹囝	pauS2iarj
-豹子
-溪滑	ke4kou?淡水大鳗鱼
-O0a21ji52
-蝉
-蚕囝	tsein21 pian33
-蚕
+猴囝	kau2lian33	猴子
+豹囝	pauS2iarj	豹子
+溪滑*	ke4kou?淡水大鳗鱼
+☐☐	O0a21ji52	蝉
+蚕囝	tsein21 pian33	蚕
 南尾星	nan2'muil21ig4	萤火虫
-口蝶	puf*lie?'蝴蝶
-麻胡	ma
-21u52
-蜻蜒
+☐蝶	puf*lie?'蝴蝶
+麻胡	ma21u52	蜻蜒%原书即为蜒
 风蚊	huo*muon52	蚊子
 菩蝇	pu2'lio52	苍蝇
-猫头爷	ma4au4ie2
-蜘蛛
+猫头爷	ma4au4ie2	蜘蛛
 蜢囝	moya4nian33	小黑 虫
-虼蚤	ka24sau33
-跳蚤
-虱母	sei? mo'
-虱子
-猴蚓	kau2"ouy33
-蚯蚓
-且虱	meir?seil2	臭虫
-疑母	sa2l2mo33	蟑螂
+虼蚤	ka24sau33	跳蚤
+虱母*	sei? mo'	虱子
+猴蚓	kau2"ouy33	蚯蚓
+p1302R
+目虱	meir?seil2	臭虫
+⿰粜蚤母	sa2l2mo33	蟑螂
 仁蚣	intgoyng	蜈蚣
 黄蚁	uog?'yie242	蚂蚁
 白蚁	pa2'nie42?白蚂蚁
-家雙	kaS2tsie2l2	麻雀
+家隻	kaS2tsie2l2	麻雀
 白鸽	pa21a212	白 鸽
-老涯	Ia32Ine'
-老鹰
-燕囝	ieng'nian33
-燕子
+老𪺾	Ia32Ine'	老鹰
+燕囝	ieng'nian33	燕子
 客鹊	kaS23yo?l2	喜鹊
-口化	ka2ua213	八哥
-猫王鸟	ma2uon?'3eu33	猫头鹰
-乌鸦	44a44
-乌鸦
-鲟	sin52	青蟹
-蛾	tsieP	梭子蟹
+☐化	ka2ua213	八哥
+猫*王鸟*	ma2uon?'3eu33	猫头鹰
+乌鸦	44a44	乌鸦
+𫊻	sin52	青蟹
+蠘	tsieP	梭子蟹
 黄瓜鱼	uon21qu4nyS2	黄 花鱼
-虾米	ha2'mi33
-虾皮
-螓囝	liu2iang33
-蚬子
-马胶	ma2"ka44	马鲛 鱼
-蛇	ta213	海蜇皮
-鳜鱼	ku4y52
-鳜鱼
+虾米	ha2'mi33	虾皮
+蟟囝	liu2iang33	蚬子
+马骹	ma2"ka44	马鲛 鱼
+䖳	ta213	海蜇皮
+鳜鱼	ku4y52	鳜鱼
 冬鸡	toyr*gie4	大 墨鱼
-虎鲟	hu2'lig52	蟹类的 一一种
-青整	tsian4no52
-海蚌
+虎𫊻	hu2'lig52	蟹类的 一一种
+青鳌	tsian4no52	海蚌
 虾菇	ha44u44	一 种贝壳类海产
-车利	tsia2lei?13
-海蚯蚓
+车利	tsia2lei?13	海蚯蚓
 鲎	hau213	鲎
 鳖	pierl2	甲 鱼
-龟	kui44
-龟
+龟	kui44	龟
 蛏	tein44	蛏
-甸囝	ks52iany33
-小鱼干
+鲄囝	ks52iany33	小鱼干
 鱼鲞	gy2"lyoy33	剖开晾干的鱼
 跳鱼	tiu4ay52	鲦鱼
-八蛎	peir tie242
-牡蛎
+八蛎*	peir tie242	牡蛎
 鳝	tsian242	鱔 鱼
 鱿鱼	iu2'yy52	鱿鱼
 蚶	han44	蚶
-且虱	meir?seil2	臭虫
-疑母	sa2l2mo33	蟑螂
-仁蚣	intgoyng	蜈蚣
-黄蚁	uog?'yie242	蚂蚁
-白蚁	pa2'nie42?白蚂蚁
-家雙	kaS2tsie2l2	麻雀
-白鸽	pa21a212	白 鸽
-老涯	Ia32Ine'
-老鹰
-燕囝	ieng'nian33
-燕子
-客鹊	kaS23yo?l2	喜鹊
-口化	ka2ua213	八哥
-猫王鸟	ma2uon?'3eu33	猫头鹰
-乌鸦	44a44
-乌鸦
-鲟	sin52	青蟹
-蛾	tsieP	梭子蟹
-黄瓜鱼	uon21qu4nyS2	黄 花鱼
-虾米	ha2'mi33
-虾皮
-螓囝	liu2iang33
-蚬子
-马胶	ma2"ka44	马鲛 鱼
-蛇	ta213	海蜇皮
-鳜鱼	ku4y52
-鳜鱼
-冬鸡	toyr*gie4	大 墨鱼
-虎鲟	hu2'lig52	蟹类的 一一种
-青整	tsian4no52
-海蚌
-虾菇	ha44u44	一 种贝壳类海产
-车利	tsia2lei?13
-海蚯蚓
-鲎	hau213	鲎
-鳖	pierl2	甲 鱼
-龟	kui44
-龟
-蛏	tein44	蛏
-甸囝	ks52iany33
-小鱼干
-鱼鲞	gy2"lyoy33	剖开晾干的鱼
-跳鱼	tiu4ay52	鲦鱼
-八蛎	peir tie242
-牡蛎
-鳝	tsian242	鱔 鱼
-鱿鱼	iu2'yy52	鱿鱼
-蚶	han44	蚶
+p1303L
 章鱼	tsyonoy'2	章鱼
-八、植物
-籼	tiu242
-稻子
-粟	tsuo2l2	谷子
-稗	p'e213
-稗子
-秫粟	su?2 tstuo?l2	糯谷
-糊米	si21mi33	粳米
+#八、植物
+籼	tiu242	稻子
+粟*	tsuo2l2	谷子
+稗	p'e213	稗子
+秫粟*	su?2 tstuo?l2	糯谷
+𬖞米	si21mi33	粳米
 番薯	huang4nyS2	红薯
 番囝薯	huang2'nian2'nyS2	马铃 薯
 番柿	huap52kei242	西红柿
 芋卵	uo2-louy242	芋 头
-姜母	kyor52m33
-母姜
-鼎	tia443oe213	丝瓜
-pu52	葫芦瓜
+姜母	kyor52m33	母姜
+鼎𰱗	tia443oe213	丝瓜
+☐	pu52	葫芦瓜
 金瓜	kitg4oua44	南 瓜
 萝卜	1a44Bu?萝卜
-蕹菜	uy523ai213
-空心菜
+蕹菜	uy523ai213	空心菜
 茭笋	ka'21ug33	茭笋
 番椒	huang*siu44	辣椒
 芥菜	kuaS23ai213	芥菜
-深	piu52	浮萍
+薸	piu52	浮萍
 包菜	paus23ai213	洋白菜
-紫菜	tse*sai213
-茄子
+紫菜	tse*sai213	茄子
 莓梨	mui2152	荸荠
 龙眼	loug?'neig3	龙眼
 荔枝	le43ie44	荔枝
 芭蕉	a*siu44	香蕉
-pau44
-柚子
-口红	tsuo2uy2	杨梅
+☐	pau44	柚子%原书☐处为空
+☐红	tsuo2uy2	杨梅
 番石榴	huan'nyoliu52	番石榴
-黄郑	uog2'nan'
-2	黄皮果
-栗子	li?2tsi33
-栗子
-杉树	sarg23ju
-13
-杉树
+黄郑	uog2'nan'2		黄皮果
+栗子	li?2tsi33	栗子
+杉树*	sarg23ju13	杉树
 梧桐	nu2lun52	梧桐
 松柏	syo2'ma?l2	松树
 麻竹	ma2"leypl2	毛竹
-树箬	tiutnyor'树叶
-树桠	tuiu4ne44	树枝
-栽树	tsaif2tsiu213	种树
+p1303R
+树*箬	tiutnyor'树叶
+树*桠	tuiu4ne44	树枝
+栽树*	tsaif2tsiu213	种树
 菜栽	tai4sai44	菜苗
-树栽	tsiu43ai44	树苗
+树*栽	tsiu43ai44	树苗
 茉莉	moy?lei42茉莉花
-九、人品
+#九、人品
 丈夫侬	toun21 muod4noyn52	男人
 诸娘依	tsy4yoygnoy52	女人
-老依	lautnoyny2	老人
-老货	lau2huo213	老人 (贬)
-丈夫依老	tou'muonoy2"lau242	老男人
-诸娘老	tsy52nyog21au242 老女人
+老*侬	lautnoyny2	老人
+老*货	lau2huo213	老人 (贬)
+丈*夫*侬老*	tou'muonoy2"lau242	老男人
+诸娘老*	tsy52nyog21au242 老女人
 单身哥	tanz2nig4o44	单身汉
 守妈	tsiu24ma33	寡妇
-悬哥	kin4944	高个子
+悬*哥	kin4944	高个子
 矮囝	e24ian33	矮个子
 汉码大	han21 mat*tuai242	大个子
-隔壁厝	ka2"pia2zuo213	邻居
+隔壁*厝	ka2"pia2zuo213	邻居
 厝边	tsu4Sieng	邻居
-丈夫囝	toun21 muo52ian33
-男孩子
+丈*夫*囝	toun21 muo52ian33	男孩子
 诸娘囝	tsy"noy**nian33 女孩 子
 伲囝哥	neZia2'no44	小孩子
 新妇囝	sing2'mus2ian33	童养 媳
-厝脊	ta2'zuo023ei?l2	老 处女
+☐厝脊	ta2'zuo023ei?l2	老 处女%原书☐处为空
 谊女	gie"ny33	婢女
-谊囝	pie2liarg3
-干儿子
+谊囝	pie2liarg3	干儿子
 白面	pa2'mein213	妓女
-歹囝	par24ian33
-流氓
-呆囝	gai24ian33	学坏的人
+歹*囝	par24ian33	流氓
+呆*囝	gai24ian33	学坏的人
 好囝	ha24ian33	学好的人
-歌囝	Doun21 pian33
-傻子
-两个声	la"ga2lian4	不会讲 本地话的人
-掌盘使	tsyon4
-21 nai213
-掌柜的
+𪴯囝	Doun21 pian33	傻子
+两*个声	la"ga2lian4	不会讲 本地话的人
+掌盘使	tsyon421 nai213	掌柜的
 长年	toug2'nien52	长工
-煮食	tsy2'lie?
-煮饭婆
-宝口奶	p24u2*ne33	接生婆
+煮*食*	tsy2'lie?	煮饭婆
+p1304L
+宝☐奶	p24u2*ne33	接生婆
 铜子	toyn233	神汉
-口口妈	1232*ma33
-招魂女人
-厨司付	tuo21a52ou
-242
-厨师
+☐☐妈	1232*ma33	招魂女人
+厨司付	tuo21a52ou242	厨师
 赌博鬼	tu2'poup'kui3	惯赌
-甲哥	ka?l2ks44
-搬运工
+甲哥	ka?l2ks44	搬运工
 和头	huo2'laus2	和事老
-新新妇	sig21 ning2 mou242
-新娘
+新新妇	sig21 ning2 mou242	新娘
 新郎使	sin'2noug2'na213	新郎
-乞食	ky2l-sie?乞丐
-十、称谓
-大公	tuai44 ug44
-曾祖父
-大妈	tuai21 mai
-曾祖母
-依公(4kun4	祖父
-依妈	i52ma33
-祖母
-伯公	patun4
-伯祖父
-姆妈	mu24ma33
-伯祖母
+乞食*	ky2l-sie?乞丐
+#十、称谓
+大公	tuai44 ug44	曾祖父
+大妈	tuai21 mai	曾祖母
+依公	4kun4	祖父
+依妈	i52ma33	祖母
+伯公	patun4	伯祖父
+姆妈	mu24ma33	伯祖母
 叔公	tsy?l2kug44	叔祖父
-婶妈	sin34 ma
-叔祖母
+婶妈	sin34 ma	叔祖母
 郎爸	nouy2'ma242	父親
-依爹	f4tia44
-父親
-娘奶	noug21 ne
-母親
+依爹	f4tia44	父親
+娘奶	noug21 ne	母親
 依奶	iS2ne33	母親
-依伯	i52pa?l2
-伯父
-依母	i52mu
-伯母
+依伯	i52pa?l2	伯父
+依母	i52mu	伯母
 依家	44ka44	叔叔
 家婶	ka521in33	婶子
-外公	nie'*ung4
-外祖父
-外妈	nie2'ma3
-外祖母
-依舅:52kiu242	舅父
-依妗;52kein342
-舅母
-姨姨?4:52	姨母
-姨丈?llyon342
-姨丈
-姑妈	ku4*ma
-姑母
+外*公	nie'*ung4	外祖父
+外*妈	nie2'ma3	外祖母
+依舅	52kiu242	舅父
+依妗	52kein342	舅母
+姨姨	4:52	姨母
+姨丈	llyon342	姨丈
+姑妈	ku4*ma	姑母
 姑丈	ku21yor342	姑丈
-依姐:52tsia33	姐姐
+依姐	52tsia33	姐姐
 姐夫	tsia21u44	姐夫
-依妹:52mui213	妹妹
+p1304R
+依妹	52mui213	妹妹
 妹夫	mui44u44	妹夫
 依哥	44k44	哥哥
 依嫂	5233	嫂子
 依弟	52tie242	弟弟
-弟人	te4in52	弟媳
+弟人**	te4in52	弟媳
 爹官	te44uan44	公公
 爹家	te44a44	婆婆
-囝	kiag33
-儿子
+囝	kiag33	儿子
 新妇	sig'2mou242	儿媳
-孙	soun44
-孙子，娃儿
-外甥	gie4leig44
-外甥
-外孙	petloun44	外孙
+孙	soun44	孙子，娃儿
+外*甥	gie4leig44	外甥
+外*孙	petloun44	外孙
 孙孙囝	sou21 nouy52nian33	曾 孙
 丈侬	tyon2'noyn52	岳父
-丈奶	tyon24ne33
-岳母
-叔婶伯罕	tsyp-2sin21 pa52ay3)
-妯娌
+丈奶	tyon24ne33	岳母
+叔婶伯罕	tsyp-2sin21 pa52ay3)	妯娌
 兄弟哥	hian'niet44	弟兄
-姐妹	tsia44 mui213
-姐妹
-郎爸囝	noun21 maS2ian3
-父子
+姐妹	tsia44 mui213	姐妹
+郎爸囝	noun21 maS2ian3	父子
 娘奶囝	nyon2'ne24ian33	母子
-老公妈	la2'u52ma33
-夫妻
-十一、饮食
-食早	sie?2 tsia33
-吃早饭
-食昼	sie?tau213	吃午 饭
-食暝	sie? 'may52
-吃晚饭
+老*公妈	la2'u52ma33	夫妻
+#十一、饮食
+食*早*	sie?2 tsia33	吃早饭
+食*昼*	sie?tau213	吃午 饭
+食*暝	sie? 'may52	吃晚饭
 糜粥	mui'say?l2	稀 饭
-憔饭	tas2Buon342	干饭
-漉饭	layPpuog242	捞 饭
-清饭	tsin52 muon?
-n342 冷饭
-糗饭	kiuS2puop242	硬饭
-碎食	tsoy44lie?'零 食
-煽饭	hi? puog242	焖饭
+燋饭*	tas2Buon342	干饭
+漉饭*	layPpuog242	捞 饭
+凊饭*	tsin52 muon?n342 冷饭
+𣗬饭*	kiuS2puop242	硬饭
+碎食*	tsoy44lie?'零 食
+熻饭*	hi? puog242	焖饭
 焖饭	mun2'puop242	焖饭
 乇配	n52ui213	下 饭菜
-白糊	pa41iS2	白 棵
-糖糊	toun'oui3
-甜糕
+白𬖞	pa41iS2	白 棵
+p1305L
+糖粿	toun'oui3	甜糕
 扁肉	pien2'nyP'馄饨
 蹄库	te2"kou213	猪蹄膀 上的肉
 下水	a23y33	鸡鸭内胼
@@ -640,80 +510,72 @@ n342 冷饭
 春饼	tsus52mian33	春卷
 燕皮	ien"puis2	瘦 肉制的馄饨皮
 肥肉	puit4ny?'肥肉
-瘠肉	sein2'nyP	瘦肉
-口老	muan44133	猪舌
-猪散	ty44ka44	猪脚
-猪骸爪	ty2laS2sau33
-猪脚的前半部
-散柄	kas2Ban213	猪 脚的后半部
+㾪肉	sein2'nyP	瘦肉
+☐老	muan44133	猪舌
+猪骹	ty44ka44	猪脚
+猪骹爪	ty2laS2sau33	猪脚的前半部
+骹柄	kas2Ban213	猪 脚的后半部
 肉绒	ny?yo52	肉松
 鱼丸	ny2'uop52	鱼丸
-鱼面	oy2'mien242
-鱼面
+鱼面	oy2'mien242	鱼面
 线面	sianf2miep242	线面
 豆腐	ta2Lou242	豆腐
 皮卵	p'ul2loug242	松花蛋
-腹里	pu?l-tie33	动物内胼
-煤卵	sa?louy242	清水煮蛋
+腹*里*	pu?l-tie33	动物内胼
+煠卵*	sa?louy242	清水煮蛋
 豉油	se4iu52	酱 油
 文饼	ug2'mian33	油炸的 面粉条
 卵包	loug#mau44	荷包蛋
-冰箸	pin?2toy24
-冰棒
-聚茶	kig2'taS2	倒茶
-食茶	sie?ta52	喝茶
-食薰	sie?"houng	抽烟
-食酒	sie? tsiu'
-3	喝酒
-食饭	sie? puon342	吃饭
+冰箸	pin?2toy24	冰棒
+漀茶	kig2'taS2	倒茶
+食*茶	sie?ta52	喝茶
+食*薰	sie?"houng	抽烟
+食*酒	sie? tsiu'3	喝酒
+食*饭*	sie? puon342	吃饭
 豆干	tauuan44	硬些的 豆腐
 香干	hyon*nan4	浈豆腐干
-十二、起居
+#十二、起居
 爬起	pa2k;33	起来
 洗面	se44meig213	洗 脸
 洗汤	se2loup44	洗澡
+p1305R
 洗牙齿	se*n2:;3	刷牙
 澉身	kang'niqg4	擦身
 泡茶	pau'ta52	沏茶
 颂衣裳	sy2:44lyoy52	穿衣服
 褪衣裳	toup24lyo*92	脱衣服
-行译	kian21 tuo242
-走路
-客踊	k4iu52	玩耍
-去街	k4ke44	上街
-去斋	k**3e44	上学
-腾	ts'uy33	打瞌睡
+行*𰉣	kian21 tuo242	走路
+客蹓	k4iu52	玩耍
+去*街	k4ke44	上街
+去*斋	k**3e44	上学
+睶	ts'uy33	打瞌睡
 转厝	tuoytstuo213	回家
-做依客	tstnoyo2"na2	做客
+做依客*	tstnoyo2"na2	做客
 剃头	telau52	理发
-困昼	koun52nau213
-午睡
+睏昼	koun52nau213	午睡
 狂眠	kuor3'min52	讲梦 话
-腹老空	pu25koy044
-肚子饿
-扫曆	saus23uo213	扫地
-好困	hs4soun213
-好睡
-爾绘着	koug313met*lyo?'睡不着
-毛眠咽	ma3'mig2'nou2I3	睡不着
-清醒	tsin52sian33	睡 醒
+腹*老空*	pu25koy044	肚子饿
+扫厝	saus23uo213	扫地
+好睏	hs4soun213	好睡
+睏𫧃着	koug313met*lyo?'睡不着
+毛眠睏	ma3'mig2'nou2I3	睡不着
+清醒*	tsin52sian33	睡 醒
 门头	muon2'nau52	送礼
 熬暝	no32'ma52	熬夜
 拉尿	na2'niu242	拉尿
 拉屎	na2'sai33	拉屎
 摒粪倒	pian2'pug2n213	倒垃圾
-十三、服
-饰
+#十三、服饰
 衣裳	i#tyo52	衣服， 上衣
-衣裳衫颂?l"lyon21 nay'noyn242	衣衫
+衣裳衫颂	?l"lyon21 nay'noyn242	衣衫
 裤	kou213	裤子
 裤郎囝	kuSloun2'pian33	短裤
-半长裤	puaf4noun321 gou213
-短裤
-放斗裤	pug2lnauf4ou213 开 裆裤
-颂困裤	syn2'ypou52nou213 睡 裤
+半长裤	puaf4noun321 gou213	短裤
+放*斗裤	pug2lnauf4ou213 开 裆裤
+颂睏裤	syn2'ypou52nou213 睡 裤
 裙	kun52	裙子
 背心	pi4ing4	背心
+p1306L
 汗槨	kan}'loug33	汗衣
 羊毛榔	yon2'm3-louy33	羊毛衣
 背褡	pui52la?l2	背心
