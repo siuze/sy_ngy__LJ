@@ -30,7 +30,7 @@
 呆*天	gai'lien44	坏天气
 天晴	tieg4san52	晴天
 阴乌天	ein2'u4lien44	阴天
-⿺辶𠃓雨天	tou2'toy2'lieng4	下雨天%逷盪
+𰺲雨天	tou2'toy2'lieng4	下雨天%逷盪
 天暖	trien44nuog33	天 气暖和
 天凉	tiefg41yon52	天 气凉爽
 二八天	ni2lBei?l2rieng44	春 秋冷暖适宜天气
@@ -47,7 +47,7 @@
 做溪水	ts32ke23y33山洪爆发
 做风𱃗	tso3'hun'nai14刮台风
 风𱃗气	hun21 naiS2kei213	有 刮台风的征象
-⿺辶𠃓雨	toug2lgy33	下雨%逷盪
+𰺲雨	toug2lgy33	下雨%逷盪
 雷雨	lai2ly33	雷 阵雨
 雷公响	lait4ug4hyong33	响雷
 雷霎	lai2'sia?l2 闪电
@@ -55,7 +55,7 @@
 濛濛雨	muy2'muy52ny33 毛 毛雨
 霉雨	mui21y33	连日 下雨
 晡时雨	puos21:21y33阵雨
-⿺辶𠃓晡时	toun2lpu441:52	下 阵雨%逷盪
+𰺲晡时	toun2lpu441:52	下 阵雨%逷盪
 沃雨	uos2y3淋雨
 过𣆯雨	kuo52oug2'ny33	短暂 下雨
 风丝	hu4si44	微风
@@ -67,7 +67,7 @@
 #p1299L
 珍珠雪	tsio521uo22	小粒雪
 龙雹*	lyn*poyp'冰雹
-⿺辶𠃓雹*	tuofpropf	下冰雹%逷盪
+𰺲雹*	tuofpropf	下冰雹%逷盪
 地牛转肩	tftuo'rio	地震
 露水	1u523y33	露水
 天光	teg*kuon44	天亮
@@ -629,750 +629,576 @@ p1306L
 鼻	pei13	鼻子
 耳*	gei42	耳朵
 喙	tsui213	嘴
-喙皮	tul4Buis	嘴唇
-牙	na21:33	牙齿
+喙皮*	tul4Buis	嘴唇
+牙齿	na21:33	牙齿
 喙舌	tuttie	舌头
-喙鬃	tsuif41iu44	胡须
-下颏	a4hais2
-下巴
+喙⿱髟须	tsuif41iu44	胡须%鬚
+下颏	a4hais2	下巴
 喉咙	he2loyu52	喉咙
-胆胞	tau2Luor22	脖子
+脰𦜩	tau2Luor22	脖子
 心肝	sinynan44	胸部
 六条骨	loy?teu2bou?l2 肋骨
-朧	neip52	乳房
-腹老	pu2133	肚子
-腹脐	pu2l2sai52	肚脐
+𬂌	neip52	乳房
+腹*老	pu2133	肚子
+腹*脐*	pu2l2sai52	肚脐
 手肚	tsiu241u33	手臂
 胳洛下	ko?4lou?a242	腋下
-巴掌	pa523yon33
-手掌
+巴掌	pa523yon33	手掌
 掌指	tsien2*3ai33 手指
 掌甲	tsieg*na?l2	指甲
-掌头母	tsien2*nau21m33	大 母指
-鸡角指	kie2'oy?l2tsai33
-食指
-台中指	tai2lbuy52tsa33
-中指
-无名指	m32'mian2'sai33	无名指
-尾掌指	mui21sien243ai33	小指
-胶肚囝	ka21u24ian33	小腿
-餃骯	ka44 nan44
-脚后跟
-散口底	ka2'syo2*1e33	脚底
-骸目腡	ka21 mirftsiu44	脚踝
-骸腹头	ka2Bu?l-tau52
-膝盖
-胶掌指	kalsien243ai33	脚指
-散柄下	ka2Bar52na242	胯 下
+掌头母*	tsien2*nau21m33	大 母指
+鸡角指*	kie2'oy?l2tsai33	食指
+台中*指*	tai2lbuy52tsa33	中指
+无*名*指*	m32'mian2'sai33	无名指
+尾掌指*	mui21sien243ai33	小指
+骹肚囝	ka21u24ian33	小腿
+骹𩨑	ka44 nan44	脚后跟
+骹☐底	ka2'syo2*1e33	脚底
+骹目睭	ka21 mirftsiu44	脚踝
+骹腹*头*	ka2Bu?l-tau52	膝盖
+骹掌指*	kalsien243ai33	脚指
+骹柄下	ka2Bar52na242	胯 下
 股川	ku2'3yon44	屁股
+#p1307L
 肾脬	lng*p'a44	阴囊
 肾核子	lng'ouor?ts33	睾丸
-睃友	noy2*iu33
-男阴
-婴軛	tsiS2Be3
-女阴
-目滓	moyr2 tsai33
-眼泪
-鼻口	pi51ce52
-鼻涕
-鼻屎	pi52lai33
-鼻精(干结的鼻涕)
-嘲	lan33	口水
+朘友	noy2*iu33	男阴
+姕𱂮	tsiS2Be3女阴%䫌	
+目滓	moyr2 tsai33	眼泪
+鼻☐	pi51ce52	鼻涕
+鼻屎	pi52lai33	鼻精(干结的鼻涕)
+𪢌	lan33	口水
 苦毛	ku2'mo52	毫毛
-十五、疾病
-破病	puai52pag242
-生病
-无力口	ma2'nirPaiS2	不舒服，病了
-噢亏	ki2l2kui44	难受
-看病	kan'2pan242	医病
-牧病	muo? pan242
-医病
-惊清	kians2tsein213	怕冷
+#十五、疾病
+破*病*	puai52pag242	生病
+无*力*☐	ma2'nirPaiS2	不舒服，病了
+喫亏	ki2l2kui44	难受
+看病*	kan'2pan242	医病
+牧病*	muo? pan242	医病
+惊凊	kians2tsein213	怕冷
 嗽	sau213	咳嗽
 吐	tou213	呕吐
-病泻	pan21 nia213
-拉肚子
+病泻	pan21 nia213	拉肚子
 过	kuo213 传染
 发烧	hua2l2siu44	发热
-头眩	tauS2hing2	头晕
-生癥	sanyS2huon213
-长疖子
-生痱	sany2pui213
-长痱子
-拍腹寒	pa2"pu2l2kan52	打摆子
-病疳	pan44kan44
-疳积
-病囝	pan21 pian33
-害喜
+头*眩*	tauS2hing2	头晕
+生*𭼕	sanyS2huon213	长疖子
+生*痱	sany2pui213	长痱子
+拍*腹*寒*	pa2"pu2l2kan52	打摆子
+病疳	pan44kan44	疳积
+病囝	pan21 pian33	害喜
 病腿	pan2'toy33	麻 疯病
-生瘸瘥	sas52k321242	长疥疮
+生*㾸𤶁	sas52k321242	长疥疮
 生疥	san52ke213	长疥疮
-病哑	pan2'ga33
-哑巴
+病哑	pan2'ga33	哑巴
 耳聋	ifloy2	耳朵聋
-眚盲	tsanf*mag
-52 眼瞎
+眚盲	tsanf*mag52 眼瞎
 光瞎	kuop52qa?l2	青 光眼
 缺喙	kiertsui213	豁唇
-病颤疯	par2isegou4	肢体 颤抖
+病*颤疯	par2isegou4	肢体 颤抖
+#p1307R
 瘌头	la2l2tau52	秃头
 麻面	ma2'mein213	麻脸
-大舌口	tuai2lie? poe33
-口吃
+大舌☐	tuai2lie? poe33	口吃
 出铺	tsu2l2puo44	出麻疹
-出水珠	tsup?2tsy'3uo44
-出水痘
+出水珠	tsup?2tsy'3uo44	出水痘
 中风	tyo44oug4	脑溢 血
-摆散	pai?lka44
-跛脚
+摆骹	pai?lka44	跛脚
 弯髀	uan4piang4	驼背
-羊眩	yop2"hig52	羊 癫病
+羊眩*	yop2"hig52	羊 癫病
 冻子	toy5233	冻疮
-口肠头	tou?'s toun3'naus2	疝气
+☐肠头	tou?'s toun3'naus2	疝气
 结肠	kierl2tyor52 便秘
-啡血	pui5SheiPl2
-吐血
-发核	puor"hou?'鼠疫
+啡血	pui5SheiPl2	吐血
+发*核	puor"hou?'鼠疫
 泼尿	puarfniu242	泄尿
 拈药	nienfyo?'抓药
 食药	sieP'yo?'服药
 破相	ps52lyon213	五官 缺陷
-十六、风俗
+#十六、风俗
 讨親	t2-3in44	娶親
 讨新妇	t321ig52mou242	娶 媳妇
 做新妇	ts3'Iin$2mou242 出嫁
-出门	tsu2l2muon52
-出嫁
+出门	tsu2l2muon52	出嫁
 过门	kuo#muon52	出嫁
 送门头	soyn*muo'naus52	送礼
 做十	tsssirs	做寿
-做晔	ts52tsoy213	庆婴儿周 岁
+做晬	ts52tsoy213	庆婴儿周 岁
 做三旦	ts-sasy5Snan213	庆婴 儿出生三天
-做满月	ts21 muan21 guop'庆 婴儿出生一个
-月
-生去	sing4n213
-死去
-过后	kuo52au242
-去世
-收口	su4liP	收殓
+做满月	ts21 muan21 guop'庆 婴儿出生一个月
+生去*	sing4n213	死去
+过后	kuo52au242	去世
+收☐	su4liP	收殓
 进葬	tsiry23ou3213	出葬
 头七	tau2'seipl2 人 死后第七天祭奠
 断七	toun2'seirl2	人死后 第四十九天祭奠
 安三	a44nan4	葬后第三天 上墓山祭奠
-磐纸	ta2ai3	扫墓 后把冥钱压在坟头
+硩纸	ta2ai3	扫墓 后把冥钱压在坟头
 地理先生	ti'ignang	看风水选墓址的
 道士	t2la242	祭奠死者时念经的道士
-金银箔	kig4oyo"4 morS
-冥钱
-元宝箔	guon21 m3'sPS
-冥钱
+金银箔	kig4oyo"4 morS	冥钱
+元宝箔	guon21 m3'sPS	冥钱
 香线	hyoyg52nian213	香
 糙衫	ts'4an44	麻衣
-断杖	toug21 nyor242
-哭丧棒
+断杖	toug21 nyor242	哭丧棒
 筅堂	tsein21 nour52	过年大扫除
 做年	ts4nieng2	过年
-磐岁钱	xa24uif4sieg52
-压岁钱
+硩岁钱	xa24uif4sieg52	压岁钱
 字运	tsi24ouy242 运气
-过运	kuo52ouy242
-度过厄运
+过运	kuo52ouy242	度过厄运
 公婆龛	kug4m44kan44	祖 宗牌位
 行第	ouz21ne242	辈份
-十七、农
-事
+#十七、农事
 粪池	pun44nie2	粪池， 厕所
-镰锲	lieng?"nei?l2
-镰刀
+镰𬭴	lieng?"nei?l2	镰刀
 播田	puo4*sein52	插秧
-薅草	hau52sau33
-除草
-割釉	ka?ftiu242
-割稻子
+薅草	hau52sau33	除草
+割粙	ka?ftiu242	割稻子
 做田	totsein52	种田
-饲牛	tsit4tu52	看牛
-拾猪屎	kal2ty52lai33	拣猪 粪
+饲*牛	tsit4tu52	看牛
+拾*猪屎	kal2ty52lai33	拣猪 粪
 棕蓑	tsoy'*nai44	蓑衣
 扁担	pieg2'nang4	扁挑
-沃料	uo52leu24
-浇肥
-曝栗	p'uo2"3uo?12
-晒谷子
-栽菜	tas2tsai213
-种菜
-磐番薯	ta2Luang4ny52	种番 薯
-拾柴	ka2l2tsia52	砍柴火
-判树	tsoy2tsSu213	砍树
-摔釉	soy?tiu242	打谷子
-牛栏	qu2"lang2
-牛栏
+沃料	uo52leu24	浇肥
+曝栗	p'uo2"3uo?12	晒谷子
+栽菜	tas2tsai213	种菜
+硩番薯	ta2Luang4ny52	种番 薯
+拾*柴	ka2l2tsia52	砍柴火
+剉树*	tsoy2tsSu213	砍树
+摔粙	soy?tiu242	打谷子
+牛栏	qu2"lang2	牛栏
 鸡宿	kie2liu2413	鸡窝
 擦番薯米	tia?2huayg2ny2*m33	刨番 薯丝
-犁	1e52
-犁
+#p1308R
+犁	1e52	犁
 耙	pa242 松土，碎土
-粪口	u*tsia2'粪勺
+粪☐	u*tsia2'粪勺
 涂箕	44:44	土箕
 水车	tsy)"3ia44	水车
-水碓	tsy4ai213	水力 带动碾米、磨麦的机
-器
+水碓	tsy4ai213	水力 带动碾米、磨麦的机器
 麦房	ma4Buy52	磨麦作坊
-十八、工艺
+#十八、工艺
 做度绳	ts2+u4i52	盖 房屋司付
-做细桌	ts2's5210?12
-制木器司付
+做细桌	ts2's5210?12	制木器司付
 衣裳司付	2"lyog21na2ou242	做 衣服司付
 做涂司付	ts4qs2s?2ou242	泥水匠
 厨司付	tuo2"1aS2ou242	厨师
 做竹司付	ts2toyey2s2u242	竹 器匠
-拍铁	pa2tie2	打铁
-拍石	pat4lyor' 打石头
-侩桶	ka?l2toyr33	制桶
+拍*铁	pa2tie2	打铁
+拍*石*	pat4lyor' 打石头
+佮桶	ka?l2toyr33	制桶
 拍席	pa44ts'yor'编草席
-鞘鞋	tsyog44e52
-把鞋帮、鞋底缝合成鞋
+鞝鞋	tsyog44e52	把鞋帮、鞋底缝合成鞋
 拾搭厝	ka2la?'tstuo213	修理 房屋
 起厝	ktsuo213	盖房屋
 弹棉	tan21mier52	弹 棉花
 箍桶	ku'toyo33	箍桶
 铸鼎	tsuoS2tian33	铸锅
-补鼎	puc
-o24tian33 补锅
+补鼎	puco24tian33 补锅
 针黹	tsein23i33 做针线活
-副墙	le2tsyoy'2	砌墙
-砌墙	tsie?l'ts'yoy'2
-砌墙
-副灶	letsau213	砌灶
+㔏墙	le2tsyoy'2	砌墙
+砌墙	tsie?l'ts'yoy'2	砌墙
+㔏灶	letsau213	砌灶
 拍金	pa*king4	打金首饰
-拍锡	pas2
-seip12
-打锡制品
+拍锡	pas2seip12	打锡制品
 搭被	tar?pu242	缝 被子
-组衣裳	ten2'4lyoy02
-缝衣服
-铰布	ka2puo2
-213
-剪布
-做饼	ts52piay33
-制饼
+𬘜衣裳	ten2'4lyoy02	缝衣服
+铰布	ka2puo2213	剪布
+做饼	ts52piay33	制饼
 做竹	ts52toyp)2)制竹器
-破篾	puail#mie?破竹子
-十九、商业
+#1309L
+破*篾	puail#mie?破竹子
+#十九、商业
 做生意	ts2-lein'ne23	做生意
 老板	lz"'peig33	老板
 伙计	hu4ei213	伙计
 师兄	saitiang44	伙计， 学徒
-京果店	king'ou4lein213
-食品干果店
+京果店	king'ou4lein213	食品干果店
 苏纺店	su2uongfnein213	百 货店
 酱园店	tsyo"ouo?'nein213	酱制食品店
-药材店	yo'sai"leig213
-中药铺
+药材店	yo'sai"leig213	中药铺
 退衣店	t321:521ein213	估 衣店
 馆店	kuanf*neig213	菜馆
 剃头店	tielaua'leig213	理发店
-客栈	kas23ian342
-旅社
-茶店	talleig?
-茶馆
-孩店	hai2l1lein213	陶瓷 器店
+客栈	kas23ian342	旅社
+茶店	talleig?	茶馆
+硋店	hai2l1lein213	陶瓷 器店
 数簿桌	su2Bu0o5215242	账房
 柜头	kuit4lau52	柜台
 番钱	huansien'2	银圆
-银角	nyn"noy?12
-小银圆
+银角	nyn"noy?12	小银圆
 铜片	toy?'pien213	小铜钱
 工钱	koy4sien'2	工资
-花采钱	hua23sai"sieo52
-小费
+花采钱	hua23sai"sieo52	小费
 趁钱	totsies	赚钱
 折本	sie? puog33	亏本
-讲价	kouo44ka213
-讲价钱
+讲价	kouo44ka213	讲价钱
 起价	ki*4a213	涨价
 填价	tig2'ka213	还价， 讨价
-倩工	tiankoyn44
-雇工
+倩工	tiankoyn44	雇工
 籴米	tier?mi33	买米
 粜粟	tiu2tsuo?l2	卖谷子
-碎钱	tsoysiens
-零钱
+碎钱	tsoysiens	零钱
 权钱	kuo2'sieg52	整钱
 欠数	kieo*2nou213	欠账
-赊数	sia*2lou213
-赊账
+赊数	sia*2lou213	赊账
 倒街	t32ke44	商品过剩
 拍倒店	pl2*f4tig?32	店铺倒闭
+p1309R
 成花	sanyftu*4	成交
-二十、文教
+#二十、文教
 学堂	hou?toug2	学校
-去斋	k44tse44	上学
+去*斋	k44tse44	上学
 上堂	syon*toup52	上课
-落堂	Io*lbu52
-下课
-放昼	pup52
-'nau2
-213 放午学
+落堂	Io*lbu52	下课
+放*昼*	pup52'nau2213 放午学
 放暝	pug*man52	放晚学
 背书	put4tsy4	背诵课文
-水笔	tsyBeipl2
-毛笔
+水笔	tsyBeipl2	毛笔
 洋笔	yon2'meil2	铅笔
-几何车	k443ia44
-圆规
+几何车	k443ia44	圆规
 簿簿	puo2"puo242	练习本
-做码	ts52ma33
-考书做弊
+做码	ts52ma33	考书做弊
 鸭母卵	a?Qnobun242	考书得零分
-头名	tau2'mianS2	第一名
-尾名	mui2'miary52
-最后一名
-关昼	kuoy*nau213	中午不让学 生放学
-关暝	kuong*man52	下午不让学 生放学
-简堂	kiet#loup52	站着 上课
-走走搦	tsau'tsu'nier'-种追 抓跑者的游
-戏
-屈屈密	ku2lku2meir'一种寻找躲藏者的
-游戏
-抛粪斗	pa2"puz2*nau33	打滚翻
-行棋	kiag'ki52	下棋
-放纸鹞	pur'tsai*4iu242 放风筝
+头*名*	tau2'mianS2	第一名
+尾名	mui2'miary52	最后一名
+关*昼*	kuoy*nau213	中午不让学 生放学
+关*暝	kuong*man52	下午不让学 生放学
+徛堂	kiet#loup52	站着 上课
+走*走*搦	tsau'tsu'nier'-种追 抓跑者的游戏
+屈屈密	ku2lku2meir'一种寻找躲藏者的游戏
+抛*粪斗	pa2"puz2*nau33	打滚翻
+行*棋	kiag'ki52	下棋
+放*纸鹞	pur'tsai*4iu242 放风筝
 舞龙	2"lyu52	舞龙
-拍狮	pa1ai44	舞 狮子
-泅水	siu2'3y33
-游泳
+拍*狮	pa1ai44	舞 狮子
+泅水	siu2'3y33	游泳
 做戏	ts5hie213	演戏
-拍打	pa*21a33	武打
-促唱	tsie523yon213
-有伴奏的民间戏曲演唱
-十番识	sier2 huan4tsie4	民间音乐合奏
-锣鼓板	121u24Bein33	锣 鼓钹等民间敲打乐
-器合奏
+拍*打	pa*21a33	武打
+伬唱	tsie523yon213	有伴奏的民间戏曲演唱
+十番伬	sier2 huan4tsie4	民间音乐合奏
+锣鼓板	121u24Bein33	锣 鼓钹等民间敲打乐器合奏
+#p1310
 批	pie44	信
 批袋	pieS2loy242	信封
-批纸	pie523ai33
-信笺
+批纸	pie523ai33	信笺
 批肉	piet4nypS	信封 里的信
-二十一、动作
-覷	tsoy213	看
+#二十一、动作
+觑	tsoy213	看
 望	moun342	看
-盼	he33	怒视， 白眼
-相	syon?
-13
-细看
-sau33	快看
-tia?l2
-眨眼
-眙	keirl2	闭眼
-口鼻	taupei213	擤鼻涕
-Otsoypl2	吻
+盻	he33	怒视， 白眼
+相	syon?13	细看
+☐	sau33	快看
+☐	tia?l2	眨眼
+䀫	keirl2	闭眼
+☐鼻	taupei213	擤鼻涕
+☐	Otsoypl2	吻
 啜	tsuo?l2	喝
-味	so?l2	吮吸
-嗌	puy52	吹
+𠲿	so?l2	吮吸
+㖹	puy52	吹
 嗅	hiu213	闻
 告	koe213	叫
 吼	hau33	招呼
 告叫	koe5kiu213	大声喊叫
-Oke33	啃
-Oka242	咬
-曝	po22	骂
-憷	ts'oe'
-呵叱
-卯	mau3
-闭唇
-啡啊斓	pui2lag33	吐口水
-诅	tsou'
-咒骂
+☐	Oke33	啃
+☐	Oka242	咬
+嚗	po22	骂
+𠿝	ts'oe'	呵叱
+𠰭	mau3	闭唇
+啡𪢌𪢌	pui2lag33	吐口水%原书重字
+诅	tsou'	咒骂
 诅喙	tsu23ui213	赌咒
-嚼	tsyo?'
-咀嚼
-玛	ma4	五指抓
-撚	noun52
-两指揉
+嚼	tsyo?'	咀嚼
+𫼗	ma4	五指抓
+撚	noun52	两指揉
 掇	tou?l2	端
-摔	tsou?22	扯
-t mo'
-213 敲打
-繡	soy?l2	摔打
+捽	tsou?22	扯
+𢯾	mo'213 敲打
+𪮋	soy?l2	摔打
 捭	pi44	拉
-物	u	挥舞
-谜	soyo
-3	推搡
-换	rian33	推开
-拍	pa?l2	打
+#p1310R
+𢪱	u	挥舞
+𢱤	soyo3	推搡
+捵	rian33	推开
+拍*	pa?l2	打
 捋	lar’挽，摩
-癭	einq44	放
+瘿	einq44	放
 羁	kie44	结，扣
-杯	pou?l2	双手捧
-掼	kuan242
-提
-把	hou?l2	用条物打
-祛	kce33	扔
+抔	pou?l2	双手捧
+掼	kuan242	提
+㧾	hou?l2	用条物打
+抾	kce33	扔
 掏	t52	拿
 拈	nien44	拿
-民	mie4
-削皮
+刡	mie4	削皮
 摒	pian213	倒掉
-Oloug44	拳打
-春	tsyn44	拳打
-橄	tsien44	打入， 挤入
+☐	loug44	拳打
+舂	tsyn44	拳打
+櫼	tsien44	打入， 挤入
 鼓(搅) ku33	搅拌
 抖	teu33	抽打
 克	kei?l2	挤
-誓	ta?l2	压
-口	sa52	乱拿
-盍	kou?' 碰，敲打
+硩	ta?l2	压
+☐	sa52	乱拿
+磕	kou?' 碰，敲打
 扛	koun44	抬
 杠	koup52	肩负
-Okia?'单头挑
-Otie33
-撕
-Ohien213	扔
-口	1liu44	扔
-数	leu33	剜
+☐	kia?'单头挑
+☐	tie33	撕
+☐ hien213	扔
+☐	1liu44	扔
+𫦉	leu33	剜
 挢	kiu242	撬
-满	man44	蒙上
+𰫋	man44	蒙上%䊟
 泯	min44	躲
-固	kou3213
-藏起
-整	b2	套入
+囥	kou3213	藏起
+𦃆	b2	套入
 拭	tsei2l2	擦
 抹	mua22	涂上
-擇	tsoy213	寻找
-行	kian'2	走
-走	tsau
-3	逃
-蹲	pie213	跑
-kiu213	蹲
-踅	suop'旋转
-掭	tu?'刺入
-keipl2
-刺入
+#p1311L
+𢶀	tsoy213	寻找
+行*	kian'2	走
+走*	tsau3	逃
+躃	pie213	跑
+☐	kiu213	蹲
+踅	suop'	旋转
+𢬳	tu?'	刺入%注意字形，原书为⿰扌秃(大陆)，天珩为⿰扌禿(台湾)
+☐	keipl2	刺入
 炬	koy242	点火
-Olei2l2	跳跃
+☐	lei2l2	跳跃
 跞	lou?2	散步
-趣	tso?'
-急奔
+趖	tso?'	急奔
 跋	pua?S	跌
-威	han213	告知
+㰹	han213	告知
 伐	p'ua?跨步
-iaz	招手
-二十二、行为
-给	ka2l2	合作， 合秋
-诈	tsia2l2	溅
-拾	ka?l2	捡
+☐	iaz	招手
+#二十二、行为
+佮	ka2l2	合作， 合秋
+泎	tsia2l2	溅
+拾*	ka?l2	捡
 拣	kcing3	挑选
 匀	yo2	分出
-行动	kian'lnoyp242
-走动
+行*动*	kian'lnoyp242	走动
 对手	toy52jiu33 帮忙
 讲证	kou4tsein213	谈天道地
-讲	DOkouqf4h3213213
-说笑
+讲☐☐	DOkouqf4h3213213	说笑
 讲畅	kountyon213	说着 玩
 碎讲	tsoytouy33	闲聊
-蛮笑	man2'tsiu213
-开玩笑
-解闷	ket*moup242	寻开心， 拿别人开玩笑
-解衰	ke2'soy44
-捉弄人
-刺溪	tie'4ke
-取笑，挖苦别人
+蛮笑	man2'tsiu213	开玩笑
+解*闷	ket*moup242	寻开心， 拿别人开玩笑
+解*衰	ke2'soy44	捉弄人
+刺*溪	tie'4ke	取笑，挖苦别人
 加三码	ka"lay*2ma33	弄虛作假
-保削	p4lyo22
-爱惜，保护
+保削	p4lyo22	爱惜，保护
 容纵	yo?'3oy213	纵容
 做愆	tskieg9	做孽
+#1311R
 做证	ts523eig213	设计使人上当
 做胡	tso44hu52	马虎，骗人
 做死胚	ts21i2+Bui44	耍赖
-做码	ts52ma
-作弊
+做码	ts52ma	作弊
 做水	ts'23y33	食 物中掺水加重
 做呆	ts4nai52	破罐子破摔
 做畅	ts52tyon3213 开玩笑
-做家	tso44a44
-节约
-拍逐	paS2tou3242 丢掉
-拍口	pa2loy?12
-丢掉
-拍无	paS2m52	丢失
-拍通阵	pa2"lbugp*2nein242	迷 路
-拍汤择	pa2"loung52nuo42 迷路
-爆家	pou?-ka44	暴露，败露
-摊拍	tan52ma2l2	排场
-无口	mtsyor	不理 睬
-无察	mo2'tsia2l2	不管
-拨醒	pual-tsian33	经点拨醒悟
-变面	piegy'mein13	翻脸
-问算	muopf2noun213	责问
-拍算	paS2loug213	打算
-褪沏沏	toug'na21a2	打赤膊
-褪股马	t'oug2lyu2+ma3
-光臀
-学	r	学习;背后传话
-受治	siu21ei42
-被虐待
+做家	tso44a44	节约
+拍*𰺲	paS2tou3242 丢掉%逷盪
+拍*☐	pa2loy?12	丢掉
+拍*无*	paS2m52	丢失
+拍*𰺲阵	pa2"lbugp*2nein242	迷 路
+拍*𰺲𰉣	pa2"loung52nuo42 迷路
+爆*家	pou?-ka44	暴露，败露
+摊拍*	tan52ma2l2	排场
+无*☐	mtsyor	不理 睬
+无*察	mo2'tsia2l2	不管
+拨醒*	pual-tsian33	经点拨醒悟
+变面*	piegy'mein13	翻脸
+问*算	muopf2noun213	责问
+拍*算	paS2loug213	打算
+褪沏*沏*	toug'na21a2	打赤膊
+褪股马	t'oug2lyu2+ma3	光臀
+学*	r	学习;背后传话
+受治	siu21ei42	被虐待
 受怪	siu2+uai213	可怜
-定动	tig2'noy0342	动弹
-填谜	tein21 mei?
-2	猜谜
-拍施	pa4lie4	散落
+定动*	tig2'noy0342	动弹
+填谜	tein21 mei?2	猜谜
+拍*施	pa4lie4	散落
 听喙	rian523u213	听话
-二十三、心理
+#二十三、心理
 八	peil2	知道
 八传	peir?tyo52	知道
 会八	42pei?l2	知道， 懂得，认识
-始八	me'Bei2h2	不知道， 不懂，不认识
-会拾	242ia33	捨得
-做证	ts523eig213	设计使人上当
-做胡	tso44hu52	马虎，骗人
-做死胚	ts21i2+Bui44	耍赖
-做码	ts52ma
-作弊
-做水	ts'23y33	食 物中掺水加重
-做呆	ts4nai52	破罐子破摔
-做畅	ts52tyon3213 开玩笑
-做家	tso44a44
-节约
-拍逐	paS2tou3242 丢掉
-拍口	pa2loy?12
-丢掉
-拍无	paS2m52	丢失
-拍通阵	pa2"lbugp*2nein242	迷 路
-拍汤择	pa2"loung52nuo42 迷路
-爆家	pou?-ka44	暴露，败露
-摊拍	tan52ma2l2	排场
-无口	mtsyor	不理 睬
-无察	mo2'tsia2l2	不管
-拨醒	pual-tsian33	经点拨醒悟
-变面	piegy'mein13	翻脸
-问算	muopf2noun213	责问
-拍算	paS2loug213	打算
-褪沏沏	toug'na21a2	打赤膊
-褪股马	t'oug2lyu2+ma3
-光臀
-学	r	学习;背后传话
-受治	siu21ei42
-被虐待
-受怪	siu2+uai213	可怜
-定动	tig2'noy0342	动弹
-填谜	tein21 mei?
-2	猜谜
-拍施	pa4lie4	散落
-听喙	rian523u213	听话
-二十三、心理
-八	peil2	知道
-八传	peir?tyo52	知道
-会八	42pei?l2	知道， 懂得，认识
-始八	me'Bei2h2	不知道， 不懂，不认识
-会拾	242ia33	捨得
-绘捨	me2-li33
-捨不得
+𫧃八	me'Bei2h2	不知道， 不懂，不认识
+会捨	242ia33	捨得
+p1312L
+𫧃捨	me2-li33	捨不得
 八症	peil-tsein213	识相，懂规矩
-当烩殆	toun21 me2tai213
-受不了
+当𫧃殆	toun21 me2tai213	受不了
 气	kei213	生气
-恻	tseipl2
-悲切，生气
-愁	teu52	愁闷
-欢喜	huap°2ni33
-喜欢
+恻	tseipl2	悲切，生气
+愁*	teu52	愁闷
+欢喜	huap°2ni33	喜欢
 见觉	kien'2noy?l2	感 觉
-退悔	toy52 ui2413
-后悔
+退悔	toy52 ui2413	后悔
 慌瘴	huog4*tsyon44	慌张
-苦	ku33
-发愁
-弱	yo?l2	疲劳，泄气
+苦	ku33	发愁
+蒻	yo?l2	疲劳，泄气
 会意	hui52i213	理解
-狯会意	met4hui2lei213
-不理解
+𫧃会意	met4hui2lei213	不理解
 惊	kian4	怕
-怀惊	ingnian44	不怕
-透餃	tau4ka44
-舒服
+伓惊	ingnian44	不怕
+透骹	tau4ka44	舒服
 念	nein242	想念
 安心	ag4ning	放心
-二十四、性状
-颌壳	ka?2 koyp12
-卡壳，难缠
-平直	pang4ni?
-整齐，诚实
-平搭	pan2'na?l2	稳妥， 周到
-平正	pan?'sian213	质地不好
-平长	pan2'nou52-样长
-残	tsian52
-心狠
-優	koe52 傻，笨
-歇	youn7242	傻
-恶	ou2l2
-凶
+#二十四、性状
+敆壳	ka?2 koyp12	卡壳，难缠
+平*直	pang4ni?	整齐，诚实
+平*搭	pan2'na?l2	稳妥， 周到
+平*正*	pan?'sian213	质地不好
+平*长*	pan2'nou52-样长
+残	tsian52	心狠
+𠏋	koe52 傻，笨
+𪴯	youn7242	傻
+恶	ou2l2	凶
 臒	o2l2	乖，听话
 下邪	lis52	耍赖， 占便宜
 缠绊	tier3'muan242	纠缠 不清
 好高瘌	ha2ks52la?2	自大， 好表现
-呆乇	gai2'no?l2	坏东西， 坏蛋
+呆*乇	gai2'no?l2	坏东西， 坏蛋
 好脚	ho4#yo?2	强手
 死脚	si44yo?呆板，不灵活，不好用的脚色
+p1312R
 本事	puog4nay242	有本事
-境角	kie2'noy?2	严密周到
+墘角	kie2'noy?2	严密周到
 四角	si52koy?!2	刻板， 太认真
-利(蔡**10?5	勤快
-定着	tagtyo?老实， 守规矩
-定虫	tagtoyoy2	懒惰
+利落*	10?5	勤快
+定*着	tagtyo?老实， 守规矩
+定*虫	tagtoyoy2	懒惰
 细腻	se2nei242	小心， 客气
 好疼	h*4lian213	可爱， 和蔼
-数骨	leu2bou?l2	尖刻
+𫦉骨	leu2bou?l2	尖刻
 顽	yuar52	顽皮
 奸尻利	kan1u4e242	吝 啬
-病净洁	pfsiz?'niel2	洁癖
-嫉	heu52	女人不正派
-无定	mo21lian242	好动， 不规矩
-娱无定	heu2'm3-lian242	女 人不正派
+病*净洁	pfsiz?'niel2	洁癖
+𡟑	heu52	女人不正派
+无*定*	mo21lian242	好动， 不规矩
+𡟑无*定*	heu2'm3-lian242	女 人不正派
 臭硬	tsau2nein242	死硬
-假师	ka2+sa44
-不懂装懂
+假师*	ka2+sa44	不懂装懂
 了离	liu41ie242	清楚，敏捷
-纳闷	na2l2moun242
-傻样，不清楚
-怀是胚	in'ni*4pui44	不是 好东西
+纳闷	na2l2moun242	傻样，不清楚
+伓是胚	in'ni*4pui44	不是 好东西
 王道	uog2'n242	厚道， 善良
-惜	tsoe44
-胡涂，马虎
-模(有) tein242	结实
-有	pan213	不结实
-滥	lan7242
-沾水
-烂	lang242
-煮熟、腐烂
+慒	tsoe44	胡涂，马虎
+橂(𠕆) tein242	结实
+冇	pan213	不结实
+滥	lan7242	沾水
+烂	lang242	煮熟、腐烂
 瘼	mou2l2	烂糊
-憔	ta44	干
-润	noun213
-潮湿
-錾	tsian33	味淡
+燋	ta44	干
+润*	noun213	潮湿
+𬲕	tsian33	味淡
 糗	kiu213	硬
-清	tsing4
-稀
-漏	ky?S	浓
-Okua44
-(菜)老
+清	tsing4	稀
+𬇴	ky?S	浓
+☐	kua44	(菜)老
 幼	iu213	不成熟
 戋	tsie33	不成熟
 宿	seyPl2	成熟
+p1313L
 肥	puis2	肥，胖
-痕	soy4(人)瘦
-矬	ts5242
-矮胖
+𤸬	soy4(人)瘦
+矬	ts5242	矮胖
 滇	tier242	满
 抽	tiu44	瘦长
-生	tsiang4	生的
-佰	se242
-多
+生*	tsiang4	生的
+価	se242多%⿰亻西
 稠	seu52	均匀，经常
 俊	tsoun213	美
-好疼	h**lian213
-可爱，漂亮
-拉查	la4sia4
-肮脏
-麻渣	ma21 tsias2
-肮脏
-迎洁	ta52ei2l2
-清洁
+好疼	hlian213	可爱，漂亮
+拉查	la4sia4	肮脏
+麻渣	ma21 tsias2	肮脏
+沏*洁	ta52ei2l2	清洁
 闹热	nau4ie?S	热闹
 惯势	kein52sie213	习惯
 盘数	puag2"nou213	傻瓜， 做傻事
-无块死	m32'noy53j33
-质差
-无乇使	m321 n521ai33
-无用
-无成乇	m32'lian2'no?l2	不成样 子
+无*块死	m32'noy53j33	质差
+无*乇使*	m321 n521ai33	无用
+无*成*乇	m32'lian2'no?l2	不成样 子
 无亥数	m32aiS2lou213	没本事， 没希望
 张死款	tyon2'si24Kuang33	装腔作势
 臭酸	tsaulsuy44	闻出酸味
-行时	kian2'nis2
-时髦
-时式	sitleirl2
-时兴
-无样	m2lyon242
-丢脸
+行*时	kian2'nis2	时髦
+时式	sitleirl2	时兴
+无*样	m2lyon242	丢脸
 玩愚	guanZ'tnay242	丢脸
-困落	ein441525	清闲
+困*落*	ein441525	清闲
 背	pui242 倒霉
-赘闷	tufS2mou3242
-哕嗦
+赘*闷	tufS2mou3242	哕嗦
 跋摔	puarsoy?l2	颠簸
-自老鼠	pa21b243y33	分文俱无
-罔去	mu*n3213	将就， 随便
-快脆	ke2sui213	快捷
-有硬	u2bnein342	结实
-有使	u2lai33	经用
-有影	u2'ian33	有效
-二十五、指代
-我	guai33	我
+白老鼠	pa21b243y33	分文俱无
+罔去*	mu*n3213	将就， 随便
+快*脆	ke2sui213	快捷
+有*硬	u2bnein342	结实
+有*使*	u2lai33	经用
+有*影*	u2'ian33	有效
+#p1313R
+#二十五、指代
+我*	guai33	我
 汝	ny33	你
 伊	44	他
-我各依	quailko?'noyp52	我们
+我*各侬	quailko?'noyp52	我们
 依家各侬	nntkor'noyo2	咱们
-妆各侬	nyko?' noyn52	你们
-伊各依	fkor' noyo'2
-他们
+汝各侬	nyko?' noyn52	你们
+伊各侬	fkor' noyo'2	他们
 大家侬	taila4*tnoyn52	大家
 自家	tsf44	自己
-别依	pie2?'noyn52	别人
-这只	tsi?"3ie?l2	这个
-口只	h:21 (hie21) 3iepl2	那个
+别侬	pie2?'noyn52	别人
+这只*	tsi?"3ie?l2	这个
+☐只*	h:21 (hie21) 3iepl2	那个
 者辰候	tialein'Inau242	这时候
-口辰候	hiattlein2'nau242	那时候
-DOsu4+uai213	这里
-OChf4uai213
-那里
-这昕	tsi2loup52	这么久
-口晰	h:21 (hie21) oup52	那么久
-蒋款	tsyon?'touan33
-这样
+☐辰候	hiattlein2'nau242	那时候
+☐☐	su4+uai213	这里
+☐☐	hf4uai213	那里
+这𣆯	tsi2loup52	这么久
+☐𣆯	h:21 (hie21) oup52	那么久
+蒋款	tsyon?'touan33	这样
 响款	hyo?2*ouan33	那样
-口依	tet4loy'2	谁
+☐侬	tet4loy'2	谁
 什乇侬	sie?nof*noyn'2	什么 人
 乇侬	nnoy'2	什么人
-乜候	mier'nau242
-什么时候
+乜候	mier'nau242	什么时候
 乇辰候	nleig2'nau242	什 么时候
-乇事计	n1ai?4ie213	什么事情， 干什么
-DOtan3*nc33	哪里
-口蜀只	tan*nyo=2sie2	哪一个
-口蜀间	tan'nyo*an*t	哪一间
-这口讲	tienie'kou33	怎么讲， 怎样讲
-蒋讲	tsyon2*youn33
-怎么
+乇事*计	n1ai?4ie213	什么事情， 干什么
+☐☐	tan3*nc33	哪里
+☐蜀*只*	tan*nyo=2sie2	哪一个
+☐蜀间	tan'nyo*an*t	哪一间
+这☐讲	tienie'kou33	怎么讲， 怎样讲
+蒋讲	tsyon2*youn33	怎么
 蒋其	tsyo2"ni52	怎样， 怎么样
 偌夥	nyo2"uai242	多少
-偌酒	nyo21242	多少
-偌夥俩	nyouai?2s242
-多少
+偌価	nyo21242	多少%⿰亻西
+偌夥価	nyouai?2s242	多少%⿰亻西
+#p1314L
 偌大	nyo-tuai242	多 大
 偌夥大	nyouai2ltuai242	多 大
-偌昕	nyo2'oup52	多 久
-偌夥昕	nyo4uai44ouy52	多 久
+偌𣆯	nyo2'oup52	多 久
+偌夥𣆯	nyo4uai44ouy52	多 久
 偌夥侬	ny4+uaif4noyy52	多少 人
-几只依	kuilsiepl2noyn52	几个人
+几*只*侬	kuilsiepl2noyn52	几个人
 偌夥件	nyo44uai2lyog242	多 少件
-几件	kuif4yon342	几件
-二十六、数量
-一一	ei?12
-蜀	syo?'
+几*件	kuif4yon342	几件
+#二十六、数量
+一	ei?12
+蜀*	syo?'
 二	nei
 两	lan-42	两
-三	SE
-ng44 三
+三	SEng44 三
 四	sei213	四
 五	pou242	五
 六	loy?六
 七	tseirl2 七
-八	pei?l2
-八
-九	kau
-u33 九
+八	pei?l2	八
+九	kauu33 九
 十	seir'十
 二十	ni4ei?'二十
 廿一	niereil2	二 十一
@@ -1380,93 +1206,36 @@ u33 九
 千	tsien44	千
 万	uap242	万
 亿	ei213	亿
-(蜀)菩(花) puo'
-(一)朵(花)
-(蜀)只(依) tsie?l2
-(一)个(人)
-(蜀)头(猪) tau52
-(一)只(猪)
-偌大	nyo-tuai242	多 大
-偌夥大	nyouai2ltuai242	多 大
-偌昕	nyo2'oup52	多 久
-偌夥昕	nyo4uai44ouy52	多 久
-偌夥侬	ny4+uaif4noyy52	多少 人
-几只依	kuilsiepl2noyn52	几个人
-偌夥件	nyo44uai2lyog242	多 少件
-几件	kuif4yon342	几件
-二十六、数量
-一一	ei?12
-蜀	syo?'
-二	nei
-两	lan-42	两
-三	SE
-ng44 三
-四	sei213	四
-五	pou242	五
-六	loy?六
-七	tseirl2 七
-八	pei?l2
-八
-九	kau
-u33 九
-十	seir'十
-二十	ni4ei?'二十
-廿一	niereil2	二 十一
-百	pa2l12	百
-千	tsien44	千
-万	uap242	万
-亿	ei213	亿
-(蜀)菩(花) puo'
-(一)朵(花)
-(蜀)只(依) tsie?l2
-(一)个(人)
-(蜀)头(猪) tau52
-(一)只(猪)
-(蜀)把(笔)pa
-3
-(一)枝(笔)
-(蜀)条(竹) teu2 (一)根(竹子)
-(蜀)蔸(树) tau44
-(一)株(树)
-(蜀)块(衣裳) toy213 (一)件(衣服)
-(蜀)奇(鞋) kia44
-(一)只(鞋)
-(蜀)喙(饭) tsui?
-(一)口(饭)
-(蜀)架(手表) ka213 (一)块(手表)
-(蜀)落(厝)lo2(-)座(房子)
-(蜀)厝(依) tsuo213(一)家(人)
-(蜀)堵(房间) tu33
-(一)间(房间)
-(蜀)箬(树箬) nyo?
-(一)叶(树叶)
-(蜀)条(手巾) teu52 (一) 条(手帕)
-(蜀)块(杯) toy213 (一)个(杯子)
-(蜀)骸(布袋) ka44
-(一)个(布袋)
-(蜀)只(花瓶) tsie2l2 (一) 个(花瓶)
-(蜀)条(椅) teu52(一)把(椅子)
-(蜀)架(汽车) ka213(一)辆(汽车)
-(蜀)张(批) tyon'
-(一)封(信)
-(蜀)只(批袋) tsie?l2
-(一)个(信封)
-(蜀)口(屎) pourl2(一)泡(屎)
-(踢蜀)骸	ka44
-(踢一)脚
-(捕蜀)掌	tsyon'
-33
-(摔一)巴掌
-(拍蜀)棍	koun213
-(打一)棍子
-(拍蜀)槌	tui52 (打一) 拳头
-(困蜀)醒	tsian3'
-(睡一)觉
-(挟蜀)箸	toy'
-(挟一)筷子
-(行蜀) Olau52
-(走一)趟
-(啜蜀)喙	tsui213
-(喝一)口
-(来)蜀昕	syoous52
-(来)一会儿
+(蜀)*菩(花)	puo'	(一)朵(花)
+(蜀)*只(侬)	tsie?l2	(一)个(人)
+(蜀)*头(猪)	tau52	(一)只(猪)
+#p1314R
+(蜀)*把(笔)	pa3	(一)枝(笔)
+(蜀)*条(竹)	teu2 	(一)根(竹子)
+(蜀)*蔸(树)	tau44	(一)株(树)
+(蜀)*块(衣裳)	toy213	(一)件(衣服)
+(蜀)*奇(鞋)	kia44	(一)只(鞋)
+(蜀)*喙(饭)	tsui?	(一)口(饭)
+(蜀)*架(手表)	ka213	(一)块(手表)
+(蜀)*落(厝)	lo2	(一)座(房子)
+(蜀)*厝(侬)	tsuo213	(一)家(人)
+(蜀)*堵(房间) 	tu33	(一)间(房间)
+(蜀)*箬(树箬)	nyo?	(一)叶(树叶)
+(蜀)*条(手巾)	teu52	(一) 条(手帕)
+(蜀)*块(杯)	toy213	(一)个(杯子)
+(蜀)*骹(布袋)	ka44	(一)个(布袋)
+(蜀)*只(花瓶)	tsie2l2	(一) 个(花瓶)
+(蜀)*条(椅)	teu52	(一)把(椅子)
+(蜀)*架(汽车)	ka213	(一)辆(汽车)
+(蜀)*张(批)	tyon'	(一)封(信)
+(蜀)*只*(批袋)	tsie?l2	(一)个(信封)
+(蜀)*☐(屎)	pourl2	(一)泡(屎)
+(踢蜀*)骹	ka44	(踢一)脚
+(𪮋蜀*)掌	tsyon'33	(摔一)巴掌
+(拍*蜀*)棍	koun213	(打一)棍子
+(拍*蜀*)槌	tui52	(打一) 拳头
+(睏蜀*)醒	tsian3'	(睡一)觉
+(挟蜀*)箸	toy'	(挟一)筷子
+(行*蜀)	Olau52	(走一)趟
+(啜蜀)喙	tsui213	(喝一)口
+(来)蜀*𣆯	syoous52	(来)一会儿
