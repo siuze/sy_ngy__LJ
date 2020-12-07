@@ -67,85 +67,85 @@
 落霜	loo44 soung44	下霜
 落雪	loo21 suo?12	下雪
 #p1299L
-珍珠雪	tsio521uo22	小粒雪
-龙雹*	lyn*poyp'冰雹
-𰺲雹*	tuofpropf	下冰雹%逷盪
-地牛转肩	tftuo'rio	地震
-露水	1u523y33	露水
-天光	teg*kuong44	天亮
-天暗	reg*an?13	天黑
+珍珠雪	tsing21 zuo52 luo?12	小粒雪
+龙雹*	lyng44 p'oy?5	冰雹
+𰺲雹*	tooung44 p'oy?5	下冰雹%逷盪
+地牛转肩	ti44 ngu52 tuong21 ngieng44	地震
+露水	lu52 zy33	露水
+天光	t'ieng44 kuong44	天亮
+天暗	t'ieng44 ang213	天黑
 #二、地理
-水涨*	tsy24lou33(海水)涨潮
-水湓	tsy4Buog213(海水)退潮
-海☐		hai21piap	海边 泥滩
-沙坂	sa52Buay33沙滩
-海𪨧	hai4oung213	海啸
-海墘下	hi+ien?'nga242沿海
-讨海	t324hai33	海洋捕 鱼
-讨小海	t321siu24hai33	近海捕 鱼
-两*头*水	lag21nau213y33	涨 潮退潮
-☐☐囝	kang21 meing2niang3瓦砾
-山岗	san'2nou213	山峰
-山骹	sag4ka4	山脚下
-山里*	sang52nie33山区
-山里角	san'ne*koy2	偏僻山区
-龙潭	lyr21rang52	山坑
-平洋	pa'tyo52	大片平地
-田	tseing52田地
-园	huong52旱地
-田*堘	tsein'ninf2	田埂
+水涨*	tsy24 looung33	(海水)涨潮
+水湓	tsy44 wuong213	(海水)退潮
+海☐		hai21 p'ia?	海边泥滩
+沙坂	sa52 wuang33	沙滩
+海𪨧	hai44 looung213	海啸
+海墘下	hai44 ieng21 nga242	沿海
+讨海	t'oo24 hai33	海洋捕 鱼
+讨小海	t'oo21 siu24 hai33	近海捕 鱼
+两*头*水	lang21 nau21 zy33	涨 潮退潮
+☐☐囝	k'ang21 meeing52 ngiang53	瓦砾
+山岗	sang52 ngooung213	山峰
+山骹	sang44 k'a44	山脚下
+山里*	sang52 nie33	山区
+山里角	sang21 nie44 koy?12	偏僻山区
+龙潭	lyng21 t'ang52	山坑
+平洋	pang21 ngyong52	大片平地
+田	ts'eeing52	田地
+园	huong52	旱地
+田*堘	ts'eeing21 ngning52	田埂
 埕	tiang52	空地
-曝粟埕	pus'u*tias	晒谷场
-拦潭	lan"tao52	石头
-拦潭囝	la'lang21niang33小石头
-石*头*母*	syolau21mo33 大石头
-石头囝	syfla"iai*_小石头
-石*头*卵*	s(ur'bu22	鹅卵石
+曝粟埕	p'uo21 zuo44 liang52	晒谷场
+拦潭	lang21 t'ang52	石头
+拦潭囝	la21 lang21 ngiang33	小石头
+石*头*母*	syo44 lau21 moo33 大石头
+石头囝	syo44 lau21 iang33	小石头
+石*头*卵*	syo22 lau21 looung242	鹅卵石
 沙	sai44	沙子
-涂	tu52	泥土
+涂	t'u52	泥土
 #p1299R
-𬲕水	tsang243y33	淡水%䭕
-咸水	kein'3y33	海水、 咸水
-滚汤	kung?'noung4	开水
-汤	t'ouy44	热水
-江	koung44	江
-河	52	河
-溪	ke44溪
+𬲕水	tsiang24 zy33	淡水%䭕
+咸水	keeing21 zy33	海水、 咸水
+滚汤	kung21 nooung44	开水
+汤	t'ooung44	热水
+江	kooung44	江
+河	oo52	河
+溪	k'ee44	溪
 贝	pui213	小溪
-𰉣	tuo242路%墿
-马𰉣	ma441uo242 2	公路%墿
-街中	ke**loung44	街 上
-半𰉣中	puan'nuo4louy44	半路 上%墿 
-塭尘	ungng4ning52	灰尘
-粪倒	puy*2n垃圾
-城里	siang3'mie33	城里
-县城	keing*niang52	指 县府驻地
-乡下	hyog2ga2农村
+𰉣	tuo242	路%墿
+马𰉣	ma44 1uo242	公路%墿
+街中	kee44 looung44	街 上
+半𰉣中	puang21 nuo44 looung44	半路 上%墿 
+塭尘	ung44 ning52	灰尘
+粪倒	pung52 noo213	垃圾
+城里	siang21 nie33	城里
+县城	keeing44 niang52	指 县府驻地
+乡下	hyong52 nga242	农村
 #三、时间
-今年暝	kingtnieng'man'2	今年
-明年暝	mang21nieg21mang2明年
-后*年暝	atfnieng*man'后年
-☐后年	noyo13aunierg2	大后年
-去年	k'f*nieg2去年
-昨年 sa3'nie52	前年
-☐昨年	noy213s321niery52	大前年
-昨暝	so21may52	昨天
-昨日	so44nirS	前日
-今旦	king52nang23	今天
-明*旦	ma?'nag213	明天
-后日	au21ni?S	后天
-☐后日	noy213au21nir'大后天
-上昼*	syong21nau213	上午
-当昼*	touy?2nau213中午
-下昼	a21au243	下午
-早*头*	tia21au52	早晨
-早*辰*头*	tisa'iq'nau'2	早晨
-#p1200L
+今年暝	king44 nieng44 mang52	今年
+明年暝	mang21 nieng21 mang52	明年
+后*年暝	au44 nieng44 mang52	后年
+☐后年	noyng213 au44 nieng52	大后年
+去年	k'oo44 nieng52	去年
+昨年	soo21 nieng52	前年
+☐昨年	noyng213 so21 nieng52	大前年
+昨暝	so21 mang52	昨天
+昨日	soo44 ni?5	前日
+今旦	king52 nang213	今天
+明*旦	mang21 nang213	明天
+后日	au21 ni?5	后天
+☐后日	noyng213 au213 ni?5	大后天
+上昼*	syong21 nau213	上午
+当昼*	tooung52 nau213	中午
+下昼	a21 lau213	下午
+早*头*	tsia21 lau52	早晨
+早*辰*头*	tisa21 ing21 nau52	早晨
+#p1300L
 半晡	puagpuuo4 中午与黄昏之间
 暝晡	manmuo44	晚上
 暝晡头	man'muolau52	晚上
-半暝	puan*mary52	半夜
-半暝囝	puaf*many'niang33	半夜
+半暝	puan44mary52	半夜
+半暝囝	puaf44many'niang33	半夜
 蜀*暝天光	so'nanenouog	通宵
 个郎工	kLouoykoyo44	整天
 个郎晡	kbuogpuo	整夜
@@ -156,24 +156,24 @@
 仱	tang44	现在
 旧底	ku21e33以前
 往南帮	uong21 nang4 moung44以前
-往南日	uon?2Inagf*ni? 前几天
+往南日	uon?2Inagf44ni? 前几天
 头先	aleing"前.会儿
 拜一	puai5-eip12星期一
-年暝兜	nieng*manfnau44	年 边
+年暝兜	nieng44manfnau44	年 边
 上元	syoquo52	元宵
 五月节	ou21guo?'tsei22	端午节
 七月半	tsi21'zguor?puang4	七月半节
 八月中秋	pilZquortysiu44	中秋节
 做年	tsonieng52过年
 做节	ts52tscip12	过节
-三十暝晡	sao21nei? mang*muo44	大年三 十晚上
+三十暝晡	sao21nei? mang44muo44	大年三 十晚上
 初一早	tse?'i?12tsia33	大年初一
 #四、方位
 位处	ui'3oy213 地方，位置
 悬*势	kein?'nie213	上面
 悬*顶	ke'leing33上面
 下底	a2"le33	下面
-里*势	ti*lie1里面
+里*势	ti44lie1里面
 外*斗*	gie"lau33	外面
 边斗*	pier52nau33	旁边
 #p1300R
@@ -244,7 +244,7 @@
 拔桶	puar?toyu33	吊水桶
 碗缸	uang21koung44	大碗
 碗囝	uang34 gian'	小碗
-酒盏	tsiu*siang33	酒杯
+酒盏	tsiu44siang33	酒杯
 酒漀	tsiu2ing52	斟酒酒壶
 茶婆	ta2.ps52	茶壶
 茶桌	ta21lo?12	茶几
@@ -264,7 +264,7 @@
 不求人	pu21kiu2i52	竹 制抓痒具
 纸媒	tsai21mui52	引火 用的细纸卷
 洋火*	yonr'bui33	火柴
-薰筒	houn*noyu52	水烟筒
+薰筒	houn44noyu52	水烟筒
 柴柿	tsia2pui21	木屑
 火*管*	hui2*uoy33	吹火筒
 甏	pang44 大口缸
@@ -286,7 +286,7 @@
 竹床	ty?"tsoung52	竹床
 竹席	tyltsyo?'竹席 子
 鼎	tiang33	铁锅
-灶刀	tsau*t14	切菜刀
+灶刀	tsau44t14	切菜刀
 文明杖	ue21migftryo322	手杖
 #p1302L
 痰盆	tan?'puong52	痰盂
@@ -316,9 +316,9 @@
 ☐☐	O0a21ji52	蝉
 蚕囝	tseing21 piang33	蚕
 南尾星	nang21mui121ig4	萤火虫
-☐蝶	puf*lie?'蝴蝶
+☐蝶	puf44lie?'蝴蝶
 麻胡	ma21u52	蜻蜒%原书即为蜒
-风蚊	huo*muong52	蚊子
+风蚊	huo44muong52	蚊子
 菩蝇	pu21lio52	苍蝇
 猫头爷	ma4au4ie2	蜘蛛
 蜢囝	moya4niang33	小黑 虫
@@ -347,7 +347,7 @@ p1302R
 马骹	ma2"ka44	马鲛 鱼
 䖳	ta213	海蜇皮
 鳜鱼	ku4y52	鳜鱼
-冬鸡	toyr*gie4	大 墨鱼
+冬鸡	toyr44gie4	大 墨鱼
 虎𫊻	hu21lig52	蟹类的 一一种
 青鳌	tsiang4no52	海蚌
 虾菇	ha44u44	一 种贝壳类海产
@@ -382,15 +382,15 @@ p1303L
 萝卜	1a44Bu?萝卜
 蕹菜	uy523ai213	空心菜
 茭笋	ka'21ung33	茭笋
-番椒	huang*siu44	辣椒
+番椒	huang44siu44	辣椒
 芥菜	kua523ai213	芥菜
 薸	piu52	浮萍
 包菜	pau523ai213	洋白菜
-紫菜	tse*sai213	茄子
+紫菜	tse44sai213	茄子
 莓梨	mui2152	荸荠
 龙眼	loung?'neig3	龙眼
 荔枝	le43ie44	荔枝
-芭蕉	a*siu44	香蕉
+芭蕉	a44siu44	香蕉
 ☐	pau44	柚子%原书☐处为空
 ☐红	tsuo2uy2	杨梅
 番石榴	huan'nyoliu52	番石榴
@@ -418,7 +418,7 @@ p1303R
 守妈	tsiu24ma33	寡妇
 悬*哥	king4944	高个子
 矮囝	e24iang33	矮个子
-汉码大	hang21 mat*tuai242	大个子
+汉码大	hang21 mat44tuai242	大个子
 隔壁*厝	ka2"pia2zuo213	邻居
 厝边	tsu4Sieng	邻居
 丈*夫*囝	toung21 muo52iang33	男孩子
@@ -544,13 +544,13 @@ p1305L
 食*酒	sie? tsiu'3	喝酒
 食*饭*	sie? puong342	吃饭
 豆干	tauuang44	硬些的 豆腐
-香干	hyon*nang4	浈豆腐干
+香干	hyon44nang4	浈豆腐干
 #十二、起居
 爬起	pa2k;33	起来
 洗面	se44meig213	洗 脸
 洗汤	se21oup44	洗澡
 p1305R
-洗牙齿	se*ng2:;3	刷牙
+洗牙齿	se44ng2:;3	刷牙
 澉身	kang'niqg4	擦身
 泡茶	pau'ta52	沏茶
 颂衣裳	sy2:44lyoy52	穿衣服
@@ -568,7 +568,7 @@ p1305R
 腹*老空*	pu25koy044	肚子饿
 扫厝	sau523uo213	扫地
 好睏	hs4soung213	好睡
-睏𫧃着	koung313met*lyo?'睡不着
+睏𫧃着	koung313met44lyo?'睡不着
 毛眠睏	ma3'mig21nou2I3	睡不着
 清醒*	tsing52siang33	睡 醒
 门头	muong21nau52	送礼
@@ -647,7 +647,7 @@ p1306L
 胳洛下	ko?4lou?a242	腋下
 巴掌	pa523yong33	手掌
 掌指	tsieng2*3ai33 手指
-掌甲	tsieg*na?12	指甲
+掌甲	tsieg44na?12	指甲
 掌头母*	tsieng2*nau21m33	大 母指
 鸡角指*	kie21oy?12tsai33	食指
 台中*指*	tai21buy52tsa33	中指
@@ -662,7 +662,7 @@ p1306L
 骹柄下	ka2Bar52na242	胯 下
 股川	ku213yong44	屁股
 #p1307L
-肾脬	lng*p'a44	阴囊
+肾脬	lng44p'a44	阴囊
 肾核子	lng'ouor?ts33	睾丸
 朘友	noy2*iu33	男阴
 姕𱂮	tsi52Be3女阴%䫌	
@@ -694,7 +694,7 @@ p1306L
 生疥	sang52ke213	长疥疮
 病哑	pang21ga33	哑巴
 耳聋	ifloy2	耳朵聋
-眚盲	tsanf*mag52 眼瞎
+眚盲	tsanf44mag52 眼瞎
 光瞎	kuop52qa?12	青 光眼
 缺喙	kiertsui213	豁唇
 病*颤疯	par2isegou4	肢体 颤抖
@@ -723,7 +723,7 @@ p1306L
 做新妇	ts3'Iin$2mou242 出嫁
 出门	tsu212muong52	出嫁
 过门	kuo#muong52	出嫁
-送门头	soyn*muo'naus52	送礼
+送门头	soyn44muo'naus52	送礼
 做十	tsssirs	做寿
 做晬	ts52tsoy213	庆婴儿周 岁
 做三旦	ts-sasy5Snang213	庆婴 儿出生三天
@@ -774,7 +774,7 @@ p1306L
 #p1308R
 犁	1e52	犁
 耙	pa242 松土，碎土
-粪☐	u*tsia21粪勺
+粪☐	u44tsia21粪勺
 涂箕	44:44	土箕
 水车	tsy)"3ia44	水车
 水碓	tsy4ai213	水力 带动碾米、磨麦的机器
@@ -801,7 +801,7 @@ p1306L
 㔏墙	le2tsyoy'2	砌墙
 砌墙	tsie?l'ts'yoy'2	砌墙
 㔏灶	letsau213	砌灶
-拍金	pa*king4	打金首饰
+拍金	pa44king4	打金首饰
 拍锡	pa52seip12	打锡制品
 搭被	tar?pu242	缝 被子
 𬘜衣裳	teng214lyoy02	缝衣服
@@ -820,7 +820,7 @@ p1306L
 酱园店	tsyo"ouo?'neing213	酱制食品店
 药材店	yo'sai"leig213	中药铺
 退衣店	t321:521eing213	估 衣店
-馆店	kuanf*neig213	菜馆
+馆店	kuanf44neig213	菜馆
 剃头店	tielaua'leig213	理发店
 客栈	ka523iang342	旅社
 茶店	talleig?	茶馆
@@ -851,10 +851,10 @@ p1309R
 #二十、文教
 学堂	hou?toung2	学校
 去*斋	k44tse44	上学
-上堂	syon*toup52	上课
-落堂	Io*lbu52	下课
+上堂	syon44toup52	上课
+落堂	Io44lbu52	下课
 放*昼*	pup521nau2213 放午学
-放暝	pung*mang52	放晚学
+放暝	pung44mang52	放晚学
 背书	put4tsy4	背诵课文
 水笔	tsyBeip12	毛笔
 洋笔	yong21mei12	铅笔
@@ -864,8 +864,8 @@ p1309R
 鸭母卵	a?Qnobung242	考书得零分
 头*名*	tau21miang52	第一名
 尾名	mui21miary52	最后一名
-关*昼*	kuoy*nau213	中午不让学 生放学
-关*暝	kuong*mang52	下午不让学 生放学
+关*昼*	kuoy44nau213	中午不让学 生放学
+关*暝	kuong44mang52	下午不让学 生放学
 徛堂	kiet#loup52	站着 上课
 走*走*搦	tsau'tsu'nier'-种追 抓跑者的游戏
 屈屈密	ku21ku2meir'一种寻找躲藏者的游戏
@@ -987,7 +987,7 @@ p1309R
 讲畅	kountyong213	说着 玩
 碎讲	tsoytouy33	闲聊
 蛮笑	mang21tsiu213	开玩笑
-解*闷	ket*moup242	寻开心， 拿别人开玩笑
+解*闷	ket44moup242	寻开心， 拿别人开玩笑
 解*衰	ke21soy44	捉弄人
 刺*溪	tie'4ke	取笑，挖苦别人
 加三码	ka"lay*2ma33	弄虛作假
@@ -1138,7 +1138,7 @@ p1313L
 赘*闷	tuf52mou3242	哕嗦
 跋摔	puarsoy?12	颠簸
 白老鼠	pa21b243y33	分文俱无
-罔去*	mu*ng3213	将就， 随便
+罔去*	mu44ng3213	将就， 随便
 快*脆	ke2sui213	快捷
 有*硬	u2bneing342	结实
 有*使*	u21ai33	经用
@@ -1166,14 +1166,14 @@ p1313L
 蒋款	tsyon?'touang33	这样
 响款	hyo?2*ouang33	那样
 ☐侬	tet4loy'2	谁
-什乇侬	sie?nof*noyn'2	什么 人
+什乇侬	sie?nof44noyn'2	什么 人
 乇侬	nnoy'2	什么人
 乜候	mier'nau242	什么时候
 乇辰候	nleig21nau242	什 么时候
 乇事*计	ng1ai?4ie213	什么事情， 干什么
 ☐☐	tang3*nc33	哪里
-☐蜀*只*	tan*nyo=2sie2	哪一个
-☐蜀间	tan'nyo*an*t	哪一间
+☐蜀*只*	tan44nyo=2sie2	哪一个
+☐蜀间	tan'nyo44an44t	哪一间
 这☐讲	tienie'kou33	怎么讲， 怎样讲
 蒋讲	tsyong2*young33	怎么
 蒋其	tsyo2"ni52	怎样， 怎么样
