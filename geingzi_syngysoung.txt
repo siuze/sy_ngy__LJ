@@ -6,6 +6,7 @@
 #鼻音尾韵统一先用「ng」;
 #ø统一先用「o/」; 
 #ɔ统一先用「oo」;
+#œ统一先用「oe」;
 #β统一先用「w」;
 #ʒ统一先用「z」;
 #ε统一先用「ee」;
@@ -141,77 +142,77 @@
 早*头*	tsia21 lau52	早晨
 早*辰*头*	tisa21 ing21 nau52	早晨
 #p1300L
-半晡	puagpuuo4 中午与黄昏之间
-暝晡	manmuo44	晚上
-暝晡头	man'muolau52	晚上
-半暝	puan44mary52	半夜
-半暝囝	puaf44many'niang33	半夜
-蜀*暝天光	so'nanenouog	通宵
-个郎工	kLouoykoyo44	整天
-个郎晡	kbuogpuo	整夜
-年把两*	nieng21 ma41any242一年多至两年
-月把日	guor?pa'ni-个 多月
-十除工	sirfytoyo44	十来天
-仂久*	li?2ku33	一会儿
+半晡	puang44 puo44	中午与黄昏之间
+暝晡	mang44 muo44	晚上
+暝晡头	mang21 muo44 lau52	晚上
+半暝	puang44 mang52	半夜
+半暝囝	puang44 mang21 ngiang33	半夜
+蜀*暝天光	syo21 mang21 nieng44 nguong44	通宵
+个郎工	koo44 looung44 kooyng44	整天
+个郎晡	koo44 looung44 puo44	整夜
+年把两*	nieng21 ma44 lang242一年多至两年
+月把日	nguo?2 pa21 ni?5	-个 多月
+十除工	seei?5 ty44 oyng44	十来天
+仂久*	li?2 ku33	一会儿
 仱	tang44	现在
-旧底	ku21e33以前
-往南帮	uong21 nang4 moung44以前
-往南日	uon?2Inagf44ni? 前几天
-头先	aleing"前.会儿
-拜一	puai5-eip12星期一
-年暝兜	nieng44manfnau44	年 边
-上元	syoquo52	元宵
-五月节	ou21guo?'tsei22	端午节
-七月半	tsi21'zguor?puang4	七月半节
-八月中秋	pilZquortysiu44	中秋节
-做年	tsonieng52过年
-做节	ts52tscip12	过节
-三十暝晡	sao21nei? mang44muo44	大年三 十晚上
-初一早	tse?'i?12tsia33	大年初一
+旧底	ku21 lee33	以前
+往南帮	uong21 nang44 mooung44	以前
+往南日	uong21 nang44 ni?5	前几天
+头先	t'au44 leeing44	前.会儿
+拜一	puai52 ei?12	星期一
+年暝兜	nieng44 mang44 nau44	年 边
+上元	syong44 nguong52	元宵
+五月节	ngu21 nguo?5 ts'ei?12	端午节%原书即为ts'ei?12
+七月半	ts'i?12 nguo?5 puang44	七月半节
+八月中秋	peei? nguo?2 tyng44 ziu44	中秋节
+做年	tsoo44 nieng52	过年
+做节	tsoo52 tseei?12	过节
+三十暝晡	sang21 neei?2 mang44 muo44	大年三 十晚上
+初一早	ts'oe21 i?12 tsia33	大年初一
 #四、方位
-位处	ui'3oy213 地方，位置
-悬*势	kein?'nie213	上面
-悬*顶	ke'leing33上面
-下底	a2"le33	下面
-里*势	ti44lie1里面
-外*斗*	gie"lau33	外面
-边斗*	pier52nau33	旁边
+位处	ui21 zo/y213	地方，位置
+悬*势	keeing21 nie213	上面
+悬*顶	kee21 leeing33	上面
+下底	a21 lee33	下面
+里*势	tie44 lie213	里面
+外*斗*	ngie21 lau33	外面
+边斗*	pieng52 nau33	旁边
 #p1300R
-四势	s52si23	到处
-七处	tsi? tsoy'213到处
-台中*	tao	中间
-台中*中*	tailou"noung*中间
-地兜	t#lau44	地面
-桌面	t52meig213桌上
-门楼口*	muong21au2kau33	门口
-门后角	muo21 qur2oy?2	门后
-后*斗*	a2"lau33	后面
-尾斗*	mui24lau33	后面
-尾后*	muii44au242背后
-角角	koy2koy22	角落
-面*前*	min" nein'2 前面
-面*头*前*	mingnauleing2	前面
+四势	si52 sie213	到处
+七处	ts'i?5 ts'o/y213	到处
+台中*	tai44 looung44	中间
+台中*中*	tai21 lou44 noung44	中间
+地兜	tie44 lau44	地面
+桌面	too52 meing213	桌上
+门楼口*	muong21 lau21 k'au33	门口
+门后角	muong21 ngau21 oy?12	门后
+后*斗*	a21 lau33	后面
+尾斗*	mui24 lau33	后面
+尾后*	mui44 au242	背后
+角角	koy?12 koy?12	角落
+面*前*	ming44 neeing52 前面
+面*头*前*	ming44 nau44 leeing52	前面
 #五、房舍
-厝	tsuo'房屋
-厝瓦顶	tsuotyua21lisj3	屋顶
-檐墘头*	sn'nie21 nau3屋檐
-桁	ao"2	檁(屋顶上托住椽子的横木)
+厝	ts'uo213	房屋
+厝瓦顶	ts'uo44 ngua21 ling33	屋顶
+檐墘头*	sing21 ngieng21 nau53	屋檐
+桁	ang52	檁(屋顶上托住椽子的横木)
 椽	t'uong52椽子
-廊柱*	loung?'riu242	柱子
-柱*珠	tiu44yuo04	柱 下石
-磉盘	souy21muang52	顶着“柱珠”的石板
-门䧘	muong21 neing342门槛
-楼*顶	lau21lig33	楼上
-阶*座	kie23242台阶
-房里*	pung21 nie33屋里
-露台	lu44ai52. 凉台
-拦牢	lang21ns52.拦杆
+廊柱*	looung21 t'iu242	柱子
+柱*珠	t'iu44 zuo44	柱 下石
+磉盘	sooung21 muang52	顶着“柱珠”的石板
+门䧘	muong21 neeing242	门槛
+楼*顶	lau21 ling33	楼上
+阶*座	kie23 zoo242	台阶
+房里*	pung21 nie33	屋里
+露台	lu44 lai52	凉台
+拦牢	lang21 noo52	拦杆
 门扇	muong21 nieng213	门板
-槛门囝	kang21 muop52giag33	窗 户
-灶前*	tsau4lein'2	厨 房
-粪坑厝	pung2hnang23uo213	厕 所
-仰板	yong24 meing3天花板
-厅中	tiagnoung44	大厅
+槛门囝	k'ang21 muong52 ngiang33	窗 户
+灶前*	tsau44 leeing52	厨 房
+粪坑厝	pung21 ngang52 zuo213	厕 所
+仰板	ngyong24 meeing33	天花板
+厅中	t'iang nooung44	大厅
 #p1301L
 #六、器具
 家私*	k41444	家具，工具
