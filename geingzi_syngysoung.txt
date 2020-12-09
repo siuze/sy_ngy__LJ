@@ -224,7 +224,7 @@
 椅条	ie21 leu52	条凳
 椅头*	ie21 lau52	凳子
 椅囝	ie24 iang33	小凳 子
-裙座椅	kung21 zoo52 ie33	太师 椅
+裙座椅	kung21 zoo52 ie33	太师椅
 床荐	ts'ooung21 zeing213	草垫
 毡	tsieng44	毛毯
 铺板	p'uo52 βeeing33	床板
