@@ -215,80 +215,80 @@
 厅中	t'iang nooung44	大厅
 #p1301L
 #六、器具
-家私*	k41444	家具，工具
-眠床	ming'ts'oung52	床
-藤床框	tog'souokuog44	床绷子
-行*铺	kian"muong4	临时搭 起的床铺
-月桌	guo?2 t5212园桌
-月椅	quor?ie33	园凳子
-椅条	ie21leu52	条凳
-椅头*	ie2Hlau52	凳子
-椅囝	ie24iang33	小凳 子
-裙座椅	kung2352ie33	太师 椅
-床荐	tsoun?'seing213	草垫
+家私*	ka44 li44	家具，工具
+眠床	ming21 ts'ooung52	床
+籐床框	ting44 zooung44 k'uong44	床绷子%原书即为籐
+行*铺	kiang44 muong44	临时搭 起的床铺%原书音标如此
+月桌	nguo?2 too?12	园桌
+月椅	nguo?2 ie33	园凳子
+椅条	ie21 leu52	条凳
+椅头*	ie21 lau52	凳子
+椅囝	ie24 iang33	小凳 子
+裙座椅	kung21 zoo52 ie33	太师 椅
+床荐	ts'ooung21 zeing213	草垫
 毡	tsieng44	毛毯
-铺板	pu52βeing33	床板
+铺板	p'uo52 βeeing33	床板
 帐	tyong213	蚊帐
-褥	yr	褥子
-棉被	mieng21p'ui242	棉 胎
-簏	loy?S	抽屉
-签甲桌	tsieng21gap'top12	大写字台
-妆台桌	tsyong52nai215212	梳妆台
-鼎㪠	iang4ning213	锅盖
-鼎杼	tiang2*tyo	锅铲
-鼎筅	tian'tseig33	炊帚
-铁☐	Drie12tsie?'铁瓢
-漏☐	lautsie?	漏瓢
-笊篱	tsia4tie52	在水中捞物的用具
-水管*	tsy2*uong33 舀水竹简
-饭☐	pun}'3eirg213	蒸饭具
-拔桶	puar?toyu33	吊水桶
-碗缸	uang21koung44	大碗
-碗囝	uang34 gian'	小碗
-酒盏	tsiu44siang33	酒杯
-酒漀	tsiu2ing52	斟酒酒壶
-茶婆	ta2.ps52	茶壶
-茶桌	ta21lo?12	茶几
-开水壶	kai?23y2Lu52	热水壶
-罗盆	12?Buo52	脸 盆儿
+褥	y?5	褥子
+棉被	mieng21 p'ui242	棉 胎
+簏	loy?5	抽屉
+签甲桌	ts'ieng21 ng?5 too?12	大写字台
+妆台桌	tsyong52 nai21 loo?12	梳妆台
+鼎㪠	tiang44 ngeeing213	锅盖
+鼎杼	tiang24 t'yo33	锅铲
+鼎筅	tiang24 ts'eeing33	炊帚
+铁☐	t'ie12 ts'ie?5	铁瓢
+漏☐	lau44 ts'ie?5	漏瓢
+笊篱	tsia44 lie52	在水中捞物的用具
+水管*	tsy24 uong33 舀水竹简
+饭☐	puoong21 zeing213	蒸饭具
+拔桶	pua?2 t'oyng33	吊水桶
+碗缸	uang21 kooung44	大碗
+碗囝	uang24 ngiang33	小碗
+酒盏	tsiu24 ziang33	酒杯
+酒漀	tsiu21 ing52	斟酒酒壶
+茶婆	ta21 woo52	茶壶
+茶桌	ta21 loo?12	茶几
+开水壶	k'ai?21 zy21 u52	热水壶
+罗盆	loo21 wuong52	脸 盆儿
 #p1301R
-面*布	mig'2muo213	洗脸巾
-牙齿罐	ait**uag213	牙杯
-骹布	ka2PBuo213	擦脚布
-骹桶	ka'21oyy33	洗衣桶
-☐板	hao21meig33	切菜板
-碟囝	tie?kiang33	小碟 子
-洋罐	yon?'guang213	煤油灯
-电光	tieng4ouong44	电灯
-手电	tutteg242	手电筒
-电涂	tieng4teu52	电池
-不求人	pu21kiu2i52	竹 制抓痒具
-纸媒	tsai21mui52	引火 用的细纸卷
-洋火*	yonr'bui33	火柴
-薰筒	houn44noyu52	水烟筒
-柴柿	tsia2pui21	木屑
-火*管*	hui2*uoy33	吹火筒
-甏	pang44 大口缸
+面*布	ming52 muo213	洗脸巾
+牙齿罐	nga21 i44 uang213	牙杯
+骹布	k'a52 wuo213	擦脚布
+骹桶	k'a52 loyng33	洗衣桶
+☐板	hang21 meeing33	切菜板
+碟囝	tie?2 kiang33	小碟 子
+洋罐	yong21 nguang213	煤油灯
+电光	tieng44 nguong44	电灯
+手电	ts'iu44tieng242	手电筒
+电涂	tieng44 t'u52	电池
+不求人	pu?12 kiu21 ing52	竹 制抓痒具
+纸媒	tsai21 mui52	引火 用的细纸卷
+洋火*	yong21 ngui33	火柴
+薰筒	hooung44 noyng52	水烟筒
+柴柿	ts'ia21 p'ui213	木屑
+火*管*	hui24 uong33	吹火筒
+甏	p'ang44 大口缸
 瓮	oyng213	小口缸
-硋鉢	hai21Bua212	缽 头%原书鉢即为繁体
-瓶瓶	ping21ping52	小瓶子
-罐罐	kuag2hkuag213	小罐 子
-筅帚	tseing3*siu33	扫帚
-挂橱	kua44liu52	菜 橱
-猴*桶	kau"loyr"3	提水用 小水桶
-头*梳	tautle4	梳子
-篦梳	pitae44	篦子
-便妆	piensoup	梳妆盒
-衣裳车	4yoyo03ia44	缝纫机
-铰刀	ka441544	剪刀
-竹𥮕	ty?°oung242	晒衣竹竿
-骹踏车	ka"la'fsia44	自行车
-风抽	hungtiu44	打气简
-竹床	ty?"tsoung52	竹床
-竹席	tyltsyo?'竹席 子
+硋鉢	hai21 wua?12	缽 头%原书鉢即为繁体
+瓶瓶	ping21 ping52	小瓶子
+罐罐	kuang21 kuang213	小罐 子
+筅帚	ts'eeing24 ziu33	扫帚
+挂橱	kua44 liu52	菜 橱
+猴*桶	kau21 loyng33	提水用 小水桶
+头*梳	t'au44 loe44	梳子
+篦梳	pi44 loe44	篦子
+便妆	pieng44 zooung44	梳妆盒
+衣裳车	i44 lyong44 zia44	缝纫机
+铰刀	ka44 loo44	剪刀
+竹𥮕	ty?5 ooung242	晒衣竹竿
+骹踏车	k'a21 la?5 ts'ia44	自行车
+风抽	hung44 t'iu44	打气简
+竹床	ty?12 ts'ooung52	竹床
+竹席	ty?12 ts'yo?5	竹席 子
 鼎	tiang33	铁锅
-灶刀	tsau44t14	切菜刀
-文明杖	ue21migftryo322	手杖
+灶刀	tsau44 loo44	切菜刀
+文明杖	ung21 ming21 t'yong242	手杖
 #p1302L
 痰盆	tan?'puong52	痰盂
 #七、动物
