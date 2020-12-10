@@ -290,14 +290,14 @@
 灶刀	tsau44 loo44	切菜刀
 文明杖	ung21 ming21 t'yong242	手杖
 #p1302L
-痰盆	tan?'puong52	痰盂
+痰盆	t'ang21 puong52	痰盂
 #七、动物
-头*牲*	ta4ang44	牲畜
-牛*港	yu2"koy33	公牛
-牛*母*	nu21m33	母牛
-猪射	ty21ia242	公猪
-猪豚	ty44louy52	中猪
-猪囝	ty2iany33 小猪
+头*牲*	t'au4 lang44	牲畜
+牛*港	ngu21 koyng33	公牛
+牛*母*	ngu21 moo33	母牛
+猪射	ty52 lia242	公猪
+猪豚	ty44 looung52	中猪
+猪囝	ty52 iang33 小猪
 菜猪	tsai441y44	肉猪
 羊	yong52	羊
 猫☐	ma21nei213:猫
