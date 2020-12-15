@@ -298,71 +298,71 @@
 猪射	ty52 lia242	公猪
 猪豚	ty44 looung52	中猪
 猪囝	ty52 iang33 小猪
-菜猪	tsai441y44	肉猪
+菜猪	ts'ai44 ly44	肉猪
 羊	yong52	羊
-猫☐	ma21nei213:猫
-鸡角	kie'2oy212	公鸡
-鸭雄	a21hyp52	公鸭
-水鸡	tsy2Hie44	田蛙
-蛒	kuor' toy213	山坑蛙
-青鸭	tsiang52na212	青蛙
-黄蜱	uog21pe52	小青蛙
-黄蜱☐	uoy21 me21lui242	蝌蚪
-老*虎	la21u33	老虎
-老*蛇	laut4tie2	蛇
-拉狸	la21:33	穿山甲
-猴囝	kau21iang33	猴子
-豹囝	pau52iarj	豹子
-溪滑*	ke4kou?淡水大鳗鱼
-☐☐	O0a21ji52	蝉
-蚕囝	tseing21 piang33	蚕
-南尾星	nang21mui121ig4	萤火虫
-☐蝶	puf44lie?'蝴蝶
-麻胡	ma21u52	蜻蜒%原书即为蜒
-风蚊	huo44muong52	蚊子
-菩蝇	pu21lio52	苍蝇
-猫头爷	ma4au4ie2	蜘蛛
-蜢囝	moya4niang33	小黑 虫
-虼蚤	ka24sau33	跳蚤
-虱母*	sei? mo'	虱子
-猴蚓	kau2"ouy33	蚯蚓
+猫☐	ma21 nei213	猫
+鸡角	kie52 oy?12	公鸡
+鸭雄	a?12 hyng52	公鸭
+水鸡	tsy21 ie44	田蛙
+蛒	kuo?5 toyng213	山坑蛙
+青鸭	ts'iang52 nga?12	青蛙
+黄蜱	uong21 p'ee52	小青蛙
+黄蜱☐	uong21 mee21 lui242	蝌蚪
+老*虎	la21 u33	老虎
+老*蛇	lau44 lie52	蛇
+拉狸	la21 li33	穿山甲
+猴囝	kau21 iang33	猴子
+豹囝	pau52 iang33	豹子
+溪滑*	k'ee44 koou?5	淡水大鳗鱼
+☐☐	a21 zi52	蝉
+蚕囝	ts'eeing21 ngiang33	蚕
+南尾星	nang21 mui21 ling44	萤火虫
+☐蝶	pu44 lie?5	蝴蝶
+麻胡	ma21 u52	蜻蜒%原书即为蜒
+风蚊	hung44 muong52	蚊子
+菩蝇	pu21 ling52	苍蝇
+猫头爷	ma44 lau44 ie52	蜘蛛
+蜢囝	moyng24 ngiang33	小黑 虫
+虼蚤	ka24 zau33	跳蚤
+虱母*	sei? mo33	虱子
+猴蚓	kau21 ooung33	蚯蚓
 p1302R
-目虱	meir?sei12	臭虫
-⿰粜蚤母	sa212mo33	蟑螂
-仁蚣	intgoyng	蜈蚣
-黄蚁	uog?'yie242	蚂蚁
-白蚁	pa21nie42?白蚂蚁
-家隻	ka52tsie212	麻雀
-白鸽	pa21a212	白 鸽
-老𪺾	Ia32Ine'	老鹰
-燕囝	ieng'niang33	燕子
-客鹊	ka523yo?12	喜鹊
-☐化	ka2ua213	八哥
-猫*王鸟*	ma2uon?'3eu33	猫头鹰
-乌鸦	44a44	乌鸦
+目虱	mei?2 seei?12	臭虫
+⿰粜蚤母	sa?12 mo33	蟑螂
+仁蚣	ing44 ngo/yng44	蜈蚣
+黄蚁	uog21 ngie242	蚂蚁
+白蚁	pa21 ngie242	白蚂蚁
+家隻	ka52 tsie?12	麻雀
+白鸽	pa21 a?12	白 鸽
+老𪺾	lo21 ngee52	老鹰
+燕囝	ieng52 ngiang33	燕子
+客鹊	k'a52 zyo?12	喜鹊
+☐化	ka21 ua213	八哥
+猫*王鸟*	ma21 uong21 zeu33	猫头鹰
+乌鸦	u44 a44	乌鸦
 𫊻	sing52	青蟹
-蠘	tsieP	梭子蟹
-黄瓜鱼	uong21qu4ny52	黄 花鱼
-虾米	ha21mi33	虾皮
-蟟囝	liu2iang33	蚬子
-马骹	ma2"ka44	马鲛 鱼
-䖳	ta213	海蜇皮
-鳜鱼	ku4y52	鳜鱼
-冬鸡	toyr44gie4	大 墨鱼
-虎𫊻	hu21lig52	蟹类的 一一种
-青鳌	tsiang4no52	海蚌
-虾菇	ha44u44	一 种贝壳类海产
-车利	tsia21ei?13	海蚯蚓
+蠘	ts'ie?5	梭子蟹
+黄瓜鱼	uong21 ngua44 ngy52	黄 花鱼
+虾米	ha21 mi33	虾皮
+蟟囝	liu21 iang33	蚬子
+马骹	ma21 k'a44	马鲛 鱼
+䖳	t'a213	海蜇皮
+鳜鱼	kui44 ngy52	鳜鱼
+冬鸡	toyng44 ngie44	大 墨鱼
+虎𫊻	hu21 ling52	蟹类的 一一种
+青鳌	ts'iang44 ngoo52	海蚌
+虾菇	ha44 u44	一 种贝壳类海产
+车利	ts'ia21 lei213	海蚯蚓
 鲎	hau213	鲎
-鳖	pier12	甲 鱼
+鳖	pie?12	甲 鱼
 龟	kui44	龟
-蛏	teing44	蛏
-鲄囝	ks52iany33	小鱼干
-鱼鲞	gy2"lyoy33	剖开晾干的鱼
-跳鱼	tiu4ay52	鲦鱼
-八蛎*	peir tie242	牡蛎
-鳝	tsiang242	鱔 鱼
-鱿鱼	iu21yy52	鱿鱼
+蛏	t'eeing44	蛏
+鲄囝	k'oo52 iang33	小鱼干
+鱼鲞	ngy21 lyong33	剖开晾干的鱼
+跳鱼	t'iu44 ngy52	鲦鱼
+八蛎*	peei?5 tie242	牡蛎
+鳝	ts'iang242	鱔 鱼
+鱿鱼	iu21 ngy52	鱿鱼
 蚶	hang44	蚶
 p1303L
 章鱼	tsyonoy'2	章鱼
