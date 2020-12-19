@@ -365,154 +365,154 @@ p1302R
 鱿鱼	iu21 ngy52	鱿鱼
 蚶	hang44	蚶
 p1303L
-章鱼	tsyonoy'2	章鱼
+章鱼	tsyong44 ngy52	章鱼
 #八、植物
 籼	tiu242	稻子
-粟*	tsuo212	谷子
-稗	p'e213	稗子
-秫粟*	su?2 tstuo?12	糯谷
-𬖞米	si21mi33	粳米
-番薯	huang4ny52	红薯
-番囝薯	huang21niang21ny52	马铃 薯
-番柿	huap52kei242	西红柿
-芋卵	uo2-louy242	芋 头
-姜母	kyor52m33	母姜
-鼎𰱗	tia443oe213	丝瓜
+粟*	ts'uo?12	谷子
+稗	p'ee213	稗子
+秫粟*	su?2 ts'uo?12	糯谷
+𬖞米	si21 mi33	粳米
+番薯	huang44 ny52	红薯
+番囝薯	huang21 ngiang21 ny52	马铃 薯
+番柿	huang52 k'ei242	西红柿
+芋卵	uo21 looung242	芋 头
+姜母	kyong52 moo33	母姜
+鼎𰱗	tiang44 zoe213	丝瓜
 ☐	pu52	葫芦瓜
-金瓜	kitg4oua44	南 瓜
-萝卜	1a44Bu?萝卜
-蕹菜	uy523ai213	空心菜
-茭笋	ka'21ung33	茭笋
-番椒	huang44siu44	辣椒
-芥菜	kua523ai213	芥菜
-薸	piu52	浮萍
-包菜	pau523ai213	洋白菜
-紫菜	tse44sai213	茄子
-莓梨	mui2152	荸荠
-龙眼	loung?'neig3	龙眼
-荔枝	le43ie44	荔枝
-芭蕉	a44siu44	香蕉
-☐	pau44	柚子%原书☐处为空
-☐红	tsuo2uy2	杨梅
-番石榴	huan'nyoliu52	番石榴
-黄郑	uog21nan'2		黄皮果
-栗子	li?2tsi33	栗子
-杉树*	sarg23ju13	杉树
-梧桐	nu21ung52	梧桐
-松柏	syo21ma?12	松树
-麻竹	ma2"leyp12	毛竹
+金瓜	king44 ngua44	南 瓜
+萝卜	la44 wu?5	萝卜
+蕹菜	ung52 zai213	空心菜
+茭笋	ka52 lung33	茭笋
+番椒	huang44 ziu44	辣椒
+芥菜	kua52 zai213	芥菜
+薸	p'iu52	浮萍
+包菜	pau52 zai213	洋白菜
+紫菜	tsie44 zai213	茄子
+莓梨	mui21 li52	荸荠
+龙眼	looung21 ngeeing33	龙眼
+荔枝	lie44 zie44	荔枝
+芭蕉	pa44 ziu44	香蕉
+☐	p'au44	柚子%原书☐处为空
+☐红	ts'uo21 ung52	杨梅
+番石榴	huang21 nyo44 liu52	番石榴
+黄郑	uong21 nang242		黄皮果
+栗子	li?2 tsi33	栗子
+杉树*	sang52 ziu213	杉树
+梧桐	ngu21 lung52	梧桐
+松柏	syng21 ma?12	松树
+麻竹	ma21 lo/y?12	毛竹
 p1303R
-树*箬	tiutnyor'树叶
-树*桠	tuiu4ne44	树枝
-栽树*	tsaif2tsiu213	种树
-菜栽	tai4sai44	菜苗
-树*栽	tsiu43ai44	树苗
-茉莉	moy?lei42茉莉花
+树*箬	ts'iu44 nyo?5	树叶
+树*桠	tu'iu44 ngee44	树枝
+栽树*	tsai52 ts'iu213	种树
+菜栽	ts'ai44 zai44	菜苗
+树*栽	ts'iu44 zai44	树苗
+茉莉	moy?2 lei242	茉莉花
 #九、人品
-丈夫侬	toung21 muod4noyng52	男人
-诸娘依	tsy4yoygnoy52	女人
-老*侬	lautnoyny2	老人
-老*货	lau2huo213	老人 (贬)
-丈*夫*侬老*	tou'muonoy2"lau242	老男人
-诸娘老*	tsy52nyog21au242 老女人
-单身哥	tanz2nig4o44	单身汉
-守妈	tsiu24ma33	寡妇
-悬*哥	king4944	高个子
-矮囝	e24iang33	矮个子
-汉码大	hang21 mat44tuai242	大个子
-隔壁*厝	ka2"pia2zuo213	邻居
-厝边	tsu4Sieng	邻居
-丈*夫*囝	toung21 muo52iang33	男孩子
-诸娘囝	tsy"noy**niang33 女孩 子
-伲囝哥	neZia21no44	小孩子
-新妇囝	sing21mu52iang33	童养 媳
-☐厝脊	ta21zuo023ei?12	老 处女%原书☐处为空
-谊女	gie"ny33	婢女
-谊囝	pie21iarg3	干儿子
-白面	pa21meing213	妓女
-歹*囝	par24iang33	流氓
-呆*囝	gai24iang33	学坏的人
-好囝	ha24iang33	学好的人
-𪴯囝	Doung21 piang33	傻子
-两*个声	la"ga21iang4	不会讲 本地话的人
-掌盘使	tsyong421 nai213	掌柜的
-长年	toung21nieng52	长工
-煮*食*	tsy21lie?	煮饭婆
+丈夫侬	tooung21 muo44 noyng52	男人
+诸娘依	tsy44 nyong44 noyng52	女人
+老*侬	lau44 noyng52	老人
+老*货	lau21 huo213	老人 (贬)
+丈*夫*侬老*	tooung21 muo44 noyng21 lau242	老男人
+诸娘老*	tsy52 nyong21 lau242 老女人
+单身哥	tan21 ning44 ngoo44	单身汉
+守妈	tsiu24 ma33	寡妇
+悬*哥	keeing44 ngoo44	高个子
+矮囝	ee24 iang33	矮个子
+汉码大	hang21 ma44 tuai242	大个子
+隔壁*厝	ka21 wia52 zuo213	邻居
+厝边	ts'uo44 wieng44	邻居
+丈*夫*囝	tooung21 muo52 iang33	男孩子
+诸娘囝	tsy52 noyng44 ngiang33 女孩 子
+伲囝哥	nie21 iang21 ngoo44	小孩子
+新妇囝	sing21 mu52 iang33	童养 媳
+☐厝脊	ta21 zuo52 zei?12	老 处女%原书☐处为空
+谊女	ngie21 ny33	婢女
+谊囝	ngie21 iang33	干儿子
+白面	pa21 meing213	妓女
+歹*囝	p'ai24 iang33	流氓
+呆*囝	ngai21 iang33	学坏的人
+好囝	hoo24 iang33	学好的人
+𪴯囝	ngooung21 ngiang33	傻子
+两*个声	lang21 nga21 liang44	不会讲 本地话的人
+掌盘使	tsyong44 muang21 nai213	掌柜的
+长年	tooung21 nieng52	长工
+煮*食*	tsy21 lie?5	煮饭婆
 p1304L
-宝☐奶	p24u2*ne33	接生婆
-铜子	toyng233	神汉
-☐☐妈	1232*ma33	招魂女人
-厨司付	tuo21a52ou242	厨师
-赌博鬼	tu21poup'kui3	惯赌
-甲哥	ka?12ks44	搬运工
-和头	huo21lau52	和事老
-新新妇	sig21 ning2 mou242	新娘
-新郎使	sin'2noung21na213	新郎
-乞食*	ky21-sie?乞丐
+宝☐奶	poo21 u24 nee33	接生婆
+铜子	toyng21 zi33	神汉
+☐☐妈	le21 zi24 ma33	招魂女人
+厨司付	tuo21 la52 ou242	厨师
+赌博鬼	tu21 wou?5 kui33	惯赌
+甲哥	ka?12 koo44	搬运工
+和头	huo21 lau52	和事老
+新新妇	sing21 ning52 mou242	新娘
+新郎使	sing52 nooung21 nai213	新郎%使当作婿
+乞食*	k'y?21 sie?5	乞丐
 #十、称谓
 大公	tuai44 ung44	曾祖父
-大妈	tuai21 mai	曾祖母
-依公	4kung4	祖父
-依妈	i52ma33	祖母
-伯公	patung4	伯祖父
-姆妈	mu24ma33	伯祖母
-叔公	tsy?12kung44	叔祖父
-婶妈	sing34 ma	叔祖母
-郎爸	nouy21ma242	父親
-依爹	f4tia44	父親
-娘奶	noung21 ne	母親
-依奶	i52ne33	母親
-依伯	i52pa?12	伯父
-依母	i52mu	伯母
-依家	44ka44	叔叔
-家婶	ka521ing33	婶子
-外*公	nie'*ung4	外祖父
-外*妈	nie21ma3	外祖母
-依舅	52kiu242	舅父
-依妗	52keing342	舅母
-姨姨	4:52	姨母
-姨丈	llyong342	姨丈
-姑妈	ku4*ma	姑母
-姑丈	ku21yor342	姑丈
-依姐	52tsia33	姐姐
-姐夫	tsia21u44	姐夫
+大妈	tuai21 ma33	曾祖母
+依公	i44 kung44	祖父
+依妈	i52 ma33	祖母
+伯公	pa44 ung4	伯祖父
+姆妈	mu24 ma33	伯祖母
+叔公	tsy?12 kung44	叔祖父
+婶妈	sing24 ma33	叔祖母
+郎爸	nooung21 ma242	父親
+依爹	i44 tia44	父親
+娘奶	nooung21 nee33	母親
+依奶	i52 nee33	母親
+依伯	i52 pa?12	伯父
+依母	i52 mu33	伯母
+依家	i44 ka44	叔叔
+家婶	ka52 ling33	婶子
+外*公	ngie44 ung44	外祖父
+外*妈	ngie21 ma33	外祖母
+依舅	i52 kiu242	舅父
+依妗	i52 keing242	舅母
+姨姨	i21 i52	姨母
+姨丈	i21 lyong242	姨丈
+姑妈	ku44 ma44	姑母%后字声调当为33
+姑丈	ku52 lyong242	姑丈
+依姐	i52 tsia33	姐姐
+姐夫	tsia21 u44	姐夫
 p1304R
-依妹	52mui213	妹妹
-妹夫	mui44u44	妹夫
-依哥	44k44	哥哥
-依嫂	5233	嫂子
-依弟	52tie242	弟弟
-弟人**	te4ing52	弟媳
-爹官	te44uang44	公公
-爹家	te44a44	婆婆
-囝	kiag33	儿子
-新妇	sig'2mou242	儿媳
-孙	soung44	孙子，娃儿
-外*甥	gie4leig44	外甥
-外*孙	petloung44	外孙
-孙孙囝	sou21 nouy52niang33	曾 孙
-丈侬	tyong21noyng52	岳父
-丈奶	tyong24ne33	岳母
-叔婶伯罕	tsyp-2sing21 pa52ay3)	妯娌
-兄弟哥	hian'niet44	弟兄
+依妹	i52 mui213	妹妹
+妹夫	mui44 u44	妹夫
+依哥	i44 koo44	哥哥
+依嫂	i52 soo33	嫂子
+依弟	i52 tie242	弟弟
+弟人**	tie44 ing52	弟媳
+爹官	tee44 uang44	公公
+爹家	tee44 a44	婆婆
+囝	kiang33	儿子
+新妇	sing52 mou242	儿媳
+孙	sooung44	孙子，娃儿
+外*甥	ngie44 leeing44	外甥
+外*孙	ngie44 looung44	外孙
+孙孙囝	sooung21 nooung52 ngiang33	曾 孙
+丈侬	tyong21 noyng52	岳父
+丈奶	tyong24 nee33	岳母
+叔婶伯罕	tsy?12 sing21 pa52 ang33	妯娌
+兄弟哥	hiang21 nie44 oo44	弟兄
 姐妹	tsia44 mui213	姐妹
-郎爸囝	noung21 ma52iang3	父子
-娘奶囝	nyong21ne24iang33	母子
-老*公妈	la21u52ma33	夫妻
+郎爸囝	nooung21 ma52 iang33	父子
+娘奶囝	nyong21 nee24 iang33	母子
+老*公妈	la21 ung52 ma33	夫妻
 #十一、饮食
 食*早*	sie?2 tsia33	吃早饭
-食*昼*	sie?tau213	吃午 饭
-食*暝	sie? 'may52	吃晚饭
-糜粥	mui'say?12	稀 饭
-燋饭*	ta52Buong342	干饭
-漉饭*	layPpuog242	捞 饭
-凊饭*	tsing52 muon?ng342 冷饭
-𣗬饭*	kiu52puop242	硬饭
-碎食*	tsoy44lie?'零 食
-熻饭*	hi? puog242	焖饭
-焖饭	mung21puop242	焖饭
-乇配	ng52ui213	下 饭菜
-白𬖞	pa41i52	白 棵
+食*昼*	sie?2 tau213	吃午 饭
+食*暝	sie?2 mang52	吃晚饭
+糜粥	mui21 za/y?12	稀 饭
+燋饭*	ta52 wuong242	干饭
+漉饭*	looy?2 puong242	捞 饭
+凊饭*	ts'ing52 muong242	冷饭
+𣗬饭*	k'iu52 wuong242	硬饭
+碎食*	ts'oy44 lie?5	零 食
+熻饭*	hi?5 puog242	焖饭
+焖饭	mung21 puong242	焖饭
+乇配	noo52 ui213	下 饭菜%原书后字即无声母
+白𬖞	pa44 li52	白 棵
 p1305L
 糖粿	toun'oui3	甜糕
 扁肉	pieng21nyP'馄饨
