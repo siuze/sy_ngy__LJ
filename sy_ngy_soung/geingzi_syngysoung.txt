@@ -588,80 +588,80 @@ p1305R
 裙	kung52	裙子
 背心	pui44 ling44	背心
 p1306L
-汗𧜛	kan}'loung33	汗衣
-羊毛𧜛	yong21m3-louy33	羊毛衣
-背褡	pui521a?12	背心
-羊毛䘥	yong321m32hka22	羊毛背心
-长衫	toung4nang44	长袍
-鲜衣	tieng4:44	旗袍
-大衣	tuai44:44	大衣
-裤头带	k44lau21ai213	裤带
-颂睏衫	syn'noungnany44	睡 腰衣
-鞋靸	2-lia212	拖鞋
-鞋屐	e44kiars	木屐
+汗𧜛	kang21 looung33	汗衣
+羊毛𧜛	yong21 moo21 looung33	羊毛衣
+背褡	pui52 la?12	背心
+羊毛䘥	yong21 moo21 ka?12	羊毛背心
+长衫	tooung44 nang44	长袍
+鲜衣	ts'ieng44 i44	旗袍
+大衣	tuai44 i44	大衣
+裤头带	k'u44 lau21 lai213	裤带
+颂睏衫	syng21 ngooung44 nang44	睡 腰衣
+鞋靸	ee21 lia?12	拖鞋
+鞋屐	ee44 k'ia?5	木屐
 鞋☐屐	e21o44kKia?S	木屐
-☐☐帽	niang21 pianj52 mo242	有舌帽
-碗帽	uang44mo342	瓜 皮帽
-草履靸	tsau144ia2	草 编拖鞋
-围身裙	uilinig4tuy52	围裙
-领巾	liang21oyng44 围巾
-鞋套	e2-t3213	雨鞋
-雨靴	y2uo44	长统雨鞋
-尿燥	niul1.213	尿布
-𪢌遮	lan?'sia4	围嘴儿
-袜	ua?袜子
-耳坠	nj21ui242	耳坠子
-手镯	tsiu21b?手镯子
-手指	tsiu243i3	戒指
-手𦃆	tuiu1212	手套
-手巾	tstu21y4	手帕
-袄轮	321us52	套衫
-手䘼	tsiu2*uo33	袖子
-脰领	tau21iag3	领子
-裤斗	ku521au33	裤裆
-长*䘼	toung2"ouo33	长袖
-短*䘼	toy2tuon'	短袖
+☐☐帽	ngiang21 ngiang52 moo242	有舌帽
+碗帽	uang44 moo242	瓜 皮帽
+草履靸	ts'au21 i44 lia?12	草 编拖鞋
+围身裙	ui21 ling44 ngung52	围裙
+领巾	liang21 ngyng44 围巾
+鞋套	ee21 t'oo213	雨鞋
+雨靴	y21 uo44	长统雨鞋
+尿燥	niu21 loo213	尿布
+𪢌遮	lang21 zia44	围嘴儿
+袜	ua?5	袜子
+耳坠	ngi21 lui242	耳坠子
+手镯	ts'iu21 loo?5	手镯子
+手指	ts'iu24 zi33	戒指
+手𦃆	tsiu44 1oo?12	手套
+手巾	ts'iu21 yng44	手帕
+袄轮	oo21 lung52	套衫
+手䘼	ts'iu24 uong33	袖子
+脰领	tau21 liang33	领子
+裤斗	k'u52 lau33	裤裆
+长*䘼	toung21 nguong33	长袖
+短*䘼	to/y24 uong33	短袖
 *十四、身体
-头*	tau2	脑袋
-头*发	tau2"uo212	头发
-额头*	qaleu'2	额头
-眉毛	mi21m52	眉毛
-目*霎	moy?sia12	睫毛
-目*睭	mei? tsiu44	眼睛
-面*𱂮	migf2me33	脸蛋儿%䫌
-鼻	pei13	鼻子
-耳*	gei42	耳朵
-喙	tsui213	嘴
-喙皮*	tul4Buis	嘴唇
-牙齿	na21:33	牙齿
-喙舌	tuttie	舌头
-喙⿱髟须	tsuif41iu44	胡须%鬚
-下颏	a4hai52	下巴
-喉咙	he21oyu52	喉咙
-脰𦜩	tau2Luor22	脖子
-心肝	sinynang44	胸部
-六条骨	loy?teu2bou?12 肋骨
-𬂌	neip52	乳房
-腹*老	pu2133	肚子
-腹*脐*	pu212sai52	肚脐
-手肚	tsiu241u33	手臂
-胳洛下	ko?4lou?a242	腋下
-巴掌	pa523yong33	手掌
-掌指	tsieng2*3ai33 手指
-掌甲	tsieg44na?12	指甲
-掌头母*	tsieng2*nau21m33	大 母指
-鸡角指*	kie21oy?12tsai33	食指
-台中*指*	tai21buy52tsa33	中指
-无*名*指*	m321miang21sai33	无名指
-尾掌指*	mui21sieng243ai33	小指
-骹肚囝	ka21u24iang33	小腿
-骹𩨑	ka44 nang44	脚后跟
-骹☐底	ka21syo2*1e33	脚底
-骹目睭	ka21 mirftsiu44	脚踝
-骹腹*头*	ka2Bu?l-tau52	膝盖
-骹掌指*	kalsieng243ai33	脚指
-骹柄下	ka2Bar52na242	胯 下
-股川	ku213yong44	屁股
+头*	t'au52	脑袋
+头*发	t'au21 uo?12	头发
+额头*	ngia44 lau52	额头
+眉毛	mi21 moo52	眉毛
+目*霎	moy?2 sia12	睫毛
+目*睭	meei?5 tsiu44	眼睛
+面*𱂮	ming52 mee33	脸蛋儿%䫌
+鼻	p'ei213	鼻子
+耳*	ngei242	耳朵
+喙	ts'ui213	嘴
+喙皮*	ts'ui44 wui52	嘴唇
+牙齿	nga21 i33	牙齿
+喙舌	ts'ui44 lie?5	舌头
+喙⿱髟须	ts'ui44 liu44	胡须%鬚
+下颏	a44 hai52	下巴
+喉咙	hoe21 loyng52	喉咙
+脰𦜩	tau21 uo?12	脖子
+心肝	sing44 ngang44	胸部
+六条骨	loy?2 teu21 oou?12 肋骨
+𬂌	neeing52	乳房
+腹*老	pu?12 loo33	肚子
+腹*脐*	pu?12 sai52	肚脐
+手肚	ts'iu24 lu33	手臂
+胳洛下	koo?12 loou?5 a242	腋下
+巴掌	pa52 zyong33	手掌
+掌指	tsieng24 zai33 手指
+掌甲	tsieng44 nga?12	指甲
+掌头母*	tsieng24 nau21 moo33	大 母指
+鸡角指*	kie21 oy?12 tsai33	食指
+台中*指*	tai21 looung52 tsai33	中指
+无*名*指*	moo21 miang21 zai33	无名指
+尾掌指*	mui21 zieng24 zai33	小指
+骹肚囝	k'a21 lu24 iang33	小腿
+骹𩨑	k'a44 nang44	脚后跟
+骹☐底	k'a21 zyo24 lee33	脚底
+骹目睭	k'a21 meei?5 tsiu44	脚踝
+骹腹*头*	k'a21 wu?12 t'au52	膝盖
+骹掌指*	k'a21 zieng24 zai33	脚指
+骹柄下	k'a21 wang52 nga242	胯 下
+股川	ku21 zyong44	屁股
 #p1307L
 肾脬	lng44p'a44	阴囊
 肾核子	lng'ouor?ts33	睾丸
