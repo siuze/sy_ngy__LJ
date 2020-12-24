@@ -663,79 +663,80 @@ p1306L
 骹柄下	k'a21 wang52 nga242	胯 下
 股川	ku21 zyong44	屁股
 #p1307L
-肾脬	lng44p'a44	阴囊
-肾核子	lng'ouor?ts33	睾丸
-朘友	noy2*iu33	男阴
-姕𱂮	tsi52Be3女阴%䫌	
-目滓	moyr2 tsai33	眼泪
-鼻☐	pi51ce52	鼻涕
-鼻屎	pi521ai33	鼻精(干结的鼻涕)
+肾脬	ling44 p'a44	阴囊
+肾核子	ling21 nguo?2 tsi33	睾丸
+朘友	noy21 iu33	男阴
+姕𱂮	tsi52 wee33	女阴%䫌	
+目滓	mooy?2 tsai33	眼泪
+鼻☐	p'i52 loe52	鼻涕
+鼻屎	pi52 lai33	鼻精(干结的鼻涕)
 𪢌	lang33	口水
-苦毛	ku21mo52	毫毛
+苦毛	k'u21 mo52	毫毛
 #十五、疾病
-破*病*	puai52pag242	生病
-无*力*☐	ma21nirPai52	不舒服，病了
-喫亏	ki212kui44	难受
-看病*	kan'2pang242	医病
-牧病*	muo? pang242	医病
-惊凊	kiang52tseing213	怕冷
+破*病*	p'uai52 wang242	生病
+无*力*☐	moo21 ni?5 ai52	不舒服，病了
+喫亏	k'i?12 k'ui44	难受
+看病*	k'ang52 pang242	医病
+牧病*	muo?2 pang242	医病
+惊凊	kiang52 ts'eing213	怕冷
 嗽	sau213	咳嗽
-吐	tou213	呕吐
+吐	t'ou213	呕吐
 病泻	pang21 nia213	拉肚子
 过	kuo213 传染
-发烧	hua212siu44	发热
-头*眩*	tau52hing2	头晕
-生*𭼕	sany52huong213	长疖子
-生*痱	sany2pui213	长痱子
-拍*腹*寒*	pa2"pu212kang52	打摆子
-病疳	pang44kang44	疳积
-病囝	pang21 piang33	害喜
-病腿	pang21toy33	麻 疯病
-生*㾸𤶁	sas52k321242	长疥疮
-生疥	sang52ke213	长疥疮
-病哑	pang21ga33	哑巴
-耳聋	ifloy2	耳朵聋
-眚盲	tsanf44mag52 眼瞎
-光瞎	kuop52qa?12	青 光眼
-缺喙	kiertsui213	豁唇
-病*颤疯	par2isegou4	肢体 颤抖
+发烧	hua?12 siu44	发热
+头*眩*	t'au52 hing52	头晕
+生*𭼕	sang52 huong213	长疖子
+生*痱	sanng52 pui213	长痱子
+拍*腹*寒*	pa21 pu?12 kang52	打摆子%原书即为pa21
+病疳	pang44 kang44	疳积
+病囝	pang21 ngiang33	害喜
+病腿	pang21 t'ooy33	麻 疯病
+生*㾸𤶁	sang52 koo21 loo242	长疥疮
+生疥	sang52 kee213	长疥疮
+病哑	pang21 nga33	哑巴
+耳聋	ngi44 loyng52	耳朵聋
+眚盲	ts'ang44 mang52	眼瞎
+光瞎	kuong52 nga?12	青 光眼
+缺喙	k'ie?5 ts'ui213	豁唇
+病*颤疯	pang21 zieng44 ngung44	肢体 颤抖
 #p1307R
-瘌头	la212tau52	秃头
-麻面	ma21meing213	麻脸
-大舌☐	tuai21ie? poe33	口吃
-出铺	tsu212puo44	出麻疹
-出水珠	tsup?2tsy'3uo44	出水痘
-中风	tyo44oung4	脑溢 血
-摆骹	pai?lka44	跛脚
-弯髀	uang4piang4	驼背
-羊眩*	yop2"hig52	羊 癫病
-冻子	toy5233	冻疮
-☐肠头	tou?'s toung3'nau52	疝气
-结肠	kier12tyor52 便秘
-啡血	pui5SheiP12	吐血
-发*核	puor"hou?'鼠疫
-泼尿	puarfniu242	泄尿
-拈药	nienfyo?'抓药
-食药	sieP'yo?'服药
-破相	ps521yong213	五官 缺陷
+瘌头	la?12 t'au52	秃头
+麻面	ma21 meing213	麻脸
+大舌☐	tuai21 lie?5 poe33	口吃
+出铺	ts'u?12 p'uo44	出麻疹
+出水珠	ts'u?12 tsy21 zuo44	出水痘
+中风	tyng44 ngung4	脑溢 血
+摆骹	pai21 k'a44	跛脚
+弯髀	uang44 p'iang4	驼背
+羊眩*	yong21 hing52	羊 癫病
+冻子	toyng52 zi33	冻疮
+☐肠头	t'ou?5 tooung21 nau52	疝气
+结肠	kie?12 tyong52	便秘
+啡血	p'ui52 heei?12	吐血
+发*核	puo?12 hou?5	鼠疫
+泼尿	pua?5 niu242	泄尿
+拈药	nieng44 yo?5	抓药
+食药	sie?5 yo?5	服药
+破相	p'oo52 lyong213	五官 缺陷
 #十六、风俗
-讨親	t2-3ing44	娶親
-讨新妇	t321ig52mou242	娶 媳妇
-做新妇	ts3'Iin$2mou242 出嫁
-出门	tsu212muong52	出嫁
-过门	kuo#muong52	出嫁
-送门头	soyn44muo'naus52	送礼
-做十	tsssirs	做寿
+讨親	t'oo21 zing44	娶親
+讨新妇	t'oo21 ling52 mou242	娶 媳妇
+做新妇	tsoo21 ling52 mou242 出嫁
+出门	ts'u?12 muong52	出嫁
+过门	kuo44 muong52	出嫁
+送门头	soyng44 muong44 nau52	送礼
+做十	tsoo44 seei?5	做寿
 做晬	ts52tsoy213	庆婴儿周 岁
-做三旦	ts-sasy5Snang213	庆婴 儿出生三天
-做满月	t521 muang21 guop'庆 婴儿出生一个月
-生去*	sing4ng213	死去
-过后	kuo52au242	去世
-收☐	su4liP	收殓
-进葬	tsiry23ou3213	出葬
-头七	tau21seip12 人 死后第七天祭奠
-断七	toung21seir12	人死后 第四十九天祭奠
-安三	a44nang4	葬后第三天 上墓山祭奠
+做三旦	tsoo21 sang52 nang213	庆婴 儿出生三天
+做满月	tsoo21 muang21 nguok?5	庆 婴儿出生一个月
+生去*	seeing44 ngoo213	死去
+过后	kuo52 au242	去世
+收☐	siu44 li?5	收殓
+进葬	tsing52 zooung213	出葬
+头七	t'au21 zei?12	人 死后第七天祭奠
+断七	tooung21 zei?12	人死后 第四十九天祭奠
+安三	ang44 nang4	葬后第三天 上墓山祭奠
+p1308L
 硩纸	ta2ai3	扫墓 后把冥钱压在坟头
 地理先生	ti'ignang	看风水选墓址的
 道士	t21a242	祭奠死者时念经的道士
