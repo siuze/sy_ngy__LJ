@@ -822,143 +822,143 @@ p1306L
 酱园店	tsyong44 nguong21 neeing213	酱制食品店
 药材店	yo21 zai21 leeing213	中药铺
 退衣店	t'oo21 i52 leeing213	估 衣店
-馆店	kuanf44neig213	菜馆
-剃头店	tielaua'leig213	理发店
-客栈	ka523iang342	旅社
-茶店	talleig?	茶馆
-硋店	hai211leing213	陶瓷 器店
-数簿桌	su2Bu0o5215242	账房
-柜头	kuit4lau52	柜台
-番钱	huansien'2	银圆
-银角	nyn"noy?12	小银圆
-铜片	toy?'pieng213	小铜钱
-工钱	koy4sien'2	工资
-花采钱	hua23sai"sieo52	小费
-趁钱	totsies	赚钱
-折本	sie? puog33	亏本
-讲价	kouo44ka213	讲价钱
-起价	ki*4a213	涨价
-填价	tig21ka213	还价， 讨价
-倩工	tiankoyng44	雇工
-籴米	tier?mi33	买米
-粜粟	tiu2tsuo?12	卖谷子
-碎钱	tsoysiens	零钱
-权钱	kuo21sieg52	整钱
-欠数	kieo*2nou213	欠账
-赊数	sia*21ou213	赊账
-倒街	t32ke44	商品过剩
-拍倒店	p12*f4tig?32	店铺倒闭
-p1309R
-成花	sanyftu*4	成交
+馆店	kuang44 neeing213	菜馆
+剃头店	t'ie44 lau21 leing213	理发店
+客栈	k'a52 ziang242	旅社
+茶店	ta21 leeing214	茶馆
+硋店	hai21 leeing213	陶瓷 器店
+数簿桌	su21 wuo52 lo?242	账房
+柜头	kui44 lau52	柜台
+番钱	huang44 zieng52	银圆
+银角	ngyng21 ngoy?12	小银圆
+铜片	toyng?21 p'ieng213	小铜钱
+工钱	koyng44 zieng52	工资
+花采钱	hua21 zai21 zieng52	小费
+趁钱	t'ing44 ts'ieng52	赚钱 %原书即为ts'ieng52
+折本	sie?2 puong33	亏本
+讲价	kooug44 ka213	讲价钱
+起价	k'i44 a213	涨价
+填价	teeing21 ka213	还价， 讨价
+倩工	ts'iang44 koyng44	雇工
+籴米	tie?2 mi33	买米
+粜粟	t'iu52 ts'uo?12	卖谷子
+碎钱	ts'oy44 zieng52	零钱
+权钱	kuong21 zieng52	整钱
+欠数	k'ieng52 nou213	欠账
+赊数	sia52 lou213	赊账
+倒街	too21 kee44	商品过剩
+拍倒店	p'a21 loo44 leeing213	店铺倒闭
+#p1309R
+成花	siang44 ngua44	成交
 #二十、文教
-学堂	hou?toung2	学校
-去*斋	k44tse44	上学
-上堂	syon44toup52	上课
-落堂	Io44lbu52	下课
-放*昼*	pup521nau2213 放午学
-放暝	pung44mang52	放晚学
-背书	put4tsy4	背诵课文
-水笔	tsyBeip12	毛笔
-洋笔	yong21mei12	铅笔
-几何车	k443ia44	圆规
-簿簿	puo2"puo242	练习本
-做码	ts52ma33	考书做弊
-鸭母卵	a?Qnobung242	考书得零分
-头*名*	tau21miang52	第一名
-尾名	mui21miary52	最后一名
-关*昼*	kuoy44nau213	中午不让学 生放学
-关*暝	kuong44mang52	下午不让学 生放学
-徛堂	kiet#loup52	站着 上课
-走*走*搦	tsau'tsu'nier'-种追 抓跑者的游戏
-屈屈密	ku21ku2meir'一种寻找躲藏者的游戏
-抛*粪斗	pa2"puz2*nau33	打滚翻
-行*棋	kiag'ki52	下棋
-放*纸鹞	pur'tsai*4iu242 放风筝
-舞龙	2"lyu52	舞龙
-拍*狮	pa1ai44	舞 狮子
-泅水	siu213y33	游泳
-做戏	ts5hie213	演戏
-拍*打	pa*21a33	武打
-伬唱	tsie523yong213	有伴奏的民间戏曲演唱
-十番伬	sier2 huang4tsie4	民间音乐合奏
-锣鼓板	121u24Being33	锣 鼓钹等民间敲打乐器合奏
+学堂	hoou?5 tooung52	学校
+去*斋	k'o44 tsee44	上学
+上堂	syong44 tooung52	上课
+落堂	loo44 looung52	下课
+放*昼*	pung52 nau213 放午学
+放暝	pung44 mang52	放晚学
+背书	pui44 tsy44	背诵课文
+水笔	tsy44 wei?12	毛笔
+洋笔	yong21 mei?12	铅笔
+几何车	ki44 o44 zia44	圆规
+簿簿	puo21 puo242	练习本
+做码	tsoo52 ma33	考书做弊
+鸭母卵	a?12 mo44 looung242	考书得零分
+头*名*	t'au21 miang52	第一名
+尾名	mui21 miang52	最后一名
+关*昼*	kuong44 nau213	中午不让学 生放学
+关*暝	kuong44 mang52	下午不让学 生放学
+徛堂	k'ie44 looung52	站着 上课
+走*走*搦	tsau21 tsau21 nie?5	-种追 抓跑者的游戏
+屈屈密	k'u?12 k'u?12 meei?5	一种寻找躲藏者的游戏
+抛*粪斗	p'a21 pung24 nau33	打滚翻
+行*棋	kiang21 ki52	下棋
+放*纸鹞	pung21 tsai44 iu242 放风筝
+舞龙	u21 lyng52	舞龙
+拍*狮	p'a44 lai44	舞 狮子
+泅水	siu21 zy33	游泳
+做戏	tsoo52 hie213	演戏
+拍*打	p'a52 la33	武打
+伬唱	ts'ie52 zyong213	有伴奏的民间戏曲演唱
+十番伬	sie?2 huang44 ts'ie44	民间音乐合奏%原书即为sie?
+锣鼓板	loo21 u24 weeing33	锣 鼓钹等民间敲打乐器合奏
 #p1310
-批	pie44	信
-批袋	pie521oy242	信封
-批纸	pie523ai33	信笺
-批肉	piet4nypS	信封 里的信
+批	p'ie44	信
+批袋	p'ie52 loy242	信封
+批纸	p'ie52 zai33	信笺
+批肉	p'ie44 ny?5	信封 里的信
 #二十一、动作
-觑	tsoy213	看
-望	moung342	看
-盻	he33	怒视， 白眼
-相	syon?13	细看
+觑	ts'o/y213	看
+望	mooung242	看
+盻	hee33	怒视， 白眼
+相	syong213	细看
 ☐	sau33	快看
-☐	tia?12	眨眼
-䀫	keir12	闭眼
-☐鼻	taupei213	擤鼻涕
-☐	Otsoyp12	吻
-啜	tsuo?12	喝
+☐	t'ia?12	眨眼
+䀫	k'eei?12	闭眼
+☐鼻	t'au44 p'ei213	擤鼻涕
+☐	tsoy?12	吻
+啜	ts'uo?12	喝
 𠲿	so?12	吮吸
-㖹	puy52	吹
+㖹	pung52	吹
 嗅	hiu213	闻
 告	koe213	叫
 吼	hau33	招呼
-告叫	koe5kiu213	大声喊叫
-☐	Oke33	啃
-☐	Oka242	咬
-嚗	po22	骂
-𠿝	ts'oe'	呵叱
-𠰭	mau3	闭唇
-啡𪢌𪢌	pui21ag33	吐口水%原书重字
-诅	tsou'	咒骂
-诅喙	tsu23ui213	赌咒
-嚼	tsyo?'	咀嚼
-𫼗	ma4	五指抓
-撚	noung52	两指揉
-掇	tou?12	端
-捽	tsou?22	扯
-𢯾	mo'213 敲打
+告叫	koe52 kiu213	大声喊叫
+☐	k'ee33	啃
+☐	ka242	咬
+嚗	poo?12	骂
+𠿝	ts'oe52	呵叱
+𠰭	mau33	闭唇
+啡𪢌𪢌	p'ui21 lang33	吐口水%原书重字
+诅	tsou213	咒骂
+诅喙	tsu52 zui213	赌咒
+嚼	tsyo?5	咀嚼
+𫼗	ma44	五指抓
+撚	nooung52	两指揉
+掇	toou?12	端
+捽	tsoou?22	扯
+𢯾	moo213 敲打
 𪮋	soy?12	摔打
 捭	pi44	拉
 #p1310R
-𢪱	u	挥舞
-𢱤	soyo3	推搡
-捵	riang33	推开
+𢪱	u?5	挥舞
+𢱤	soyng33	推搡
+捵	t'iang33	推开
 拍*	pa?12	打
-捋	lar’挽，摩
-瘿	einq44	放
+捋	la?5	挽，摩
+瘿	eeing44	放
 羁	kie44	结，扣
 抔	pou?12	双手捧
 掼	kuang242	提
 㧾	hou?12	用条物打
-抾	kce33	扔
-掏	t52	拿
+抾	k'oe33	扔
+掏	too52	拿
 拈	nieng44	拿
-刡	mie4	削皮
+刡	mie44	削皮
 摒	piang213	倒掉
-☐	loung44	拳打
+☐	looung44	拳打
 舂	tsyng44	拳打
 櫼	tsieng44	打入， 挤入
-鼓(搅) ku33	搅拌
+鼓(搅)	ku33	搅拌
 抖	teu33	抽打
-克	kei?12	挤
+克	k'eei?12	挤
 硩	ta?12	压
 ☐	sa52	乱拿
-磕	kou?' 碰，敲打
-扛	koung44	抬
-杠	koup52	肩负
-☐	kia?'单头挑
-☐	tie33	撕
-☐ hieng213	扔
-☐	1liu44	扔
+磕	k'ou?5 碰，敲打
+扛	kooung44	抬
+杠	k'ooung52	肩负
+☐	kia?5	单头挑
+☐	t'ie33	撕
+☐	hieng213	扔
+☐	liu44	扔
 𫦉	leu33	剜
 挢	kiu242	撬
 𰫋	mang44	蒙上%䊟
 泯	ming44	躲
-囥	kou3213	藏起
-𦃆	b2	套入
-拭	tsei212	擦
-抹	mua22	涂上
+囥	k'ooung213	藏起
+𦃆	loo?12	套入
+拭	ts'ei?12	擦
+抹	mua?12	涂上
 #p1311L
 𢶀	tsoy213	寻找
 行*	kian'2	走
