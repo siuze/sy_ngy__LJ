@@ -736,92 +736,92 @@ p1306L
 头七	t'au21 zei?12	人 死后第七天祭奠
 断七	tooung21 zei?12	人死后 第四十九天祭奠
 安三	ang44 nang4	葬后第三天 上墓山祭奠
-p1308L
+#p1308L
 硩纸	ta52 zai33	扫墓 后把冥钱压在坟头
 地理先生	ti21 li21 sing44 nang44	看风水选墓址的
 道士	too21 lai242	祭奠死者时念经的道士
 金银箔	king44 ngyng44 moo?5	冥钱
 元宝箔	nguong21 mo31 woo?5	冥钱
-香线	hyoyg52niang213	香
-糙衫	ts'4ang44	麻衣
-断杖	toung21 nyor242	哭丧棒
-筅堂	tseing21 nour52	过年大扫除
-做年	ts4nieng2	过年
-硩岁钱	xa24uif4sieg52	压岁钱
-字运	tsi24ouy242 运气
-过运	kuo52ouy242	度过厄运
-公婆龛	kung4m44kang44	祖 宗牌位
-行第	ouz21ne242	辈份
+香线	hyong52 niang213	香
+糙衫	ts'oo44 lang44	麻衣
+断杖	tooung21 nyong242	哭丧棒
+筅堂	ts'eeing21 noung52	过年大扫除
+做年	tsoo44 nieng52	过年
+硩岁钱	ta21 ui44 zieng52	压岁钱
+字运	tsi21 oung242	运气
+过运	kuo52 oung242	度过厄运
+公婆龛	kung44 moo44 k'ang44	祖 宗牌位
+行第	ooung21 nee242	辈份
 #十七、农事
-粪池	pung44nie2	粪池， 厕所
-镰𬭴	lieng?"nei?12	镰刀
-播田	puo4*seing52	插秧
-薅草	hau52sau33	除草
-割粙	ka?ftiu242	割稻子
-做田	totseing52	种田
-饲*牛	tsit4tu52	看牛
-拾*猪屎	ka12ty521ai33	拣猪 粪
-棕蓑	tsoy'*nai44	蓑衣
-扁担	pieg21nang4	扁挑
-沃料	uo521eu24	浇肥
-曝栗	p'uo2"3uo?12	晒谷子
-栽菜	ta52tsai213	种菜
-硩番薯	ta2Luang4ny52	种番 薯
-拾*柴	ka212tsia52	砍柴火
-剉树*	tsoy2tsSu213	砍树
-摔粙	soy?tiu242	打谷子
-牛栏	qu2"lang2	牛栏
-鸡宿	kie21iu2413	鸡窝
-擦番薯米	tia?2huayg2ny2*m33	刨番 薯丝
+粪池	pung44 nie52	粪池， 厕所
+镰𬭴	lieng21 ngeei?12	镰刀
+播田	puo44 zeeing52	插秧
+薅草	hau52 zau33	除草
+割粙	ka?5 tiu242	割稻子
+做田	tsoo44 ts'eeing52	种田
+饲*牛	tsi44 ngu52	看牛%原书即为ts
+拾*猪屎	k'a?12 ty52 lai33	拣猪 粪
+棕蓑	tsoyng44 nai44	蓑衣
+扁担	pieng21 nang44	扁挑
+沃料	uo52 leu242	浇肥
+曝栗	p'uo21 zuo?12	晒谷子
+栽菜	tsai52 ts'ai213	种菜
+硩番薯	ta21 uang44 ny52	种番 薯
+拾*柴	k'a?12 ts'ia52	砍柴火
+剉树*	ts'oy52 ts'iu213	砍树
+摔粙	soy?5 tiu242	打谷子
+牛栏	ngu21 lang52	牛栏
+鸡宿	kie52 liu213	鸡窝
+擦番薯米	ts'ia?12 huang52 ny21 mi33	刨番 薯丝
 #p1308R
-犁	1e52	犁
-耙	pa242 松土，碎土
-粪☐	u44tsia21粪勺
-涂箕	44:44	土箕
-水车	tsy)"3ia44	水车
-水碓	tsy4ai213	水力 带动碾米、磨麦的机器
-麦房	ma4Buy52	磨麦作坊
+犁	lee52	犁
+耙	pa242	松土，碎土
+粪☐	pung44 ts'ia?5	粪勺
+涂箕	t'u44 i44	土箕
+水车	tsy21 zia44	水车
+水碓	tsy44 lai213	水力 带动碾米、磨麦的机器
+麦房	ma44 wung52	磨麦作坊
 #十八、工艺
-做度绳	t52+u4i52	盖 房屋司付
-做细桌	t521s5210?12	制木器司付
-衣裳司付	2"lyog21na2ou242	做 衣服司付
-做涂司付	ts4q52s?2ou242	泥水匠
-厨司付	tuo2"1a52ou242	厨师
-做竹司付	t52toyey252u242	竹 器匠
-拍*铁	pa2tie2	打铁
-拍*石*	pat4lyor' 打石头
-佮桶	ka?12toyr33	制桶
-拍席	pa44ts'yor'编草席
-鞝鞋	tsyog44e52	把鞋帮、鞋底缝合成鞋
-拾搭厝	ka21a?'tstuo213	修理 房屋
-起厝	ktsuo213	盖房屋
-弹棉	tang21mier52	弹 棉花
-箍桶	ku'toyo33	箍桶
-铸鼎	tsuo52tiang33	铸锅
-补鼎	puco24tiang33 补锅
-针黹	tseing23i33 做针线活
-㔏墙	le2tsyoy'2	砌墙
-砌墙	tsie?l'ts'yoy'2	砌墙
-㔏灶	letsau213	砌灶
-拍金	pa44king4	打金首饰
-拍锡	pa52seip12	打锡制品
-搭被	tar?pu242	缝 被子
-𬘜衣裳	teng214lyoy02	缝衣服
-铰布	ka2puo2213	剪布
-做饼	ts52piay33	制饼
-做竹	ts52toyp)2)制竹器
+做度绳	tsoo21 tu44 ling52	盖 房屋司付
+做细桌	tsoo21 see52 loo?12	制木器司付
+衣裳司付	i21 lyong21 na52 ou242	做 衣服司付
+做涂司付	tsoo44 t'u52 sa52 ou242	泥水匠
+厨司付	tuo21 la52 ou242	厨师
+做竹司付	tsoo52 to/y?12 sa52 ou242	竹 器匠
+拍*铁	p'a52 t'ie?12	打铁
+拍*石*	p'a44 lyo?5	打石头
+佮桶	ka?12 t'oyng33	制桶
+拍席	p'a44 ts'yo?5	编草席
+鞝鞋	ts'yong44 ee52	把鞋帮、鞋底缝合成鞋
+拾搭厝	k'a21 la?5 ts'uo213	修理 房屋
+起厝	k'i44 ts'uo213	盖房屋
+弹棉	tang21 mieng52	弹 棉花
+箍桶	k'u52 t'oyng33	箍桶
+铸鼎	tsuo52 tiang33	铸锅
+补鼎	puo24 tiang33 补锅
+针黹	tseeing52 zi33 做针线活
+㔏墙	lie21 ts'yong52	砌墙
+砌墙	ts'ie?12 ts'yong52	砌墙
+㔏灶	lie44 tsau213	砌灶
+拍金	p'a44 king44	打金首饰
+拍锡	p'a52 sei?12	打锡制品
+搭被	ta?5 p'ui242	缝 被子
+𬘜衣裳	t'ieng21 i44 lyong52	缝衣服
+铰布	ka52 puo213	剪布
+做饼	tsoo52 piang33	制饼
+做竹	tsoo52 to/y?12	制竹器
 #1309L
-破*篾	puail#mie?破竹子
+破*篾	p'uai44 mie?5	破竹子
 #十九、商业
-做生意	t52-lein'ne23	做生意
-老板	lz"'peig33	老板
-伙计	hu4ei213	伙计
-师兄	saitiang44	伙计， 学徒
-京果店	king'ou4leing213	食品干果店
+做生意	tsoo21 leeing52 ngei213	做生意
+老板	loo21 peeing33	老板
+伙计	huo44 ei213	伙计
+师兄	sai44 iang44	伙计， 学徒
+京果店	king21 ngou44 leeing213	食品干果店
 苏纺店	su2uongfneing213	百 货店
-酱园店	tsyo"ouo?'neing213	酱制食品店
-药材店	yo'sai"leig213	中药铺
-退衣店	t321:521eing213	估 衣店
+酱园店	tsyong44 nguong21 neeing213	酱制食品店
+药材店	yo21 zai21 leeing213	中药铺
+退衣店	t'oo21 i52 leeing213	估 衣店
 馆店	kuanf44neig213	菜馆
 剃头店	tielaua'leig213	理发店
 客栈	ka523iang342	旅社
