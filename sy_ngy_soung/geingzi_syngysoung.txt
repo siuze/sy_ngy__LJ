@@ -960,99 +960,99 @@ p1306L
 拭	ts'ei?12	擦
 抹	mua?12	涂上
 #p1311L
-𢶀	tsoy213	寻找
-行*	kian'2	走
-走*	tsau3	逃
+𢶀	ts'oy213	寻找
+行*	kiang52	走
+走*	tsau33	逃
 躃	pie213	跑
-☐	kiu213	蹲
-踅	suop'	旋转
-𢬳	tu?'	刺入%注意字形，原书为⿰扌秃(大陆)，天珩为⿰扌禿(台湾)
-☐	keip12	刺入
-炬	koy242	点火
-☐	lei212	跳跃
+☐	k'iu213	蹲
+踅	suo?5	旋转
+𢬳	t'u?'	刺入%注意字形，原书为⿰扌秃(大陆)，天珩为⿰扌禿(台湾)
+☐	kei?12	刺入
+炬	ko/y242	点火
+☐	lei?12	跳跃
 跞	lou?2	散步
-趖	tso?'	急奔
-跋	pua?S	跌
+趖	ts'oo?5	急奔
+跋	pua?5	跌
 㰹	hang213	告知
-伐	p'ua?跨步
-☐	iaz	招手
+伐	p'ua?5	跨步
+☐	ia?5	招手
 #二十二、行为
-佮	ka212	合作， 合秋
-泎	tsia212	溅
-拾*	ka?12	捡
-拣	kcing3	挑选
-匀	yo2	分出
-行*动*	kian'lnoyp242	走动
-对手	toy52jiu33 帮忙
-讲证	kou4tseing213	谈天道地
-讲☐☐	DOkouqf4h3213213	说笑
-讲畅	kountyong213	说着 玩
-碎讲	tsoytouy33	闲聊
-蛮笑	mang21tsiu213	开玩笑
-解*闷	ket44moup242	寻开心， 拿别人开玩笑
-解*衰	ke21soy44	捉弄人
-刺*溪	tie'4ke	取笑，挖苦别人
-加三码	ka"lay*2ma33	弄虛作假
-保削	p4lyo22	爱惜，保护
-容纵	yo?'3oy213	纵容
-做愆	tskieg9	做孽
+佮	ka?12	合作， 合秋
+泎	tsia?12	溅
+拾*	k'a?12	捡
+拣	keeing33	挑选
+匀	yng52	分出
+行*动*	kiang21 noyng242	走动
+对手	toy52 ziu33	帮忙
+讲证	kooung44 tseing213	谈天道地
+讲☐☐	kooung44 hoo21 loo213	说笑
+讲畅	kooung44 tyong213	说着 玩
+碎讲	ts'oy44 oung33	闲聊
+蛮笑	mang21 ts'iu213	开玩笑
+解*闷	kee44 moung242	寻开心， 拿别人开玩笑
+解*衰	kee21 soy44	捉弄人
+刺*溪	ts'ie44 k'ee44	取笑，挖苦别人
+加三码	k21 lang52 ma33	弄虛作假
+保削	poo44 lyo?12	爱惜，保护
+容纵	yng21 zoyng213	纵容
+做愆	tsoo44 k'ieng44	做孽
 #1311R
-做证	ts523eig213	设计使人上当
-做胡	tso44hu52	马虎，骗人
-做死胚	t521i2+Bui44	耍赖
-做码	ts52ma	作弊
-做水	ts'23y33	食 物中掺水加重
-做呆	ts4nai52	破罐子破摔
-做畅	ts52tyong3213 开玩笑
-做家	tso44a44	节约
-拍*𰺲	pa52tou3242 丢掉%逷盪
-拍*☐	pa21oy?12	丢掉
-拍*无*	pa52m52	丢失
-拍*𰺲阵	pa2"lbungp*2neing242	迷 路
-拍*𰺲𰉣	pa2"loung52nuo42 迷路
-爆*家	pou?-ka44	暴露，败露
-摊拍*	tang52ma212	排场
-无*☐	mtsyor	不理 睬
-无*察	mo21tsia212	不管
-拨醒*	pual-tsiang33	经点拨醒悟
-变面*	piegy'meing13	翻脸
-问*算	muopf2noung213	责问
-拍*算	pa521oung213	打算
-褪沏*沏*	toung'na21a2	打赤膊
-褪股马	t'oung21yu2+ma3	光臀
-学*	r	学习;背后传话
-受治	siu21ei42	被虐待
-受怪	siu2+uai213	可怜
-定动*	tig21noy0342	动弹
-填谜	teing21 mei?2	猜谜
-拍*施	pa4lie4	散落
-听喙	riang523u213	听话
+做证	tsoo52 zeing213	设计使人上当
+做胡	tsoo44 hu52	马虎，骗人
+做死胚	tsoo52 li21 wui44	耍赖
+做码	tsoo52 ma33	作弊
+做水	tsoo52 zy33	食 物中掺水加重
+做呆	tsoo44 ngai52	破罐子破摔
+做畅	tsoo52 t'yong213 开玩笑
+做家	tsoo44 a44	节约
+拍*𰺲	p'a52 tooung242 丢掉%逷盪
+拍*☐	p'a52 loy?12	丢掉
+拍*无*	p'a52 moo52	丢失
+拍*𰺲阵	p'a21 looung52 neing242	迷 路
+拍*𰺲𰉣	p'a21 looung52 nuo242 迷路
+爆*家	pou?2 ka44	暴露，败露
+摊拍*	t'ang52 ma?12	排场
+无*☐	moo44 ts'yo?5	不理 睬
+无*察	mo21 ts'ia?12	不管
+拨醒*	pua?12 ts'iang33	经点拨醒悟
+变面*	pieng52 meing213	翻脸
+问*算	muong52 nooung213	责问
+拍*算	p'a52 looung213	打算
+褪沏*沏*	t'ooung21 na52 a?12	打赤膊
+褪股马	t'ooung21 ngu24 ma33	光臀
+学*	oo?5	学习;背后传话
+受治	siu21 lei42	被虐待
+受怪	siu21 uai213	可怜
+定动*	ting21 noyng242	动弹
+填谜	teeing21 mei242	猜谜
+拍*施	p'a44 lie44	散落
+听喙	t'iang52 zu213	听话
 #二十三、心理
-八	pei12	知道
-八传	peir?tyo52	知道
-会八	42pei?12	知道， 懂得，认识
-𫧃八	me'Bei2h2	不知道， 不懂，不认识
-会捨	242ia33	捨得
-p1312L
-𫧃捨	me2-li33	捨不得
-八症	peil-tseing213	识相，懂规矩
-当𫧃殆	toung21 me2tai213	受不了
-气	kei213	生气
-恻	tseip12	悲切，生气
+八	peei?12	知道
+八传	peei?2 tyong52	知道
+会八	ee242 peei?12	知道， 懂得，认识
+𫧃八	mee21 weei?12	不知道， 不懂，不认识
+会捨	ee242 sia33	捨得
+#p1312L
+𫧃捨	mee21 lia33	捨不得
+八症	peei?12 tseing213	识相，懂规矩
+当𫧃殆	tooung21 mee52 tai213	受不了
+气	k'ei213	生气
+恻	ts'eei?12	悲切，生气
 愁*	teu52	愁闷
-欢喜	huap°2ni33	喜欢
-见觉	kien'2noy?12	感 觉
-退悔	toy52 ui2413	后悔
-慌瘴	huog4*tsyong44	慌张
-苦	ku33	发愁
+欢喜	huang52 ni33	喜欢
+见觉	kieng52 ngoy?12	感 觉
+退悔	t'oy52 ui213	后悔
+慌瘴	huong44 tsyong44	慌张
+苦	k'u33	发愁
 蒻	yo?12	疲劳，泄气
-会意	hui52i213	理解
-𫧃会意	met4hui21ei213	不理解
-惊	kiang4	怕
-伓惊	ingniang44	不怕
-透骹	tau4ka44	舒服
-念	neing242	想念
-安心	ag4ning	放心
+会意	hui52 ei213	理解
+𫧃会意	mee44 hui21 ei213	不理解
+惊	kiang44	怕
+伓惊	ing44 ngiang44	不怕
+透骹	t'au44 k'a44	舒服
+念	neeing242	想念
+安心	ang44 ning44	放心
 #二十四、性状
 敆壳	ka?2 koyp12	卡壳，难缠
 平*直	pang4ni?	整齐，诚实
