@@ -873,24 +873,24 @@ p1306L
 屈屈密	k'u?12 k'u?12 meei?5	一种寻找躲藏者的游戏
 抛*粪斗	p'a21 pung24 nau33	打滚翻
 行*棋	kiang21 ki52	下棋
-放*纸鹞	pung21 tsai44 iu242 放风筝
+放*纸鹞	pung21 tsai44 iu242	放风筝
 舞龙	u21 lyng52	舞龙
-拍*狮	p'a44 lai44	舞 狮子
+拍*狮	p'a44 lai44	舞狮子
 泅水	siu21 zy33	游泳
 做戏	tsoo52 hie213	演戏
 拍*打	p'a52 la33	武打
 伬唱	ts'ie52 zyong213	有伴奏的民间戏曲演唱
 十番伬	sie?2 huang44 ts'ie44	民间音乐合奏%原书即为sie?
-锣鼓板	loo21 u24 weeing33	锣 鼓钹等民间敲打乐器合奏
+锣鼓板	loo21 u24 weeing33	锣鼓钹等民间敲打乐器合奏
 #p1310
 批	p'ie44	信
 批袋	p'ie52 loy242	信封
 批纸	p'ie52 zai33	信笺
-批肉	p'ie44 ny?5	信封 里的信
+批肉	p'ie44 ny?5	信封里的信
 #二十一、动作
 觑	ts'o/y213	看
 望	mooung242	看
-盻	hee33	怒视， 白眼
+盻	hee33	怒视，白眼
 相	syong213	细看
 ☐	sau33	快看
 ☐	t'ia?12	眨眼
@@ -938,13 +938,13 @@ p1306L
 摒	piang213	倒掉
 ☐	looung44	拳打
 舂	tsyng44	拳打
-櫼	tsieng44	打入， 挤入
+櫼	tsieng44	打入，挤入
 鼓(搅)	ku33	搅拌
 抖	teu33	抽打
 克	k'eei?12	挤
 硩	ta?12	压
 ☐	sa52	乱拿
-磕	k'ou?5 碰，敲打
+磕	k'ou?5	碰，敲打
 扛	kooung44	抬
 杠	k'ooung52	肩负
 ☐	kia?5	单头挑
@@ -977,7 +977,7 @@ p1306L
 伐	p'ua?5	跨步
 ☐	ia?5	招手
 #二十二、行为
-佮	ka?12	合作， 合秋
+佮	ka?12	合作，合秋%原书即为合秋，为错字
 泎	tsia?12	溅
 拾*	k'a?12	捡
 拣	keeing33	挑选
@@ -986,29 +986,29 @@ p1306L
 对手	toy52 ziu33	帮忙
 讲证	kooung44 tseing213	谈天道地
 讲☐☐	kooung44 hoo21 loo213	说笑
-讲畅	kooung44 tyong213	说着 玩
+讲畅	kooung44 tyong213	说着玩
 碎讲	ts'oy44 oung33	闲聊
 蛮笑	mang21 ts'iu213	开玩笑
-解*闷	kee44 moung242	寻开心， 拿别人开玩笑
+解*闷	kee44 moung242	寻开心，拿别人开玩笑
 解*衰	kee21 soy44	捉弄人
 刺*溪	ts'ie44 k'ee44	取笑，挖苦别人
-加三码	k21 lang52 ma33	弄虛作假
+加三码	k21 lang52 ma33	弄虚作假
 保削	poo44 lyo?12	爱惜，保护
 容纵	yng21 zoyng213	纵容
 做愆	tsoo44 k'ieng44	做孽
-#1311R
+#p1311R
 做证	tsoo52 zeing213	设计使人上当
 做胡	tsoo44 hu52	马虎，骗人
 做死胚	tsoo52 li21 wui44	耍赖
 做码	tsoo52 ma33	作弊
-做水	tsoo52 zy33	食 物中掺水加重
+做水	tsoo52 zy33	食物中掺水加重
 做呆	tsoo44 ngai52	破罐子破摔
-做畅	tsoo52 t'yong213 开玩笑
+做畅	tsoo52 t'yong213	开玩笑
 做家	tsoo44 a44	节约
 拍*𰺲	p'a52 tooung242 丢掉%逷盪
 拍*☐	p'a52 loy?12	丢掉
 拍*无*	p'a52 moo52	丢失
-拍*𰺲阵	p'a21 looung52 neing242	迷 路
+拍*𰺲阵	p'a21 looung52 neing242	迷路
 拍*𰺲𰉣	p'a21 looung52 nuo242 迷路
 爆*家	pou?2 ka44	暴露，败露
 摊拍*	t'ang52 ma?12	排场
@@ -1020,7 +1020,7 @@ p1306L
 拍*算	p'a52 looung213	打算
 褪沏*沏*	t'ooung21 na52 a?12	打赤膊
 褪股马	t'ooung21 ngu24 ma33	光臀
-学*	oo?5	学习;背后传话
+学*	oo?5	学习；背后传话
 受治	siu21 lei42	被虐待
 受怪	siu21 uai213	可怜
 定动*	ting21 noyng242	动弹
@@ -1030,8 +1030,8 @@ p1306L
 #二十三、心理
 八	peei?12	知道
 八传	peei?2 tyong52	知道
-会八	ee242 peei?12	知道， 懂得，认识
-𫧃八	mee21 weei?12	不知道， 不懂，不认识
+会八	ee242 peei?12	知道，懂得，认识
+𫧃八	mee21 weei?12	不知道，不懂，不认识
 会捨	ee242 sia33	捨得
 #p1312L
 𫧃捨	mee21 lia33	捨不得
@@ -1041,7 +1041,7 @@ p1306L
 恻	ts'eei?12	悲切，生气
 愁*	teu52	愁闷
 欢喜	huang52 ni33	喜欢
-见觉	kieng52 ngoy?12	感 觉
+见觉	kieng52 ngoy?12	感觉
 退悔	t'oy52 ui213	后悔
 慌瘴	huong44 tsyong44	慌张
 苦	k'u33	发愁
@@ -1056,42 +1056,42 @@ p1306L
 #二十四、性状
 敆壳	ka?2 k'oy?12	卡壳，难缠
 平*直	pang44 ni?5	整齐，诚实
-平*搭	pang21 na?12	稳妥， 周到
+平*搭	pang21 na?12	稳妥，周到
 平*正*	pang21 ziang213	质地不好
-平*长*	pang21 nooung52-样长
+平*长*	pang21 nooung52	一样长
 残	ts'iang52	心狠
 𠏋	k'oe52 傻，笨
 𪴯	ngooung242	傻
 恶	ou?12	凶
 臒	o?12	乖，听话
-下邪	a44 lia52	耍赖， 占便宜
-缠绊	tieng21 muang242	纠缠 不清
-好高瘌	hoo21 koo52 la?12	自大， 好表现
-呆*乇	ngai21 no?12	坏东西， 坏蛋
+下邪	a44 lia52	耍赖，占便宜
+缠绊	tieng21 muang242	纠缠不清
+好高瘌	hoo21 koo52 la?12	自大，好表现
+呆*乇	ngai21 no?12	坏东西，坏蛋
 好脚	hoo44 yo?12	强手
 死脚	si44 yo?	呆板，不灵活，不好用的脚色%原书音调脱漏
 #p1312R
 本事	puong44 no/y242	有本事
 墘角	kieng21 ngoy?12	严密周到
-四角	si52 koy?12	刻板， 太认真
+四角	si52 koy?12	刻板，太认真
 利落*	li44 loo?5	勤快
-定*着	tiang44 tyo?5	老实， 守规矩
+定*着	tiang44 tyo?5	老实，守规矩
 定*虫	tiang44 t'oyng52	懒惰
-细腻	see52 nei242	小心， 客气
-好疼	hoo44 liang213	可爱， 和蔼
+细腻	see52 nei242	小心，客气
+好疼	hoo44 liang213	可爱，和蔼
 𫦉骨	leu21 oou?12	尖刻
 顽	nguang52	顽皮
-奸尻利	kang21 iu44 lei242	吝 啬
+奸尻利	kang21 iu44 lei242	吝啬
 病*净洁	pang44 zing21 ngie?12	洁癖
 𡟑	heu52	女人不正派
-无*定*	moo21 liang242	好动， 不规矩
-𡟑无*定*	heu21 moo21 liang242	女 人不正派
+无*定*	moo21 liang242	好动，不规矩
+𡟑无*定*	heu21 moo21 liang242	女人不正派
 臭硬	ts'au52 ngeeing242	死硬
 假师*	ka21 sa44	不懂装懂
 了离	liu44 lie242	清楚，敏捷
 纳闷	na?12 mooung242	傻样，不清楚
-伓是胚	ing21 ni44 p'ui44	不是 好东西
-王道	uog21 noo242	厚道， 善良
+伓是胚	ing21 ni44 p'ui44	不是好东西
+王道	uog21 noo242	厚道，善良
 慒	tsoe44	胡涂，马虎
 橂(𠕆)	teeing242	结实
 冇	p'ang213	不结实
@@ -1124,11 +1124,11 @@ p1306L
 沏*洁	t'a52 eei?12	清洁
 闹热	nau44 ie?5	热闹
 惯势	keeing52 sie213	习惯
-盘数	puang21 nou213	傻瓜， 做傻事
+盘数	puang21 nou213	傻瓜，做傻事
 无*块死	moo21 noy53 si33	质差
 无*乇使*	moo21 noo52 lai33	无用
-无*成*乇	moo21 liang21 noo?12	不成样 子
-无亥数	mo21 ai52 lou213	没本事， 没希望
+无*成*乇	moo21 liang21 noo?12	不成样子
+无亥数	mo21 ai52 lou213	没本事，没希望
 张死款	tyong21 si24 k'uang33	装腔作势
 臭酸	tsau44 sooug44	闻出酸味
 行*时	kiang21 ni52	时髦
@@ -1137,10 +1137,10 @@ p1306L
 玩愚	nguang21 ngo/y242	丢脸
 困*落*	eeing44 loo?5	清闲
 背	pui242	倒霉
-赘*闷	t'ui52 moung242	哕嗦
+赘*闷	t'ui52 moung242	啰嗦
 跋摔	pua?2 soy?12	颠簸
 白老鼠	pa21 loo24 zy33	分文俱无
-罔去*	mung44 ngoo213	将就， 随便
+罔去*	mung44 ngoo213	将就，随便
 快*脆	k'ee52 zui213	快捷
 有*硬	u21 ngeeing242	结实
 有*使*	u21 lai33	经用
@@ -1168,35 +1168,35 @@ p1306L
 蒋款	tsyong24 nguang33	这样
 响款	hyong24 uang33	那样
 ☐侬	toe44 loyng52	谁
-什乇侬	sie?2 noo44 noyng52	什么 人
+什乇侬	sie?2 noo44 noyng52	什么人
 乇侬	noo44 noyng52	什么人
 乜候	mie?5 ngau242	什么时候
-乇辰候	noo44 leeing21 ngau242	什 么时候
-乇事*计	noo44 lai21 ie213	什么事情， 干什么
+乇辰候	noo44 leeing21 ngau242	什么时候
+乇事*计	noo44 lai21 ie213	什么事情，干什么
 ☐☐	tang24 noe33	哪里
 ☐蜀*只*	tang44 nyo21 zie?12	哪一个
 ☐蜀间	tang44 nyo44 ang44	哪一间
-这☐讲	tsie44 nie44 kooung33	怎么讲， 怎样讲
+这☐讲	tsie44 nie44 kooung33	怎么讲，怎样讲
 蒋讲	tsyong24 ngooung33	怎么
-蒋其	tsyong21 ngi52	怎样， 怎么样
+蒋其	tsyong21 ngi52	怎样，怎么样
 偌夥	nyo21 uai242	多少
 偌価	nyo21 lee242	多少%⿰亻西
 偌夥価	nyo21 uai21 see242	多少%⿰亻西
 #p1314L
-偌大	nyo21 tuai242	多 大
-偌夥大	nyo44 uai21 tuai242	多 大
-偌𣆯	nyo21 ooung52	多 久
-偌夥𣆯	nyoo44 uai44 ooung52	多 久
-偌夥侬	nyoo44 uai44 noyng52	多少 人
+偌大	nyo21 tuai242	多大
+偌夥大	nyo44 uai21 tuai242	多大
+偌𣆯	nyo21 ooung52	多久
+偌夥𣆯	nyoo44 uai44 ooung52	多久
+偌夥侬	nyoo44 uai44 noyng52	多少人
 几*只*侬	kui44 zie?12 noyng52	几个人
-偌夥件	nyo44uai21 yong242	多 少件
+偌夥件	nyo44uai21 yong242	多少件
 几*件	kui44 yong242	几件
 #二十六、数量
 一	ei?12	一
 蜀*	syo?5	一
 二	nei242	二
 两	lang242	两
-三	sang44 三
+三	sang44	三
 四	sei213	四
 五	ngou242	五
 六	loy?5	六
@@ -1205,7 +1205,7 @@ p1306L
 九	kau33	九
 十	seei?5	十
 二十	ni44 lei?5	二十
-廿一	nie?5 ei?12	二 十一
+廿一	nie?5 ei?12	二十一
 百	pa?12	百
 千	ts'ieng44	千
 万	uang242	万
@@ -1225,10 +1225,10 @@ p1306L
 (蜀)*厝(侬)	ts'uo213	(一)家(人)
 (蜀)*堵(房间) 	tu33	(一)间(房间)
 (蜀)*箬(树箬)	nyo?5	(一)叶(树叶)
-(蜀)*条(手巾)	teu52	(一) 条(手帕)
+(蜀)*条(手巾)	teu52	(一)条(手帕)
 (蜀)*块(杯)	toy213	(一)个(杯子)
 (蜀)*骹(布袋)	k'a44	(一)个(布袋)
-(蜀)*只(花瓶)	tsie?12	(一) 个(花瓶)
+(蜀)*只(花瓶)	tsie?12	(一)个(花瓶)
 (蜀)*条(椅)	teu52	(一)把(椅子)
 (蜀)*架(汽车)	ka213	(一)辆(汽车)
 (蜀)*张(批)	t'yong44	(一)封(信)
@@ -1237,7 +1237,7 @@ p1306L
 (踢蜀*)骹	k'a44	(踢一)脚
 (𪮋蜀*)掌	tsyong33	(摔一)巴掌
 (拍*蜀*)棍	kooung213	(打一)棍子
-(拍*蜀*)槌	t'ui52	(打一) 拳头
+(拍*蜀*)槌	t'ui52	(打一)拳头
 (睏蜀*)醒	ts'iang33	(睡一)觉
 (挟蜀*)箸	to/y242	(挟一)筷子
 (行*蜀)☐	lau52	(走一)趟
