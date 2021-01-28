@@ -1,10 +1,10 @@
 #
 #
 #转写说明：
-#入声尾韵统一先用「?」;
+#入声尾韵ʔ统一先用「?」;
 #送气统一先用「'」;
-#鼻音尾韵统一先用「ng」;
-#ø统一先用「o/」; 
+#鼻音尾韵ŋ统一先用「ng」;
+#ø统一先用「o/」;
 #ɔ统一先用「oo」;
 #œ统一先用「oe」;
 #β统一先用「w」;
@@ -16,1230 +16,1237 @@
 ##########################################
 
 
-#p1298L
-#本章分类列出连江话常用词语，词语按连读后的读音标音。每条词语先写连江话说法，
-接着是标音，标音后是普通话的说法或该词语义。
-#一、天文
-日头	ni?5 t'au52	太阳
-月	nguo?5	月亮
-月生*晕	nguo?5 sang52 uong242	月 晕
-星	sing44	星星
-星泄窝	sing44 sie?12 uo44	流星
-筅帚星	ts'eeing21 ziu21 ling44	扫帚 星
-虹	k'o/yng242	霓虹
-晚霞	uang21 ha52	红霞
-天气	t'ieng52kei213	天 气
-好天	hoo21 lieng44 好天气
-呆*天	ngai21 lieng44	坏天气
-天晴	t'ieng44 sang52	晴天
-阴乌天	eeing21 ngu44 lieng44	阴天
-𰺲雨天	tooung21 ngy21 lieng44	下雨天%逷盪
-天暖	t'ieng44 nuong33	天气暖和
-天凉	t'ieng44 lyong52	天气凉爽
-二八天	ni21 wei?12 t'ieng44	春 秋冷暖适宜天气
-南风天	nang21 ngung44 nieng44	潮湿天气
-白露☐	pa21 lu52 koy213	白 露前后热天气
-秋凉	ts'iu44 lyong52	秋天凉爽天气
-秋烘	ts'iu52 oyng242	秋天热天气
-转润*	tuong44 noung213	反潮
-#p1298R
-热天	ie?5 t'ieng44	夏天
-凊天	ts'ing44 nieng44	冷天
-做旱	tsoo52 ang242	天旱
-做大水	tsoo44 luai21 zy33	发大水
-做溪水	tsoo21 k'ee52 zy33	山洪爆发
-做风𱃗	tsoo21 hung44 nai44	刮台风
-风𱃗气	hung21 nai52 k'ei213	有 刮台风的征象
-𰺲雨	toung21 ngy33	下雨%逷盪
-雷雨	lai21 y33	雷 阵雨
-雷公响	lai44 ung4 hyong33	响雷
-雷霎	lai21 sia?12	闪电
-雨濛	y21 mung44	毛毛雨
-濛濛雨	mung21 mung52 ngy33	毛 毛雨
-霉雨	mui21 y33	连日 下雨
-晡时雨	puo52 li21 y33	阵雨
-𰺲晡时	toung21 puo44 li52	下 阵雨%逷盪
-沃雨	uo52 y33	淋雨
-过𣆯雨	kuo52 ooung21 ngy33	短暂 下雨
-风丝	hung44 si44	微风
-踅螺风	suo?5 loy44 ung44	旋风
-雷云	lai21 ung52	下雷 雨前的乌云
-☐雾	muo21 ou242	雾
-落霜	loo44 soung44	下霜
-落雪	loo21 suo?12	下雪
-#p1299L
-珍珠雪	tsing21 zuo52 luo?12	小粒雪
-龙雹*	lyng44 p'oy?5	冰雹
-𰺲雹*	tooung44 p'oy?5	下冰雹%逷盪
-地牛转肩	ti44 ngu52 tuong21 ngieng44	地震
-露水	lu52 zy33	露水
-天光	t'ieng44 kuong44	天亮
-天暗	t'ieng44 ang213	天黑
-#二、地理
-水涨*	tsy24 looung33	(海水)涨潮
-水湓	tsy44 wuong213	(海水)退潮
-海☐		hai21 p'ia?	海边泥滩
-沙坂	sa52 wuang33	沙滩
-海𪨧	hai44 looung213	海啸
-海墘下	hai44 ieng21 nga242	沿海
-讨海	t'oo24 hai33	海洋捕 鱼
-讨小海	t'oo21 siu24 hai33	近海捕 鱼
-两*头*水	lang21 nau21 zy33	涨 潮退潮
-☐☐囝	k'ang21 meeing52 ngiang53	瓦砾
-山岗	sang52 ngooung213	山峰
-山骹	sang44 k'a44	山脚下
-山里*	sang52 nie33	山区
-山里角	sang21 nie44 koy?12	偏僻山区
-龙潭	lyng21 t'ang52	山坑
-平洋	pang21 ngyong52	大片平地
-田	ts'eeing52	田地
-园	huong52	旱地
-田*堘	ts'eeing21 ngning52	田埂
-埕	tiang52	空地
-曝粟埕	p'uo21 zuo44 liang52	晒谷场
-拦潭	lang21 t'ang52	石头
-拦潭囝	la21 lang21 ngiang33	小石头
-石*头*母*	syo44 lau21 moo33 大石头
-石头囝	syo44 lau21 iang33	小石头
-石*头*卵*	syo22 lau21 looung242	鹅卵石
-沙	sai44	沙子
-涂	t'u52	泥土
-#p1299R
-𬲕水	tsiang24 zy33	淡水%䭕
-咸水	keeing21 zy33	海水、 咸水
-滚汤	kung21 nooung44	开水
-汤	t'ooung44	热水
-江	kooung44	江
-河	oo52	河
-溪	k'ee44	溪
-贝	pui213	小溪
-𰉣	tuo242	路%墿
-马𰉣	ma44 1uo242	公路%墿
-街中	kee44 looung44	街 上
-半𰉣中	puang21 nuo44 looung44	半路 上%墿 
-塭尘	ung44 ning52	灰尘
-粪倒	pung52 noo213	垃圾
-城里	siang21 nie33	城里
-县城	keeing44 niang52	指 县府驻地
-乡下	hyong52 nga242	农村
-#三、时间
-今年暝	king44 nieng44 mang52	今年
-明年暝	mang21 nieng21 mang52	明年
-后*年暝	au44 nieng44 mang52	后年
-☐后年	noyng213 au44 nieng52	大后年
-去年	k'oo44 nieng52	去年
-昨年	soo21 nieng52	前年
-☐昨年	noyng213 so21 nieng52	大前年
-昨暝	so21 mang52	昨天
-昨日	soo44 ni?5	前日
-今旦	king52 nang213	今天
-明*旦	mang21 nang213	明天
-后日	au21 ni?5	后天
-☐后日	noyng213 au213 ni?5	大后天
-上昼*	syong21 nau213	上午
-当昼*	tooung52 nau213	中午
-下昼	a21 lau213	下午
-早*头*	tsia21 lau52	早晨
-早*辰*头*	tisa21 ing21 nau52	早晨
-#p1300L
-半晡	puang44 puo44	中午与黄昏之间
-暝晡	mang44 muo44	晚上
-暝晡头	mang21 muo44 lau52	晚上
-半暝	puang44 mang52	半夜
-半暝囝	puang44 mang21 ngiang33	半夜
-蜀*暝天光	syo21 mang21 nieng44 nguong44	通宵
-个郎工	koo44 looung44 kooyng44	整天
-个郎晡	koo44 looung44 puo44	整夜
-年把两*	nieng21 ma44 lang242一年多至两年
-月把日	nguo?2 pa21 ni?5	-个 多月
-十除工	seei?5 ty44 oyng44	十来天
-仂久*	li?2 ku33	一会儿
-仱	tang44	现在
-旧底	ku21 lee33	以前
-往南帮	uong21 nang44 mooung44	以前
-往南日	uong21 nang44 ni?5	前几天
-头先	t'au44 leeing44	前.会儿
-拜一	puai52 ei?12	星期一
-年暝兜	nieng44 mang44 nau44	年 边
-上元	syong44 nguong52	元宵
-五月节	ngu21 nguo?5 ts'ei?12	端午节%原书即为ts'ei?12
-七月半	ts'i?12 nguo?5 puang44	七月半节
-八月中秋	peei? nguo?2 tyng44 ziu44	中秋节
-做年	tsoo44 nieng52	过年
-做节	tsoo52 tseei?12	过节
-三十暝晡	sang21 neei?2 mang44 muo44	大年三 十晚上
-初一早	ts'oe21 i?12 tsia33	大年初一
-#四、方位
-位处	ui21 zo/y213	地方，位置
-悬*势	keeing21 nie213	上面
-悬*顶	kee21 leeing33	上面
-下底	a21 lee33	下面
-里*势	tie44 lie213	里面
-外*斗*	ngie21 lau33	外面
-边斗*	pieng52 nau33	旁边
-#p1300R
-四势	si52 sie213	到处
-七处	ts'i?5 ts'o/y213	到处
-台中*	tai44 looung44	中间
-台中*中*	tai21 lou44 noung44	中间
-地兜	tie44 lau44	地面
-桌面	too52 meing213	桌上
-门楼口*	muong21 lau21 k'au33	门口
-门后角	muong21 ngau21 oy?12	门后
-后*斗*	a21 lau33	后面
-尾斗*	mui24 lau33	后面
-尾后*	mui44 au242	背后
-角角	koy?12 koy?12	角落
-面*前*	ming44 neeing52 前面
-面*头*前*	ming44 nau44 leeing52	前面
-#五、房舍
-厝	ts'uo213	房屋
-厝瓦顶	ts'uo44 ngua21 ling33	屋顶
-檐墘头*	sing21 ngieng21 nau53	屋檐
-桁	ang52	檁(屋顶上托住椽子的横木)
-椽	t'uong52椽子
-廊柱*	looung21 t'iu242	柱子
-柱*珠	t'iu44 zuo44	柱 下石
-磉盘	sooung21 muang52	顶着“柱珠”的石板
-门䧘	muong21 neeing242	门槛
-楼*顶	lau21 ling33	楼上
-阶*座	kie23 zoo242	台阶
-房里*	pung21 nie33	屋里
-露台	lu44 lai52	凉台
-拦牢	lang21 noo52	拦杆
-门扇	muong21 nieng213	门板
-槛门囝	k'ang21 muong52 ngiang33	窗 户
-灶前*	tsau44 leeing52	厨 房
-粪坑厝	pung21 ngang52 zuo213	厕 所
-仰板	ngyong24 meeing33	天花板
-厅中	t'iang nooung44	大厅
-#p1301L
-#六、器具
-家私*	ka44 li44	家具，工具
-眠床	ming21 ts'ooung52	床
-籐床框	ting44 zooung44 k'uong44	床绷子%原书即为籐
-行*铺	kiang44 muong44	临时搭 起的床铺%原书音标如此
-月桌	nguo?2 too?12	园桌
-月椅	nguo?2 ie33	园凳子
-椅条	ie21 leu52	条凳
-椅头*	ie21 lau52	凳子
-椅囝	ie24 iang33	小凳 子
-裙座椅	kung21 zoo52 ie33	太师椅
-床荐	ts'ooung21 zeing213	草垫
-毡	tsieng44	毛毯
-铺板	p'uo52 βeeing33	床板
-帐	tyong213	蚊帐
-褥	y?5	褥子
-棉被	mieng21 p'ui242	棉 胎
-簏	loy?5	抽屉
-签甲桌	ts'ieng21 ng?5 too?12	大写字台
-妆台桌	tsyong52 nai21 loo?12	梳妆台
-鼎㪠	tiang44 ngeeing213	锅盖
-鼎杼	tiang24 t'yo33	锅铲
-鼎筅	tiang24 ts'eeing33	炊帚
-铁☐	t'ie12 ts'ie?5	铁瓢
-漏☐	lau44 ts'ie?5	漏瓢
-笊篱	tsia44 lie52	在水中捞物的用具
-水管*	tsy24 uong33 舀水竹简
-饭☐	puoong21 zeing213	蒸饭具
-拔桶	pua?2 t'oyng33	吊水桶
-碗缸	uang21 kooung44	大碗
-碗囝	uang24 ngiang33	小碗
-酒盏	tsiu24 ziang33	酒杯
-酒漀	tsiu21 ing52	斟酒酒壶
-茶婆	ta21 woo52	茶壶
-茶桌	ta21 loo?12	茶几
-开水壶	k'ai?21 zy21 u52	热水壶
-罗盆	loo21 wuong52	脸 盆儿
-#p1301R
-面*布	ming52 muo213	洗脸巾
-牙齿罐	nga21 i44 uang213	牙杯
-骹布	k'a52 wuo213	擦脚布
-骹桶	k'a52 loyng33	洗衣桶
-☐板	hang21 meeing33	切菜板
-碟囝	tie?2 kiang33	小碟 子
-洋罐	yong21 nguang213	煤油灯
-电光	tieng44 nguong44	电灯
-手电	ts'iu44tieng242	手电筒
-电涂	tieng44 t'u52	电池
-不求人	pu?12 kiu21 ing52	竹 制抓痒具
-纸媒	tsai21 mui52	引火 用的细纸卷
-洋火*	yong21 ngui33	火柴
-薰筒	hooung44 noyng52	水烟筒
-柴柿	ts'ia21 p'ui213	木屑
-火*管*	hui24 uong33	吹火筒
-甏	p'ang44 大口缸
-瓮	oyng213	小口缸
-硋鉢	hai21 wua?12	缽 头%原书鉢即为繁体
-瓶瓶	ping21 ping52	小瓶子
-罐罐	kuang21 kuang213	小罐 子
-筅帚	ts'eeing24 ziu33	扫帚
-挂橱	kua44 liu52	菜 橱
-猴*桶	kau21 loyng33	提水用 小水桶
-头*梳	t'au44 loe44	梳子
-篦梳	pi44 loe44	篦子
-便妆	pieng44 zooung44	梳妆盒
-衣裳车	i44 lyong44 zia44	缝纫机
-铰刀	ka44 loo44	剪刀
-竹𥮕	ty?5 ooung242	晒衣竹竿
-骹踏车	k'a21 la?5 ts'ia44	自行车
-风抽	hung44 t'iu44	打气简
-竹床	ty?12 ts'ooung52	竹床
-竹席	ty?12 ts'yo?5	竹席 子
-鼎	tiang33	铁锅
-灶刀	tsau44 loo44	切菜刀
-文明杖	ung21 ming21 t'yong242	手杖
-#p1302L
-痰盆	t'ang21 puong52	痰盂
-#七、动物
-头*牲*	t'au4 lang44	牲畜
-牛*港	ngu21 koyng33	公牛
-牛*母*	ngu21 moo33	母牛
-猪射	ty52 lia242	公猪
-猪豚	ty44 looung52	中猪
-猪囝	ty52 iang33 小猪
-菜猪	ts'ai44 ly44	肉猪
-羊	yong52	羊
-猫☐	ma21 nei213	猫
-鸡角	kie52 oy?12	公鸡
-鸭雄	a?12 hyng52	公鸭
-水鸡	tsy21 ie44	田蛙
-蛒	kuo?5 toyng213	山坑蛙
-青鸭	ts'iang52 nga?12	青蛙
-黄蜱	uong21 p'ee52	小青蛙
-黄蜱☐	uong21 mee21 lui242	蝌蚪
-老*虎	la21 u33	老虎
-老*蛇	lau44 lie52	蛇
-拉狸	la21 li33	穿山甲
-猴囝	kau21 iang33	猴子
-豹囝	pau52 iang33	豹子
-溪滑*	k'ee44 koou?5	淡水大鳗鱼
-☐☐	a21 zi52	蝉
-蚕囝	ts'eeing21 ngiang33	蚕
-南尾星	nang21 mui21 ling44	萤火虫
-☐蝶	pu44 lie?5	蝴蝶
-麻胡	ma21 u52	蜻蜒%原书即为蜒
-风蚊	hung44 muong52	蚊子
-菩蝇	pu21 ling52	苍蝇
-猫头爷	ma44 lau44 ie52	蜘蛛
-蜢囝	moyng24 ngiang33	小黑 虫
-虼蚤	ka24 zau33	跳蚤
-虱母*	sei? mo33	虱子
-猴蚓	kau21 ooung33	蚯蚓
-p1302R
-目虱	mei?2 seei?12	臭虫
-⿰粜蚤母	sa?12 mo33	蟑螂
-仁蚣	ing44 ngo/yng44	蜈蚣
-黄蚁	uog21 ngie242	蚂蚁
-白蚁	pa21 ngie242	白蚂蚁
-家隻	ka52 tsie?12	麻雀
-白鸽	pa21 a?12	白 鸽
-老𪺾	lo21 ngee52	老鹰
-燕囝	ieng52 ngiang33	燕子
-客鹊	k'a52 zyo?12	喜鹊
-☐化	ka21 ua213	八哥
-猫*王鸟*	ma21 uong21 zeu33	猫头鹰
-乌鸦	u44 a44	乌鸦
-𫊻	sing52	青蟹
-蠘	ts'ie?5	梭子蟹
-黄瓜鱼	uong21 ngua44 ngy52	黄 花鱼
-虾米	ha21 mi33	虾皮
-蟟囝	liu21 iang33	蚬子
-马骹	ma21 k'a44	马鲛 鱼
-䖳	t'a213	海蜇皮
-鳜鱼	kui44 ngy52	鳜鱼
-冬鸡	toyng44 ngie44	大 墨鱼
-虎𫊻	hu21 ling52	蟹类的 一一种
-青鳌	ts'iang44 ngoo52	海蚌
-虾菇	ha44 u44	一 种贝壳类海产
-车利	ts'ia21 lei213	海蚯蚓
-鲎	hau213	鲎
-鳖	pie?12	甲 鱼
-龟	kui44	龟
-蛏	t'eeing44	蛏
-鲄囝	k'oo52 iang33	小鱼干
-鱼鲞	ngy21 lyong33	剖开晾干的鱼
-跳鱼	t'iu44 ngy52	鲦鱼
-八蛎*	peei?5 tie242	牡蛎
-鳝	ts'iang242	鱔 鱼
-鱿鱼	iu21 ngy52	鱿鱼
-蚶	hang44	蚶
-p1303L
-章鱼	tsyong44 ngy52	章鱼
-#八、植物
-籼	tiu242	稻子
-粟*	ts'uo?12	谷子
-稗	p'ee213	稗子
-秫粟*	su?2 ts'uo?12	糯谷
-𬖞米	si21 mi33	粳米
-番薯	huang44 ny52	红薯
-番囝薯	huang21 ngiang21 ny52	马铃 薯
-番柿	huang52 k'ei242	西红柿
-芋卵	uo21 looung242	芋 头
-姜母	kyong52 moo33	母姜
-鼎𰱗	tiang44 zoe213	丝瓜
-☐	pu52	葫芦瓜
-金瓜	king44 ngua44	南 瓜
-萝卜	la44 wu?5	萝卜
-蕹菜	ung52 zai213	空心菜
-茭笋	ka52 lung33	茭笋
-番椒	huang44 ziu44	辣椒
-芥菜	kua52 zai213	芥菜
-薸	p'iu52	浮萍
-包菜	pau52 zai213	洋白菜
-紫菜	tsie44 zai213	茄子
-莓梨	mui21 li52	荸荠
-龙眼	looung21 ngeeing33	龙眼
-荔枝	lie44 zie44	荔枝
-芭蕉	pa44 ziu44	香蕉
-☐	p'au44	柚子%原书☐处为空
-☐红	ts'uo21 ung52	杨梅
-番石榴	huang21 nyo44 liu52	番石榴
-黄郑	uong21 nang242		黄皮果
-栗子	li?2 tsi33	栗子
-杉树*	sang52 ziu213	杉树
-梧桐	ngu21 lung52	梧桐
-松柏	syng21 ma?12	松树
-麻竹	ma21 lo/y?12	毛竹
-p1303R
-树*箬	ts'iu44 nyo?5	树叶
-树*桠	tu'iu44 ngee44	树枝
-栽树*	tsai52 ts'iu213	种树
-菜栽	ts'ai44 zai44	菜苗
-树*栽	ts'iu44 zai44	树苗
-茉莉	moy?2 lei242	茉莉花
-#九、人品
-丈夫侬	tooung21 muo44 noyng52	男人
-诸娘依	tsy44 nyong44 noyng52	女人
-老*侬	lau44 noyng52	老人
-老*货	lau21 huo213	老人 (贬)
-丈*夫*侬老*	tooung21 muo44 noyng21 lau242	老男人
-诸娘老*	tsy52 nyong21 lau242 老女人
-单身哥	tan21 ning44 ngoo44	单身汉
-守妈	tsiu24 ma33	寡妇
-悬*哥	keeing44 ngoo44	高个子
-矮囝	ee24 iang33	矮个子
-汉码大	hang21 ma44 tuai242	大个子
-隔壁*厝	ka21 wia52 zuo213	邻居
-厝边	ts'uo44 wieng44	邻居
-丈*夫*囝	tooung21 muo52 iang33	男孩子
-诸娘囝	tsy52 noyng44 ngiang33 女孩 子
-伲囝哥	nie21 iang21 ngoo44	小孩子
-新妇囝	sing21 mu52 iang33	童养 媳
-☐厝脊	ta21 zuo52 zei?12	老 处女%原书☐处为空
-谊女	ngie21 ny33	婢女
-谊囝	ngie21 iang33	干儿子
-白面	pa21 meing213	妓女
-歹*囝	p'ai24 iang33	流氓
-呆*囝	ngai21 iang33	学坏的人
-好囝	hoo24 iang33	学好的人
-𪴯囝	ngooung21 ngiang33	傻子
-两*个声	lang21 nga21 liang44	不会讲 本地话的人
-掌盘使	tsyong44 muang21 nai213	掌柜的
-长年	tooung21 nieng52	长工
-煮*食*	tsy21 lie?5	煮饭婆
-p1304L
-宝☐奶	poo21 u24 nee33	接生婆
-铜子	toyng21 zi33	神汉
-☐☐妈	le21 zi24 ma33	招魂女人
-厨司付	tuo21 la52 ou242	厨师
-赌博鬼	tu21 wou?5 kui33	惯赌
-甲哥	ka?12 koo44	搬运工
-和头	huo21 lau52	和事老
-新新妇	sing21 ning52 mou242	新娘
-新郎使	sing52 nooung21 nai213	新郎%使当作婿
-乞食*	k'y?21 sie?5	乞丐
-#十、称谓
-大公	tuai44 ung44	曾祖父
-大妈	tuai21 ma33	曾祖母
-依公	i44 kung44	祖父
-依妈	i52 ma33	祖母
-伯公	pa44 ung4	伯祖父
-姆妈	mu24 ma33	伯祖母
-叔公	tsy?12 kung44	叔祖父
-婶妈	sing24 ma33	叔祖母
-郎爸	nooung21 ma242	父親
-依爹	i44 tia44	父親
-娘奶	nooung21 nee33	母親
-依奶	i52 nee33	母親
-依伯	i52 pa?12	伯父
-依母	i52 mu33	伯母
-依家	i44 ka44	叔叔
-家婶	ka52 ling33	婶子
-外*公	ngie44 ung44	外祖父
-外*妈	ngie21 ma33	外祖母
-依舅	i52 kiu242	舅父
-依妗	i52 keing242	舅母
-姨姨	i21 i52	姨母
-姨丈	i21 lyong242	姨丈
-姑妈	ku44 ma44	姑母%后字声调当为33
-姑丈	ku52 lyong242	姑丈
-依姐	i52 tsia33	姐姐
-姐夫	tsia21 u44	姐夫
-p1304R
-依妹	i52 mui213	妹妹
-妹夫	mui44 u44	妹夫
-依哥	i44 koo44	哥哥
-依嫂	i52 soo33	嫂子
-依弟	i52 tie242	弟弟
-弟人**	tie44 ing52	弟媳
-爹官	tee44 uang44	公公
-爹家	tee44 a44	婆婆
-囝	kiang33	儿子
-新妇	sing52 mou242	儿媳
-孙	sooung44	孙子，娃儿
-外*甥	ngie44 leeing44	外甥
-外*孙	ngie44 looung44	外孙
-孙孙囝	sooung21 nooung52 ngiang33	曾 孙
-丈侬	tyong21 noyng52	岳父
-丈奶	tyong24 nee33	岳母
-叔婶伯罕	tsy?12 sing21 pa52 ang33	妯娌
-兄弟哥	hiang21 nie44 oo44	弟兄
-姐妹	tsia44 mui213	姐妹
-郎爸囝	nooung21 ma52 iang33	父子
-娘奶囝	nyong21 nee24 iang33	母子
-老*公妈	la21 ung52 ma33	夫妻
-#十一、饮食
-食*早*	sie?2 tsia33	吃早饭
-食*昼*	sie?2 tau213	吃午 饭
-食*暝	sie?2 mang52	吃晚饭
-糜粥	mui21 za/y?12	稀 饭
-燋饭*	ta52 wuong242	干饭
-漉饭*	looy?2 puong242	捞 饭
-凊饭*	ts'ing52 muong242	冷饭
-𣗬饭*	k'iu52 wuong242	硬饭
-碎食*	ts'oy44 lie?5	零 食
-熻饭*	hi?5 puog242	焖饭
-焖饭	mung21 puong242	焖饭
-乇配	noo52 ui213	下 饭菜%原书后字即无声母
-白𬖞	pa44 li52	白 棵
-p1305L
-糖粿	t'ooung21 ngui33	甜糕
-扁肉	pieng21 ny?5	馄饨
-蹄库	tee21 k'ou213	猪蹄膀 上的肉
-下水	a21 zy33	鸡鸭内胼
-切面	ts'ie?5 mieng242	切面
-春饼	ts'ung52 miang33	春卷
-燕皮	ieng44 p'ui52	瘦 肉制的馄饨皮
-肥肉	pui44 ny?5	肥肉
-㾪肉	seeing21 ny?5	瘦肉
-☐老	muang44 loo33	猪舌
-猪骹	ty44 k'a44	猪脚
-猪骹爪	ty21 a52 zau33	猪脚的前半部
-骹柄	k'a52 wang213	猪 脚的后半部
-肉绒	ny?5 yng52	肉松
-鱼丸	ngy21 uong52	鱼丸
-鱼面	ngy21 mieng242	鱼面
-线面	siang52 mieng242	线面
-豆腐	ta21 ou242	豆腐
-皮卵	p'ui21 looung242	松花蛋
-腹*里*	pu?12 tie33	动物内胼
-煠卵*	sa?2 looung242	清水煮蛋
-豉油	sie44 iu52	酱 油
-文饼	ung21 miang33	油炸的 面粉条
-卵包	looung44 mau44	荷包蛋
-冰箸	pin52 to/y242	冰棒
-漀茶	k'ing21 ta52	倒茶
-食*茶	sie?2 ta52	喝茶
-食*薰	sie?5 hooung44	抽烟
-食*酒	sie?2 tsiu33	喝酒
-食*饭*	sie? puong242	吃饭
-豆干	tau44 uang44	硬些的 豆腐
-香干	hyong44 ngang44	浈豆腐干
-#十二、起居
-爬起	pa52 k'i33	起来
-洗面	see44 meing213	洗 脸
-洗汤	see21 looung44	洗澡
-p1305R
-洗牙齿	see44 nga21 i33	刷牙
-澉身	kang21 ning44	擦身
-泡茶	p'au44 ta52	沏茶
-颂衣裳	sy21 i44 lyong52	穿衣服
-褪衣裳	t'ooug21 i44 lyong52	脱衣服
-行*𰉣	kiang21 tuo242	走路
-客蹓	k'a44 liu52	玩耍
-去*街	k'oo44 kee44	上街
-去*斋	k'oo44 ze44	上学
-睶	ts'ung33	打瞌睡
-转厝	tuong44 ts'uo213	回家
-做依客*	tsoo44 noyng21 nga?12	做客
-剃头	t'ie44 lau52	理发
-睏昼	k'ooung52 nau213	午睡
-狂眠	kuong21 ming52	讲梦 话
-腹*老空*	pu?12 loo52 k'oyng44	肚子饿
-扫厝	sau52 zuo213	扫地
-好睏	hoo44 ooung213	好睡
-睏𫧃着	k'ooung213 mee44 lyo?5	睡不着
-毛眠睏	moo21 ming21 ngooung213	睡不着
-清醒*	ts'ing52 ziang33	睡 醒
-门头	muong21 nau52	送礼
-熬暝	ngoo21 ma52	熬夜
-拉尿	na21 niu242	拉尿
-拉屎	na21 sai33	拉屎
-摒粪倒	piang21 pung52 noo213	倒垃圾
-#十三、服饰
-衣裳	i44 lyong52	衣服， 上衣
-衣裳衫颂	i21 lyong21 nang52 no/yng242	衣衫
-裤	k'ou213	裤子
-裤郎囝	k'u52 looung21 ngiang33	短裤
-半长裤	puang44 nooung21 ngou213	短裤
-放*斗裤	pung21 nau44 ou213 开 裆裤
-颂睏裤	syng21 ngoung52 ngou213 睡 裤
-裙	kung52	裙子
-背心	pui44 ling44	背心
-p1306L
-汗𧜛	kang21 looung33	汗衣
-羊毛𧜛	yong21 moo21 looung33	羊毛衣
-背褡	pui52 la?12	背心
-羊毛䘥	yong21 moo21 ka?12	羊毛背心
-长衫	tooung44 nang44	长袍
-鲜衣	ts'ieng44 i44	旗袍
-大衣	tuai44 i44	大衣
-裤头带	k'u44 lau21 lai213	裤带
-颂睏衫	syng21 ngooung44 nang44	睡 腰衣
-鞋靸	ee21 lia?12	拖鞋
-鞋屐	ee44 k'ia?5	木屐
-鞋☐屐	e21o44kKia?S	木屐
-☐☐帽	ngiang21 ngiang52 moo242	有舌帽
-碗帽	uang44 moo242	瓜 皮帽
-草履靸	ts'au21 i44 lia?12	草 编拖鞋
-围身裙	ui21 ling44 ngung52	围裙
-领巾	liang21 ngyng44 围巾
-鞋套	ee21 t'oo213	雨鞋
-雨靴	y21 uo44	长统雨鞋
-尿燥	niu21 loo213	尿布
-𪢌遮	lang21 zia44	围嘴儿
-袜	ua?5	袜子
-耳坠	ngi21 lui242	耳坠子
-手镯	ts'iu21 loo?5	手镯子
-手指	ts'iu24 zi33	戒指
-手𦃆	tsiu44 1oo?12	手套
-手巾	ts'iu21 yng44	手帕
-袄轮	oo21 lung52	套衫
-手䘼	ts'iu24 uong33	袖子
-脰领	tau21 liang33	领子
-裤斗	k'u52 lau33	裤裆
-长*䘼	toung21 nguong33	长袖
-短*䘼	to/y24 uong33	短袖
-*十四、身体
-头*	t'au52	脑袋
-头*发	t'au21 uo?12	头发
-额头*	ngia44 lau52	额头
-眉毛	mi21 moo52	眉毛
-目*霎	moy?2 sia12	睫毛
-目*睭	meei?5 tsiu44	眼睛
-面*𱂮	ming52 mee33	脸蛋儿%䫌
-鼻	p'ei213	鼻子
-耳*	ngei242	耳朵
-喙	ts'ui213	嘴
-喙皮*	ts'ui44 wui52	嘴唇
-牙齿	nga21 i33	牙齿
-喙舌	ts'ui44 lie?5	舌头
-喙⿱髟须	ts'ui44 liu44	胡须%鬚
-下颏	a44 hai52	下巴
-喉咙	hoe21 loyng52	喉咙
-脰𦜩	tau21 uo?12	脖子
-心肝	sing44 ngang44	胸部
-六条骨	loy?2 teu21 oou?12 肋骨
-𬂌	neeing52	乳房
-腹*老	pu?12 loo33	肚子
-腹*脐*	pu?12 sai52	肚脐
-手肚	ts'iu24 lu33	手臂
-胳洛下	koo?12 loou?5 a242	腋下
-巴掌	pa52 zyong33	手掌
-掌指	tsieng24 zai33 手指
-掌甲	tsieng44 nga?12	指甲
-掌头母*	tsieng24 nau21 moo33	大 母指
-鸡角指*	kie21 oy?12 tsai33	食指
-台中*指*	tai21 looung52 tsai33	中指
-无*名*指*	moo21 miang21 zai33	无名指
-尾掌指*	mui21 zieng24 zai33	小指
-骹肚囝	k'a21 lu24 iang33	小腿
-骹𩨑	k'a44 nang44	脚后跟
-骹☐底	k'a21 zyo24 lee33	脚底
-骹目睭	k'a21 meei?5 tsiu44	脚踝
-骹腹*头*	k'a21 wu?12 t'au52	膝盖
-骹掌指*	k'a21 zieng24 zai33	脚指
-骹柄下	k'a21 wang52 nga242	胯 下
-股川	ku21 zyong44	屁股
-#p1307L
-肾脬	ling44 p'a44	阴囊
-肾核子	ling21 nguo?2 tsi33	睾丸
-朘友	noy21 iu33	男阴
-姕𱂮	tsi52 wee33	女阴%䫌	
-目滓	mooy?2 tsai33	眼泪
-鼻☐	p'i52 loe52	鼻涕
-鼻屎	pi52 lai33	鼻精(干结的鼻涕)
-𪢌	lang33	口水
-苦毛	k'u21 mo52	毫毛
-#十五、疾病
-破*病*	p'uai52 wang242	生病
-无*力*☐	moo21 ni?5 ai52	不舒服，病了
-喫亏	k'i?12 k'ui44	难受
-看病*	k'ang52 pang242	医病
-牧病*	muo?2 pang242	医病
-惊凊	kiang52 ts'eing213	怕冷
-嗽	sau213	咳嗽
-吐	t'ou213	呕吐
-病泻	pang21 nia213	拉肚子
-过	kuo213 传染
-发烧	hua?12 siu44	发热
-头*眩*	t'au52 hing52	头晕
-生*𭼕	sang52 huong213	长疖子
-生*痱	sanng52 pui213	长痱子
-拍*腹*寒*	pa21 pu?12 kang52	打摆子%原书即为pa21
-病疳	pang44 kang44	疳积
-病囝	pang21 ngiang33	害喜
-病腿	pang21 t'ooy33	麻 疯病
-生*㾸𤶁	sang52 koo21 loo242	长疥疮
-生疥	sang52 kee213	长疥疮
-病哑	pang21 nga33	哑巴
-耳聋	ngi44 loyng52	耳朵聋
-眚盲	ts'ang44 mang52	眼瞎
-光瞎	kuong52 nga?12	青 光眼
-缺喙	k'ie?5 ts'ui213	豁唇
-病*颤疯	pang21 zieng44 ngung44	肢体 颤抖
-#p1307R
-瘌头	la?12 t'au52	秃头
-麻面	ma21 meing213	麻脸
-大舌☐	tuai21 lie?5 poe33	口吃
-出铺	ts'u?12 p'uo44	出麻疹
-出水珠	ts'u?12 tsy21 zuo44	出水痘
-中风	tyng44 ngung4	脑溢 血
-摆骹	pai21 k'a44	跛脚
-弯髀	uang44 p'iang4	驼背
-羊眩*	yong21 hing52	羊 癫病
-冻子	toyng52 zi33	冻疮
-☐肠头	t'ou?5 tooung21 nau52	疝气
-结肠	kie?12 tyong52	便秘
-啡血	p'ui52 heei?12	吐血
-发*核	puo?12 hou?5	鼠疫
-泼尿	pua?5 niu242	泄尿
-拈药	nieng44 yo?5	抓药
-食药	sie?5 yo?5	服药
-破相	p'oo52 lyong213	五官 缺陷
-#十六、风俗
-讨親	t'oo21 zing44	娶親
-讨新妇	t'oo21 ling52 mou242	娶 媳妇
-做新妇	tsoo21 ling52 mou242 出嫁
-出门	ts'u?12 muong52	出嫁
-过门	kuo44 muong52	出嫁
-送门头	soyng44 muong44 nau52	送礼
-做十	tsoo44 seei?5	做寿
-做晬	ts52tsoy213	庆婴儿周 岁
-做三旦	tsoo21 sang52 nang213	庆婴 儿出生三天
-做满月	tsoo21 muang21 nguok?5	庆 婴儿出生一个月
-生去*	seeing44 ngoo213	死去
-过后	kuo52 au242	去世
-收☐	siu44 li?5	收殓
-进葬	tsing52 zooung213	出葬
-头七	t'au21 zei?12	人 死后第七天祭奠
-断七	tooung21 zei?12	人死后 第四十九天祭奠
-安三	ang44 nang4	葬后第三天 上墓山祭奠
-#p1308L
-硩纸	ta52 zai33	扫墓 后把冥钱压在坟头
-地理先生	ti21 li21 sing44 nang44	看风水选墓址的
-道士	too21 lai242	祭奠死者时念经的道士
-金银箔	king44 ngyng44 moo?5	冥钱
-元宝箔	nguong21 mo31 woo?5	冥钱
-香线	hyong52 niang213	香
-糙衫	ts'oo44 lang44	麻衣
-断杖	tooung21 nyong242	哭丧棒
-筅堂	ts'eeing21 noung52	过年大扫除
-做年	tsoo44 nieng52	过年
-硩岁钱	ta21 ui44 zieng52	压岁钱
-字运	tsi21 oung242	运气
-过运	kuo52 oung242	度过厄运
-公婆龛	kung44 moo44 k'ang44	祖 宗牌位
-行第	ooung21 nee242	辈份
-#十七、农事
-粪池	pung44 nie52	粪池， 厕所
-镰𬭴	lieng21 ngeei?12	镰刀
-播田	puo44 zeeing52	插秧
-薅草	hau52 zau33	除草
-割粙	ka?5 tiu242	割稻子
-做田	tsoo44 ts'eeing52	种田
-饲*牛	tsi44 ngu52	看牛%原书即为ts
-拾*猪屎	k'a?12 ty52 lai33	拣猪 粪
-棕蓑	tsoyng44 nai44	蓑衣
-扁担	pieng21 nang44	扁挑
-沃料	uo52 leu242	浇肥
-曝栗	p'uo21 zuo?12	晒谷子
-栽菜	tsai52 ts'ai213	种菜
-硩番薯	ta21 uang44 ny52	种番 薯
-拾*柴	k'a?12 ts'ia52	砍柴火
-剉树*	ts'oy52 ts'iu213	砍树
-摔粙	soy?5 tiu242	打谷子
-牛栏	ngu21 lang52	牛栏
-鸡宿	kie52 liu213	鸡窝
-擦番薯米	ts'ia?12 huang52 ny21 mi33	刨番 薯丝
-#p1308R
-犁	lee52	犁
-耙	pa242	松土，碎土
-粪☐	pung44 ts'ia?5	粪勺
-涂箕	t'u44 i44	土箕
-水车	tsy21 zia44	水车
-水碓	tsy44 lai213	水力 带动碾米、磨麦的机器
-麦房	ma44 wung52	磨麦作坊
-#十八、工艺
-做度绳	tsoo21 tu44 ling52	盖 房屋司付
-做细桌	tsoo21 see52 loo?12	制木器司付
-衣裳司付	i21 lyong21 na52 ou242	做 衣服司付
-做涂司付	tsoo44 t'u52 sa52 ou242	泥水匠
-厨司付	tuo21 la52 ou242	厨师
-做竹司付	tsoo52 to/y?12 sa52 ou242	竹 器匠
-拍*铁	p'a52 t'ie?12	打铁
-拍*石*	p'a44 lyo?5	打石头
-佮桶	ka?12 t'oyng33	制桶
-拍席	p'a44 ts'yo?5	编草席
-鞝鞋	ts'yong44 ee52	把鞋帮、鞋底缝合成鞋
-拾搭厝	k'a21 la?5 ts'uo213	修理 房屋
-起厝	k'i44 ts'uo213	盖房屋
-弹棉	tang21 mieng52	弹 棉花
-箍桶	k'u52 t'oyng33	箍桶
-铸鼎	tsuo52 tiang33	铸锅
-补鼎	puo24 tiang33 补锅
-针黹	tseeing52 zi33 做针线活
-㔏墙	lie21 ts'yong52	砌墙
-砌墙	ts'ie?12 ts'yong52	砌墙
-㔏灶	lie44 tsau213	砌灶
-拍金	p'a44 king44	打金首饰
-拍锡	p'a52 sei?12	打锡制品
-搭被	ta?5 p'ui242	缝 被子
-𬘜衣裳	t'ieng21 i44 lyong52	缝衣服
-铰布	ka52 puo213	剪布
-做饼	tsoo52 piang33	制饼
-做竹	tsoo52 to/y?12	制竹器
-#1309L
-破*篾	p'uai44 mie?5	破竹子
-#十九、商业
-做生意	tsoo21 leeing52 ngei213	做生意
-老板	loo21 peeing33	老板
-伙计	huo44 ei213	伙计
-师兄	sai44 iang44	伙计， 学徒
-京果店	king21 ngou44 leeing213	食品干果店
-苏纺店	su2uongfneing213	百 货店
-酱园店	tsyong44 nguong21 neeing213	酱制食品店
-药材店	yo21 zai21 leeing213	中药铺
-退衣店	t'oo21 i52 leeing213	估 衣店
-馆店	kuang44 neeing213	菜馆
-剃头店	t'ie44 lau21 leing213	理发店
-客栈	k'a52 ziang242	旅社
-茶店	ta21 leeing214	茶馆
-硋店	hai21 leeing213	陶瓷 器店
-数簿桌	su21 wuo52 lo?242	账房
-柜头	kui44 lau52	柜台
-番钱	huang44 zieng52	银圆
-银角	ngyng21 ngoy?12	小银圆
-铜片	toyng?21 p'ieng213	小铜钱
-工钱	koyng44 zieng52	工资
-花采钱	hua21 zai21 zieng52	小费
-趁钱	t'ing44 ts'ieng52	赚钱 %原书即为ts'ieng52
-折本	sie?2 puong33	亏本
-讲价	kooug44 ka213	讲价钱
-起价	k'i44 a213	涨价
-填价	teeing21 ka213	还价， 讨价
-倩工	ts'iang44 koyng44	雇工
-籴米	tie?2 mi33	买米
-粜粟	t'iu52 ts'uo?12	卖谷子
-碎钱	ts'oy44 zieng52	零钱
-权钱	kuong21 zieng52	整钱
-欠数	k'ieng52 nou213	欠账
-赊数	sia52 lou213	赊账
-倒街	too21 kee44	商品过剩
-拍倒店	p'a21 loo44 leeing213	店铺倒闭
-#p1309R
-成花	siang44 ngua44	成交
-#二十、文教
-学堂	hoou?5 tooung52	学校
-去*斋	k'o44 tsee44	上学
-上堂	syong44 tooung52	上课
-落堂	loo44 looung52	下课
-放*昼*	pung52 nau213 放午学
-放暝	pung44 mang52	放晚学
-背书	pui44 tsy44	背诵课文
-水笔	tsy44 wei?12	毛笔
-洋笔	yong21 mei?12	铅笔
-几何车	ki44 o44 zia44	圆规
-簿簿	puo21 puo242	练习本
-做码	tsoo52 ma33	考书做弊
-鸭母卵	a?12 mo44 looung242	考书得零分
-头*名*	t'au21 miang52	第一名
-尾名	mui21 miang52	最后一名
-关*昼*	kuong44 nau213	中午不让学 生放学
-关*暝	kuong44 mang52	下午不让学 生放学
-徛堂	k'ie44 looung52	站着 上课
-走*走*搦	tsau21 tsau21 nie?5	-种追 抓跑者的游戏
-屈屈密	k'u?12 k'u?12 meei?5	一种寻找躲藏者的游戏
-抛*粪斗	p'a21 pung24 nau33	打滚翻
-行*棋	kiang21 ki52	下棋
-放*纸鹞	pung21 tsai44 iu242	放风筝
-舞龙	u21 lyng52	舞龙
-拍*狮	p'a44 lai44	舞狮子
-泅水	siu21 zy33	游泳
-做戏	tsoo52 hie213	演戏
-拍*打	p'a52 la33	武打
-伬唱	ts'ie52 zyong213	有伴奏的民间戏曲演唱
-十番伬	sie?2 huang44 ts'ie44	民间音乐合奏%原书即为sie?
-锣鼓板	loo21 u24 weeing33	锣鼓钹等民间敲打乐器合奏
-#p1310
-批	p'ie44	信
-批袋	p'ie52 loy242	信封
-批纸	p'ie52 zai33	信笺
-批肉	p'ie44 ny?5	信封里的信
-#二十一、动作
-觑	ts'o/y213	看
-望	mooung242	看
-盻	hee33	怒视，白眼
-相	syong213	细看
-☐	sau33	快看
-☐	t'ia?12	眨眼
-䀫	k'eei?12	闭眼
-☐鼻	t'au44 p'ei213	擤鼻涕
-☐	tsoy?12	吻
-啜	ts'uo?12	喝
-𠲿	so?12	吮吸
-㖹	pung52	吹
-嗅	hiu213	闻
-告	koe213	叫
-吼	hau33	招呼
-告叫	koe52 kiu213	大声喊叫
-☐	k'ee33	啃
-☐	ka242	咬
-嚗	poo?12	骂
-𠿝	ts'oe52	呵叱
-𠰭	mau33	闭唇
-啡𪢌𪢌	p'ui21 lang33	吐口水%原书重字
-诅	tsou213	咒骂
-诅喙	tsu52 zui213	赌咒
-嚼	tsyo?5	咀嚼
-𫼗	ma44	五指抓
-撚	nooung52	两指揉
-掇	toou?12	端
-捽	tsoou?22	扯
-𢯾	moo213 敲打
-𪮋	soy?12	摔打
-捭	pi44	拉
-#p1310R
-𢪱	u?5	挥舞
-𢱤	soyng33	推搡
-捵	t'iang33	推开
-拍*	pa?12	打
-捋	la?5	挽，摩
-瘿	eeing44	放
-羁	kie44	结，扣
-抔	pou?12	双手捧
-掼	kuang242	提
-㧾	hou?12	用条物打
-抾	k'oe33	扔
-掏	too52	拿
-拈	nieng44	拿
-刡	mie44	削皮
-摒	piang213	倒掉
-☐	looung44	拳打
-舂	tsyng44	拳打
-櫼	tsieng44	打入，挤入
-鼓(搅)	ku33	搅拌
-抖	teu33	抽打
-克	k'eei?12	挤
-硩	ta?12	压
-☐	sa52	乱拿
-磕	k'ou?5	碰，敲打
-扛	kooung44	抬
-杠	k'ooung52	肩负
-☐	kia?5	单头挑
-☐	t'ie33	撕
-☐	hieng213	扔
-☐	liu44	扔
-𫦉	leu33	剜
-挢	kiu242	撬
-𰫋	mang44	蒙上%䊟
-泯	ming44	躲
-囥	k'ooung213	藏起
-𦃆	loo?12	套入
-拭	ts'ei?12	擦
-抹	mua?12	涂上
-#p1311L
-𢶀	ts'oy213	寻找
-行*	kiang52	走
-走*	tsau33	逃
-躃	pie213	跑
-☐	k'iu213	蹲
-踅	suo?5	旋转
-𢬳	t'u?'	刺入%注意字形，原书为⿰扌秃(大陆)，天珩为⿰扌禿(台湾)
-☐	kei?12	刺入
-炬	ko/y242	点火
-☐	lei?12	跳跃
-跞	lou?2	散步
-趖	ts'oo?5	急奔
-跋	pua?5	跌
-㰹	hang213	告知
-伐	p'ua?5	跨步
-☐	ia?5	招手
-#二十二、行为
-佮	ka?12	合作，合秋%原书即为合秋，为错字
-泎	tsia?12	溅
-拾*	k'a?12	捡
-拣	keeing33	挑选
-匀	yng52	分出
-行*动*	kiang21 noyng242	走动
-对手	toy52 ziu33	帮忙
-讲证	kooung44 tseing213	谈天道地
-讲☐☐	kooung44 hoo21 loo213	说笑
-讲畅	kooung44 tyong213	说着玩
-碎讲	ts'oy44 oung33	闲聊
-蛮笑	mang21 ts'iu213	开玩笑
-解*闷	kee44 moung242	寻开心，拿别人开玩笑
-解*衰	kee21 soy44	捉弄人
-刺*溪	ts'ie44 k'ee44	取笑，挖苦别人
-加三码	k21 lang52 ma33	弄虚作假
-保削	poo44 lyo?12	爱惜，保护
-容纵	yng21 zoyng213	纵容
-做愆	tsoo44 k'ieng44	做孽
-#p1311R
-做证	tsoo52 zeing213	设计使人上当
-做胡	tsoo44 hu52	马虎，骗人
-做死胚	tsoo52 li21 wui44	耍赖
-做码	tsoo52 ma33	作弊
-做水	tsoo52 zy33	食物中掺水加重
-做呆	tsoo44 ngai52	破罐子破摔
-做畅	tsoo52 t'yong213	开玩笑
-做家	tsoo44 a44	节约
-拍*𰺲	p'a52 tooung242 丢掉%逷盪
-拍*☐	p'a52 loy?12	丢掉
-拍*无*	p'a52 moo52	丢失
-拍*𰺲阵	p'a21 looung52 neing242	迷路
-拍*𰺲𰉣	p'a21 looung52 nuo242 迷路
-爆*家	pou?2 ka44	暴露，败露
-摊拍*	t'ang52 ma?12	排场
-无*☐	moo44 ts'yo?5	不理 睬
-无*察	mo21 ts'ia?12	不管
-拨醒*	pua?12 ts'iang33	经点拨醒悟
-变面*	pieng52 meing213	翻脸
-问*算	muong52 nooung213	责问
-拍*算	p'a52 looung213	打算
-褪沏*沏*	t'ooung21 na52 a?12	打赤膊
-褪股马	t'ooung21 ngu24 ma33	光臀
-学*	oo?5	学习；背后传话
-受治	siu21 lei42	被虐待
-受怪	siu21 uai213	可怜
-定动*	ting21 noyng242	动弹
-填谜	teeing21 mei242	猜谜
-拍*施	p'a44 lie44	散落
-听喙	t'iang52 zu213	听话
-#二十三、心理
-八	peei?12	知道
-八传	peei?2 tyong52	知道
-会八	ee242 peei?12	知道，懂得，认识
-𫧃八	mee21 weei?12	不知道，不懂，不认识
-会捨	ee242 sia33	捨得
-#p1312L
-𫧃捨	mee21 lia33	捨不得
-八症	peei?12 tseing213	识相，懂规矩
-当𫧃殆	tooung21 mee52 tai213	受不了
-气	k'ei213	生气
-恻	ts'eei?12	悲切，生气
-愁*	teu52	愁闷
-欢喜	huang52 ni33	喜欢
-见觉	kieng52 ngoy?12	感觉
-退悔	t'oy52 ui213	后悔
-慌瘴	huong44 tsyong44	慌张
-苦	k'u33	发愁
-蒻	yo?12	疲劳，泄气
-会意	hui52 ei213	理解
-𫧃会意	mee44 hui21 ei213	不理解
-惊	kiang44	怕
-伓惊	ing44 ngiang44	不怕
-透骹	t'au44 k'a44	舒服
-念	neeing242	想念
-安心	ang44 ning44	放心
-#二十四、性状
-敆壳	ka?2 k'oy?12	卡壳，难缠
-平*直	pang44 ni?5	整齐，诚实
-平*搭	pang21 na?12	稳妥，周到
-平*正*	pang21 ziang213	质地不好
-平*长*	pang21 nooung52	一样长
-残	ts'iang52	心狠
-𠏋	k'oe52 傻，笨
-𪴯	ngooung242	傻
-恶	ou?12	凶
-臒	o?12	乖，听话
-下邪	a44 lia52	耍赖，占便宜
-缠绊	tieng21 muang242	纠缠不清
-好高瘌	hoo21 koo52 la?12	自大，好表现
-呆*乇	ngai21 no?12	坏东西，坏蛋
-好脚	hoo44 yo?12	强手
-死脚	si44 yo?	呆板，不灵活，不好用的脚色%原书音调脱漏
-#p1312R
-本事	puong44 no/y242	有本事
-墘角	kieng21 ngoy?12	严密周到
-四角	si52 koy?12	刻板，太认真
-利落*	li44 loo?5	勤快
-定*着	tiang44 tyo?5	老实，守规矩
-定*虫	tiang44 t'oyng52	懒惰
-细腻	see52 nei242	小心，客气
-好疼	hoo44 liang213	可爱，和蔼
-𫦉骨	leu21 oou?12	尖刻
-顽	nguang52	顽皮
-奸尻利	kang21 iu44 lei242	吝啬
-病*净洁	pang44 zing21 ngie?12	洁癖
-𡟑	heu52	女人不正派
-无*定*	moo21 liang242	好动，不规矩
-𡟑无*定*	heu21 moo21 liang242	女人不正派
-臭硬	ts'au52 ngeeing242	死硬
-假师*	ka21 sa44	不懂装懂
-了离	liu44 lie242	清楚，敏捷
-纳闷	na?12 mooung242	傻样，不清楚
-伓是胚	ing21 ni44 p'ui44	不是好东西
-王道	uog21 noo242	厚道，善良
-慒	tsoe44	胡涂，马虎
-橂(𠕆)	teeing242	结实
-冇	p'ang213	不结实
-滥	lang242	沾水
-烂	lang242	煮熟、腐烂
-瘼	mou?12	烂糊
-燋	ta44	干
-润*	noung213	潮湿
-𬲕	tsiang33	味淡
-糗	k'iu213	硬
-清	tsing44	稀
-𬇴	ky?5	浓
-☐	kuai44	(菜)老
-幼	iu213	不成熟
-戋	tsieng33	不成熟
-宿	so/y?12	成熟
-#p1313L
-肥	pui52	肥，胖
-𤸬	soy44	(人)瘦
-矬	tsoo242	矮胖
-滇	tieng242	满
-抽	t'iu44	瘦长
-生*	ts'iang44	生的
-価	see242	多%⿰亻西
-稠	seu52	均匀，经常
-俊	tsoung213	美
-好疼	hoo44 liang213	可爱，漂亮
-拉查	la44 zia44	肮脏
-麻渣	ma21 tsia52	肮脏
-沏*洁	t'a52 eei?12	清洁
-闹热	nau44 ie?5	热闹
-惯势	keeing52 sie213	习惯
-盘数	puang21 nou213	傻瓜，做傻事
-无*块死	moo21 noy53 si33	质差
-无*乇使*	moo21 noo52 lai33	无用
-无*成*乇	moo21 liang21 noo?12	不成样子
-无亥数	mo21 ai52 lou213	没本事，没希望
-张死款	tyong21 si24 k'uang33	装腔作势
-臭酸	tsau44 sooug44	闻出酸味
-行*时	kiang21 ni52	时髦
-时式	si52 lei?12	时兴
-无*样	moo21 yong242	丢脸
-玩愚	nguang21 ngo/y242	丢脸
-困*落*	eeing44 loo?5	清闲
-背	pui242	倒霉
-赘*闷	t'ui52 moung242	啰嗦
-跋摔	pua?2 soy?12	颠簸
-白老鼠	pa21 loo24 zy33	分文俱无
-罔去*	mung44 ngoo213	将就，随便
-快*脆	k'ee52 zui213	快捷
-有*硬	u21 ngeeing242	结实
-有*使*	u21 lai33	经用
-有*影*	u21 iang33	有效
-#p1313R
-#二十五、指代
-我*	nguai33	我
-汝	ny33	你
-伊	i44	他
-我*各侬	nguai33 ko?5 noyng52	我们
-依家各侬	noyng44 nga44 koo?5 noyng52	咱们
-汝各侬	ny33 ko?5 noyng52	你们
-伊各侬	i44 ko?5 noyng52	他们
-大家侬	tai21 a44 noyng52	大家
-自家	tsi44 a44	自己
-别侬	pie?12 noyng52	别人
-这只*	tsi21 zie?12	这个
-☐只*	hi21 (hie21) zie?12	那个
-者辰候	tsia44 leeing21 ngau242	这时候
-☐辰候	hia44 leeing21 ngau242	那时候
-☐☐	tsu44 uai213	这里
-☐☐	hu44 uai213	那里
-这𣆯	tsi21 ooung52	这么久
-☐𣆯	hi21 (hie21) ooung52	那么久
-蒋款	tsyong24 nguang33	这样
-响款	hyong24 uang33	那样
-☐侬	toe44 loyng52	谁
-什乇侬	sie?2 noo44 noyng52	什么人
-乇侬	noo44 noyng52	什么人
-乜候	mie?5 ngau242	什么时候
-乇辰候	noo44 leeing21 ngau242	什么时候
-乇事*计	noo44 lai21 ie213	什么事情，干什么
-☐☐	tang24 noe33	哪里
-☐蜀*只*	tang44 nyo21 zie?12	哪一个
-☐蜀间	tang44 nyo44 ang44	哪一间
-这☐讲	tsie44 nie44 kooung33	怎么讲，怎样讲
-蒋讲	tsyong24 ngooung33	怎么
-蒋其	tsyong21 ngi52	怎样，怎么样
-偌夥	nyo21 uai242	多少
-偌価	nyo21 lee242	多少%⿰亻西
-偌夥価	nyo21 uai21 see242	多少%⿰亻西
-#p1314L
-偌大	nyo21 tuai242	多大
-偌夥大	nyo44 uai21 tuai242	多大
-偌𣆯	nyo21 ooung52	多久
-偌夥𣆯	nyoo44 uai44 ooung52	多久
-偌夥侬	nyoo44 uai44 noyng52	多少人
-几*只*侬	kui44 zie?12 noyng52	几个人
-偌夥件	nyo44uai21 yong242	多少件
-几*件	kui44 yong242	几件
-#二十六、数量
-一	ei?12	一
-蜀*	syo?5	一
-二	nei242	二
-两	lang242	两
-三	sang44	三
-四	sei213	四
-五	ngou242	五
-六	loy?5	六
-七	ts'ei?12	七
-八	peei?12	八
-九	kau33	九
-十	seei?5	十
-二十	ni44 lei?5	二十
-廿一	nie?5 ei?12	二十一
-百	pa?12	百
-千	ts'ieng44	千
-万	uang242	万
-亿	ei213	亿
-(蜀)*菩(花)	puo52	(一)朵(花)
-(蜀)*只(侬)	tsie?12	(一)个(人)
-(蜀)*头(猪)	t'au52	(一)只(猪)
-#p1314R
-(蜀)*把(笔)	pa33	(一)枝(笔)
-(蜀)*条(竹)	teu52 	(一)根(竹子)
-(蜀)*蔸(树)	tau44	(一)株(树)
-(蜀)*块(衣裳)	toy213	(一)件(衣服)
-(蜀)*奇(鞋)	k'ia44	(一)只(鞋)
-(蜀)*喙(饭)	ts'ui213	(一)口(饭)
-(蜀)*架(手表)	ka213	(一)块(手表)
-(蜀)*落(厝)	lo?5	(一)座(房子)
-(蜀)*厝(侬)	ts'uo213	(一)家(人)
-(蜀)*堵(房间) 	tu33	(一)间(房间)
-(蜀)*箬(树箬)	nyo?5	(一)叶(树叶)
-(蜀)*条(手巾)	teu52	(一)条(手帕)
-(蜀)*块(杯)	toy213	(一)个(杯子)
-(蜀)*骹(布袋)	k'a44	(一)个(布袋)
-(蜀)*只(花瓶)	tsie?12	(一)个(花瓶)
-(蜀)*条(椅)	teu52	(一)把(椅子)
-(蜀)*架(汽车)	ka213	(一)辆(汽车)
-(蜀)*张(批)	t'yong44	(一)封(信)
-(蜀)*只*(批袋)	tsie?12	(一)个(信封)
-(蜀)*☐(屎)	pou?12	(一)泡(屎)
-(踢蜀*)骹	k'a44	(踢一)脚
-(𪮋蜀*)掌	tsyong33	(摔一)巴掌
-(拍*蜀*)棍	kooung213	(打一)棍子
-(拍*蜀*)槌	t'ui52	(打一)拳头
-(睏蜀*)醒	ts'iang33	(睡一)觉
-(挟蜀*)箸	to/y242	(挟一)筷子
-(行*蜀)☐	lau52	(走一)趟
-(啜蜀)喙	ts'ui213	(喝一)口
-(来)蜀*𣆯	syo44 ooung52	(来)一会儿
+##########################################
+#2021.1.28更新
+#校对完成
+#所有转写已替换为原书格式
+#
+###########################################
+
+#p1298L	
+#本章分类列出连江话常用词语，词语按连读后的读音标音。每条词语先写连江话说法，	
+接着是标音，标音后是普通话的说法或该词语义。	
+#一、天文	
+日头	niʔ5 t‘au52	太阳	
+月	ŋuoʔ5	月亮	
+月生*晕	ŋuoʔ5 saŋ52 uoŋ242	月晕	
+星	siŋ44	星星	
+星泄窝	siŋ44 sieʔ12 uo44	流星	
+筅帚星	ts‘εiŋ21 ʒiu21 liŋ44	扫帚星	
+虹	k‘øyŋ242	霓虹	
+晚霞	uaŋ21 ha52	红霞	
+天气	t‘ieŋ52 kei213	天气	
+好天	hɔ21 lieŋ44 好天气	
+呆*天	ŋai21 lieŋ44	坏天气	
+天晴	t‘ieŋ44 saŋ52	晴天	
+阴乌天	εiŋ21 ŋu44 lieŋ44	阴天	
+𰺲雨天	tɔuŋ21 ŋy21 lieŋ44	下雨天	%逷盪
+天暖	t‘ieŋ44 nuoŋ33	天气暖和	
+天凉	t‘ieŋ44 lyoŋ52	天气凉爽	
+二八天	ni21 βeiʔ12 t‘ieŋ44	春秋冷暖适宜天气	
+南风天	naŋ21 ŋuŋ44 nieŋ44	潮湿天气	
+白露☐	pa21 lu52 koy213	白露前后热天气	
+秋凉	ts‘iu44 lyoŋ52	秋天凉爽天气	
+秋烘	ts‘iu52 oyŋ242	秋天热天气	
+转润*	tuoŋ44 nouŋ213	反潮	
+#p1298R	
+热天	ieʔ5 t‘ieŋ44	夏天	
+凊天	ts‘iŋ44 nieŋ44	冷天	
+做旱	tsɔ52 aŋ242	天旱	
+做大水	tsɔ44 luai21 ʒy33	发大水	
+做溪水	tsɔ21 k‘ε52 ʒy33	山洪爆发	
+做风𱃗	tsɔ21 huŋ44 nai44	刮台风	
+风𱃗气	huŋ21 nai52 k‘ei213	有刮台风的征象	
+𰺲雨	touŋ21 ŋy33	下雨	%逷盪
+雷雨	lai21 y33	雷阵雨	
+雷公响	lai44 uŋ4 hyoŋ33	响雷	
+雷霎	lai21 siaʔ12	闪电	
+雨濛	y21 muŋ44	毛毛雨	
+濛濛雨	muŋ21 muŋ52 ŋy33	毛毛雨	
+霉雨	mui21 y33	连日下雨	
+晡时雨	puo52 li21 y33	阵雨	
+𰺲晡时	touŋ21 puo44 li52	下阵雨	%逷盪
+沃雨	uo52 y33	淋雨	
+过𣆯雨	kuo52 ɔuŋ21 ŋy33	短暂下雨	
+风丝	huŋ44 si44	微风	
+踅螺风	suoʔ5 loy44 uŋ44	旋风	
+雷云	lai21 uŋ52	下雷雨前的乌云	
+☐雾	muo21 ou242	雾	
+落霜	lɔ44 souŋ44	下霜	
+落雪	lɔ21 suoʔ12	下雪	
+#p1299L	
+珍珠雪	tsiŋ21 ʒuo52 luoʔ12	小粒雪	
+龙雹*	lyŋ44 p‘oyʔ5	冰雹	
+𰺲雹*	tɔuŋ44 p‘oyʔ5	下冰雹	%逷盪
+地牛转肩	ti44 ŋu52 tuoŋ21 ŋieŋ44	地震	
+露水	lu52 ʒy33	露水	
+天光	t‘ieŋ44 kuoŋ44	天亮	
+天暗	t‘ieŋ44 aŋ213	天黑	
+#二、地理	
+水涨*	tsy24 lɔuŋ33	(海水)涨潮	
+水湓	tsy44 βuoŋ213	(海水)退潮	
+海☐		hai21 p‘iaʔ	海边泥滩	
+沙坂	sa52 βuaŋ33	沙滩	
+海𪨧	hai44 lɔuŋ213	海啸	
+海墘下	hai44 ieŋ21 ŋa242	沿海	
+讨海	t‘ɔ24 hai33	海洋捕鱼	
+讨小海	t‘ɔ21 siu24 hai33	近海捕鱼	
+两*头*水	laŋ21 nau21 ʒy33	涨潮退潮	
+☐☐囝	k‘aŋ21 mεiŋ52 ŋiaŋ53	瓦砾	
+山岗	saŋ52 ŋɔuŋ213	山峰	
+山骹	saŋ44 k‘a44	山脚下	
+山里*	saŋ52 nie33	山区	
+山里角	saŋ21 nie44 koyʔ12	偏僻山区	
+龙潭	lyŋ21 t‘aŋ52	山坑	
+平洋	paŋ21 ŋyoŋ52	大片平地	
+田	ts‘εiŋ52	田地	
+园	huoŋ52	旱地	
+田*堘	ts‘εiŋ21 ŋniŋ52	田埂	
+埕	tiaŋ52	空地	
+曝粟埕	p‘uo21 ʒuo44 liaŋ52	晒谷场	
+拦潭	laŋ21 t‘aŋ52	石头	
+拦潭囝	la21 laŋ21 ŋiaŋ33	小石头	
+石*头*母*	syo44 lau21 mɔ33 大石头	
+石头囝	syo44 lau21 iaŋ33	小石头	
+石*头*卵*	syo22 lau21 lɔuŋ242	鹅卵石	
+沙	sai44	沙子	
+涂	t‘u52	泥土	
+#p1299R	
+𬲕水	tsiaŋ24 ʒy33	淡水	%䭕
+咸水	kεiŋ21 ʒy33	海水、咸水	
+滚汤	kuŋ21 nɔuŋ44	开水	
+汤	t‘ɔuŋ44	热水	
+江	kɔuŋ44	江	
+河	ɔ52	河	
+溪	k‘ε44	溪	
+贝	pui213	小溪	
+𰉣	tuo242	路	%墿
+马𰉣	ma44 luo242	公路	%墿
+街中	kε44 lɔuŋ44	街上	
+半𰉣中	puaŋ21 nuo44 lɔuŋ44	半路上	%墿
+塭尘	uŋ44 niŋ52	灰尘	
+粪倒	puŋ52 nɔ213	垃圾	
+城里	siaŋ21 nie33	城里	
+县城	kεiŋ44 niaŋ52	指县府驻地	
+乡下	hyoŋ52 ŋa242	农村	
+#三、时间	
+今年暝	kiŋ44 nieŋ44 maŋ52	今年	
+明年暝	maŋ21 nieŋ21 maŋ52	明年	
+后*年暝	au44 nieŋ44 maŋ52	后年	
+☐后年	noyŋ213 au44 nieŋ52	大后年	
+去年	k‘ɔ44 nieŋ52	去年	
+昨年	sɔ21 nieŋ52	前年	
+☐昨年	noyŋ213 so21 nieŋ52	大前年	
+昨暝	so21 maŋ52	昨天	
+昨日	sɔ44 niʔ5	前日	
+今旦	kiŋ52 naŋ213	今天	
+明*旦	maŋ21 naŋ213	明天	
+后日	au21 niʔ5	后天	
+☐后日	noyŋ213 au213 niʔ5	大后天	
+上昼*	syoŋ21 nau213	上午	
+当昼*	tɔuŋ52 nau213	中午	
+下昼	a21 lau213	下午	
+早*头*	tsia21 lau52	早晨	
+早*辰*头*	tisa21 iŋ21 nau52	早晨	
+#p1300L	
+半晡	puaŋ44 puo44	中午与黄昏之间	
+暝晡	maŋ44 muo44	晚上	
+暝晡头	maŋ21 muo44 lau52	晚上	
+半暝	puaŋ44 maŋ52	半夜	
+半暝囝	puaŋ44 maŋ21 ŋiaŋ33	半夜	
+蜀*暝天光	syo21 maŋ21 nieŋ44 ŋuoŋ44	通宵	
+个郎工	kɔ44 lɔuŋ44 kɔyŋ44	整天	
+个郎晡	kɔ44 lɔuŋ44 puo44	整夜	
+年把两*	nieŋ21 ma44 laŋ242	一年多至两年	
+月把日	ŋuoʔ2 pa21 niʔ5	一个多月	
+十除工	sεiʔ5 ty44 oyŋ44	十来天	
+仂久*	liʔ2 ku33	一会儿	
+仱	taŋ44	现在	
+旧底	ku21 lε33	以前	
+往南帮	uoŋ21 naŋ44 mɔuŋ44	以前	
+往南日	uoŋ21 naŋ44 niʔ5	前几天	
+头先	t‘au44 lεiŋ44	前一会儿	
+拜一	puai52 eiʔ12	星期一	
+年暝兜	nieŋ44 maŋ44 nau44	年边	
+上元	syoŋ44 ŋuoŋ52	元宵	
+五月节	ŋu21 ŋuoʔ5 ts‘eiʔ12	端午节	%原书即为ts‘eiʔ12
+七月半	ts‘iʔ12 ŋuoʔ5 puaŋ44	七月半节	
+八月中秋	pεiʔ ŋuoʔ2 tyŋ44 ʒiu44	中秋节	
+做年	tsɔ44 nieŋ52	过年	
+做节	tsɔ52 tsεiʔ12	过节	
+三十暝晡	saŋ21 nεiʔ2 maŋ44 muo44	大年三十晚上	
+初一早	ts‘œ21 iʔ12 tsia33	大年初一	
+#四、方位	
+位处	ui21 ʒøy213	地方，位置	
+悬*势	kεiŋ21 nie213	上面	
+悬*顶	kε21 lεiŋ33	上面	
+下底	a21 lε33	下面	
+里*势	tie44 lie213	里面	
+外*斗*	ŋie21 lau33	外面	
+边斗*	pieŋ52 nau33	旁边	
+#p1300R	
+四势	si52 sie213	到处	
+七处	ts‘iʔ5 ts‘øy213	到处	
+台中*	tai44 lɔuŋ44	中间	
+台中*中*	tai21 lou44 nouŋ44	中间	
+地兜	tie44 lau44	地面	
+桌面	tɔ52 meiŋ213	桌上	
+门楼口*	muoŋ21 lau21 k‘au33	门口	
+门后角	muoŋ21 ŋau21 oyʔ12	门后	
+后*斗*	a21 lau33	后面	
+尾斗*	mui24 lau33	后面	
+尾后*	mui44 au242	背后	
+角角	koyʔ12 koyʔ12	角落	
+面*前*	miŋ44 nεiŋ52	前面	
+面*头*前*	miŋ44 nau44 lεiŋ52	前面	
+#五、房舍	
+厝	ts‘uo213	房屋	
+厝瓦顶	ts‘uo44 ŋua21 liŋ33	屋顶	
+檐墘头*	siŋ21 ŋieŋ21 nau53	屋檐	
+桁	aŋ52	檩(屋顶上托住椽子的横木)	
+椽	t‘uoŋ52	椽子	
+廊柱*	lɔuŋ21 t‘iu242	柱子	
+柱*珠	t‘iu44 ʒuo44	柱下石	
+磉盘	sɔuŋ21 muaŋ52	顶着“柱珠”的石板	
+门䧘	muoŋ21 nεiŋ242	门槛	
+楼*顶	lau21 liŋ33	楼上	
+阶*座	kie23 ʒɔ242	台阶	
+房里*	puŋ21 nie33	屋里	
+露台	lu44 lai52	凉台	
+拦牢	laŋ21 nɔ52	拦杆	
+门扇	muoŋ21 nieŋ213	门板	
+槛门囝	k‘aŋ21 muoŋ52 ŋiaŋ33	窗户	
+灶前*	tsau44 lεiŋ52	厨房	
+粪坑厝	puŋ21 ŋaŋ52 ʒuo213	厕所	
+仰板	ŋyoŋ24 mεiŋ33	天花板	
+厅中	t‘iaŋ nɔuŋ44	大厅	
+#p1301L	
+#六、器具	
+家私*	ka44 li44	家具，工具	
+眠床	miŋ21 ts‘ɔuŋ52	床	
+籐床框	tiŋ44 ʒɔuŋ44 k‘uoŋ44	床绷子	%原书即为籐
+行*铺	kiaŋ44 muoŋ44	临时搭起的床铺	%原书音标如此
+月桌	ŋuoʔ2 tɔʔ12	园桌	
+月椅	ŋuoʔ2 ie33	园凳子	
+椅条	ie21 leu52	条凳	
+椅头*	ie21 lau52	凳子	
+椅囝	ie24 iaŋ33	小凳子	
+裙座椅	kuŋ21 ʒɔ52 ie33	太师椅	
+床荐	ts‘ɔuŋ21 ʒeiŋ213	草垫	
+毡	tsieŋ44	毛毯	
+铺板	p‘uo52 βεiŋ33	床板	
+帐	tyoŋ213	蚊帐	
+褥	yʔ5	褥子	
+棉被	mieŋ21 p‘ui242	棉胎	
+簏	loyʔ5	抽屉	
+签甲桌	ts‘ieŋ21 ŋʔ5 tɔʔ12	大写字台	
+妆台桌	tsyoŋ52 nai21 lɔʔ12	梳妆台	
+鼎㪠	tiaŋ44 ŋεiŋ213	锅盖	
+鼎杼	tiaŋ24 t‘yo33	锅铲	
+鼎筅	tiaŋ24 ts‘εiŋ33	炊帚	
+铁☐	t‘ie12 ts‘ieʔ5	铁瓢	
+漏☐	lau44 ts‘ieʔ5	漏瓢	
+笊篱	tsia44 lie52	在水中捞物的用具	
+水管*	tsy24 uoŋ33 舀水竹简	
+饭☐	puɔŋ21 ʒeiŋ213	蒸饭具	
+拔桶	puaʔ2 t‘oyŋ33	吊水桶	
+碗缸	uaŋ21 kɔuŋ44	大碗	
+碗囝	uaŋ24 ŋiaŋ33	小碗	
+酒盏	tsiu24 ʒiaŋ33	酒杯	
+酒漀	tsiu21 iŋ52	斟酒酒壶	
+茶婆	ta21 βɔ52	茶壶	
+茶桌	ta21 lɔʔ12	茶几	
+开水壶	k‘aiʔ21 ʒy21 u52	热水壶	
+罗盆	lɔ21 βuoŋ52	脸盆儿	
+#p1301R	
+面*布	miŋ52 muo213	洗脸巾	
+牙齿罐	ŋa21 i44 uaŋ213	牙杯	
+骹布	k‘a52 βuo213	擦脚布	
+骹桶	k‘a52 loyŋ33	洗衣桶	
+☐板	haŋ21 mεiŋ33	切菜板	
+碟囝	tieʔ2 kiaŋ33	小碟子	
+洋罐	yoŋ21 ŋuaŋ213	煤油灯	
+电光	tieŋ44 ŋuoŋ44	电灯	
+手电	ts‘iu44 tieŋ242	手电筒	
+电涂	tieŋ44 t‘u52	电池	
+不求人	puʔ12 kiu21 iŋ52	竹制抓痒具	
+纸媒	tsai21 mui52	引火用的细纸卷	
+洋火*	yoŋ21 ŋui33	火柴	
+薰筒	hɔuŋ44 noyŋ52	水烟筒	
+柴柿	ts‘ia21 p‘ui213	木屑	
+火*管*	hui24 uoŋ33	吹火筒	
+甏	p‘aŋ44 大口缸	
+瓮	oyŋ213	小口缸	
+硋鉢	hai21 βuaʔ12	鉢头	%原书鉢即为繁体
+瓶瓶	piŋ21 piŋ52	小瓶子	
+罐罐	kuaŋ21 kuaŋ213	小罐子	
+筅帚	ts‘εiŋ24 ʒiu33	扫帚	
+挂橱	kua44 liu52	菜橱	
+猴*桶	kau21 loyŋ33	提水用小水桶	
+头*梳	t‘au44 lœ44	梳子	
+篦梳	pi44 lœ44	篦子	
+便妆	pieŋ44 ʒɔuŋ44	梳妆盒	
+衣裳车	i44 lyoŋ44 ʒia44	缝纫机	
+铰刀	ka44 lɔ44	剪刀	
+竹𥮕	tyʔ5 ɔuŋ242	晒衣竹竿	
+骹踏车	k‘a21 laʔ5 ts‘ia44	自行车	
+风抽	huŋ44 t‘iu44	打气简	
+竹床	tyʔ12 ts‘ɔuŋ52	竹床	
+竹席	tyʔ12 ts‘yoʔ5	竹席子	
+鼎	tiaŋ33	铁锅	
+灶刀	tsau44 lɔ44	切菜刀	
+文明杖	uŋ21 miŋ21 t‘yoŋ242	手杖	
+#p1302L	
+痰盆	t‘aŋ21 puoŋ52	痰盂	
+#七、动物	
+头*牲*	t‘au4 laŋ44	牲畜	
+牛*港	ŋu21 koyŋ33	公牛	
+牛*母*	ŋu21 mɔ33	母牛	
+猪射	ty52 lia242	公猪	
+猪豚	ty44 lɔuŋ52	中猪	
+猪囝	ty52 iaŋ33 小猪	
+菜猪	ts‘ai44 ly44	肉猪	
+羊	yoŋ52	羊	
+猫☐	ma21 nei213	猫	
+鸡角	kie52 oyʔ12	公鸡	
+鸭雄	aʔ12 hyŋ52	公鸭	
+水鸡	tsy21 ie44	田蛙	
+蛒	kuoʔ5 toyŋ213	山坑蛙	
+青鸭	ts‘iaŋ52 ŋaʔ12	青蛙	
+黄蜱	uoŋ21 p‘ε52	小青蛙	
+黄蜱☐	uoŋ21 mε21 lui242	蝌蚪	
+老*虎	la21 u33	老虎	
+老*蛇	lau44 lie52	蛇	
+拉狸	la21 li33	穿山甲	
+猴囝	kau21 iaŋ33	猴子	
+豹囝	pau52 iaŋ33	豹子	
+溪滑*	k‘ε44 kɔuʔ5	淡水大鳗鱼	
+☐☐	a21 ʒi52	蝉	
+蚕囝	ts‘εiŋ21 ŋiaŋ33	蚕	
+南尾星	naŋ21 mui21 liŋ44	萤火虫	
+☐蝶	pu44 lieʔ5	蝴蝶	
+麻胡	ma21 u52	蜻蜒	%原书即为蜒
+风蚊	huŋ44 muoŋ52	蚊子	
+菩蝇	pu21 liŋ52	苍蝇	
+猫头爷	ma44 lau44 ie52	蜘蛛	
+蜢囝	moyŋ24 ŋiaŋ33	小黑虫	
+虼蚤	ka24 ʒau33	跳蚤	
+虱母*	seiʔ mo33	虱子	
+猴蚓	kau21 ɔuŋ33	蚯蚓	
+#p1302R	
+目虱	meiʔ2 sεiʔ12	臭虫	
+⿰粜蚤母	saʔ12 mo33	蟑螂	
+仁蚣	iŋ44 ŋøyŋ44	蜈蚣	
+黄蚁	uog21 ŋie242	蚂蚁	
+白蚁	pa21 ŋie242	白蚂蚁	
+家隻	ka52 tsieʔ12	麻雀	
+白鸽	pa21 aʔ12	白鸽	
+老𪺾	lo21 ŋε52	老鹰	
+燕囝	ieŋ52 ŋiaŋ33	燕子	
+客鹊	k‘a52 ʒyoʔ12	喜鹊	
+☐化	ka21 ua213	八哥	
+猫*王鸟*	ma21 uoŋ21 ʒeu33	猫头鹰	
+乌鸦	u44 a44	乌鸦	
+𫊻	siŋ52	青蟹	
+蠘	ts‘ieʔ5	梭子蟹	
+黄瓜鱼	uoŋ21 ŋua44 ŋy52	黄花鱼	
+虾米	ha21 mi33	虾皮	
+蟟囝	liu21 iaŋ33	蚬子	
+马骹	ma21 k‘a44	马鲛鱼	
+䖳	t‘a213	海蜇皮	
+鳜鱼	kui44 ŋy52	鳜鱼	
+冬鸡	toyŋ44 ŋie44	大墨鱼	
+虎𫊻	hu21 liŋ52	蟹类的一种	
+青鳌	ts‘iaŋ44 ŋɔ52	海蚌	
+虾菇	ha44 u44	一种贝壳类海产	
+车利	ts‘ia21 lei213	海蚯蚓	
+鲎	hau213	鲎	
+鳖	pieʔ12	甲鱼	
+龟	kui44	龟	
+蛏	t‘εiŋ44	蛏	
+鲄囝	k‘ɔ52 iaŋ33	小鱼干	
+鱼鲞	ŋy21 lyoŋ33	剖开晾干的鱼	
+跳鱼	t‘iu44 ŋy52	鲦鱼	
+八蛎*	pεiʔ5 tie242	牡蛎	
+鳝	ts‘iaŋ242	鱔鱼	
+鱿鱼	iu21 ŋy52	鱿鱼	
+蚶	haŋ44	蚶	
+#p1303L	
+章鱼	tsyoŋ44 ŋy52	章鱼	
+#八、植物	
+籼	tiu242	稻子	
+粟*	ts‘uoʔ12	谷子	
+稗	p‘ε213	稗子	
+秫粟*	suʔ2 ts‘uoʔ12	糯谷	
+𬖞米	si21 mi33	粳米	
+番薯	huaŋ44 ny52	红薯	
+番囝薯	huaŋ21 ŋiaŋ21 ny52	马铃薯	
+番柿	huaŋ52 k‘ei242	西红柿	
+芋卵	uo21 lɔuŋ242	芋头	
+姜母	kyoŋ52 mɔ33	母姜	
+鼎𰱗	tiaŋ44 ʒœ213	丝瓜	
+☐	pu52	葫芦瓜	
+金瓜	kiŋ44 ŋua44	南瓜	
+萝卜	la44 βuʔ5	萝卜	
+蕹菜	uŋ52 ʒai213	空心菜	
+茭笋	ka52 luŋ33	茭笋	
+番椒	huaŋ44 ʒiu44	辣椒	
+芥菜	kua52 ʒai213	芥菜	
+薸	p‘iu52	浮萍	
+包菜	pau52 ʒai213	洋白菜	
+紫菜	tsie44 ʒai213	茄子	
+莓梨	mui21 li52	荸荠	
+龙眼	lɔuŋ21 ŋεiŋ33	龙眼	
+荔枝	lie44 ʒie44	荔枝	
+芭蕉	pa44 ʒiu44	香蕉	
+☐	p‘au44	柚子	%原书☐处为空
+☐红	ts‘uo21 uŋ52	杨梅	
+番石榴	huaŋ21 nyo44 liu52	番石榴	
+黄郑	uoŋ21 naŋ242		黄皮果	
+栗子	liʔ2 tsi33	栗子	
+杉树*	saŋ52 ʒiu213	杉树	
+梧桐	ŋu21 luŋ52	梧桐	
+松柏	syŋ21 maʔ12	松树	
+麻竹	ma21 løyʔ12	毛竹	
+#p1303R	
+树*箬	ts‘iu44 nyoʔ5	树叶	
+树*桠	tu‘iu44 ŋε44	树枝	
+栽树*	tsai52 ts‘iu213	种树	
+菜栽	ts‘ai44 ʒai44	菜苗	
+树*栽	ts‘iu44 ʒai44	树苗	
+茉莉	moyʔ2 lei242	茉莉花	
+#九、人品	
+丈夫侬	tɔuŋ21 muo44 noyŋ52	男人	
+诸娘依	tsy44 nyoŋ44 noyŋ52	女人	
+老*侬	lau44 noyŋ52	老人	
+老*货	lau21 huo213	老人(贬)	
+丈*夫*侬老*	tɔuŋ21 muo44 noyŋ21 lau242	老男人	
+诸娘老*	tsy52 nyoŋ21 lau242	老女人	
+单身哥	tan21 niŋ44 ŋɔ44	单身汉	
+守妈	tsiu24 ma33	寡妇	
+悬*哥	kεiŋ44 ŋɔ44	高个子	
+矮囝	ε24 iaŋ33	矮个子	
+汉码大	haŋ21 ma44 tuai242	大个子	
+隔壁*厝	ka21 βia52 ʒuo213	邻居	
+厝边	ts‘uo44 βieŋ44	邻居	
+丈*夫*囝	tɔuŋ21 muo52 iaŋ33	男孩子	
+诸娘囝	tsy52 noyŋ44 ŋiaŋ33	女孩子	
+伲囝哥	nie21 iaŋ21 ŋɔ44	小孩子	
+新妇囝	siŋ21 mu52 iaŋ33	童养媳	
+☐厝脊	ta21 ʒuo52 ʒeiʔ12	老处女	%原书☐处为空
+谊女	ŋie21 ny33	婢女	
+谊囝	ŋie21 iaŋ33	干儿子	
+白面	pa21 meiŋ213	妓女	
+歹*囝	p‘ai24 iaŋ33	流氓	
+呆*囝	ŋai21 iaŋ33	学坏的人	
+好囝	hɔ24 iaŋ33	学好的人	
+𪴯囝	ŋɔuŋ21 ŋiaŋ33	傻子	
+两*个声	laŋ21 ŋa21 liaŋ44	不会讲本地话的人	
+掌盘使	tsyoŋ44 muaŋ21 nai213	掌柜的	
+长年	tɔuŋ21 nieŋ52	长工	
+煮*食*	tsy21 lieʔ5	煮饭婆	
+#p1304L	
+宝☐奶	pɔ21 u24 nε33	接生婆	
+铜子	toyŋ21 ʒi33	神汉	
+☐☐妈	le21 ʒi24 ma33	招魂女人	
+厨司付	tuo21 la52 ou242	厨师	
+赌博鬼	tu21 βouʔ5 kui33	惯赌	
+甲哥	kaʔ12 kɔ44	搬运工	
+和头	huo21 lau52	和事老	
+新新妇	siŋ21 niŋ52 mou242	新娘	
+新郎使	siŋ52 nɔuŋ21 nai213	新郎	%使当作婿
+乞食*	k‘yʔ21 sieʔ5	乞丐	
+#十、称谓	
+大公	tuai44 uŋ44	曾祖父	
+大妈	tuai21 ma33	曾祖母	
+依公	i44 kuŋ44	祖父	
+依妈	i52 ma33	祖母	
+伯公	pa44 uŋ4	伯祖父	
+姆妈	mu24 ma33	伯祖母	
+叔公	tsyʔ12 kuŋ44	叔祖父	
+婶妈	siŋ24 ma33	叔祖母	
+郎爸	nɔuŋ21 ma242	父親	
+依爹	i44 tia44	父親	
+娘奶	nɔuŋ21 nε33	母親	
+依奶	i52 nε33	母親	
+依伯	i52 paʔ12	伯父	
+依母	i52 mu33	伯母	
+依家	i44 ka44	叔叔	
+家婶	ka52 liŋ33	婶子	
+外*公	ŋie44 uŋ44	外祖父	
+外*妈	ŋie21 ma33	外祖母	
+依舅	i52 kiu242	舅父	
+依妗	i52 keiŋ242	舅母	
+姨姨	i21 i52	姨母	
+姨丈	i21 lyoŋ242	姨丈	
+姑妈	ku44 ma44	姑母	%后字声调当为33
+姑丈	ku52 lyoŋ242	姑丈	
+依姐	i52 tsia33	姐姐	
+姐夫	tsia21 u44	姐夫	
+#p1304R	
+依妹	i52 mui213	妹妹	
+妹夫	mui44 u44	妹夫	
+依哥	i44 kɔ44	哥哥	
+依嫂	i52 sɔ33	嫂子	
+依弟	i52 tie242	弟弟	
+弟人**	tie44 iŋ52	弟媳	
+爹官	tε44 uaŋ44	公公	
+爹家	tε44 a44	婆婆	
+囝	kiaŋ33	儿子	
+新妇	siŋ52 mou242	儿媳	
+孙	sɔuŋ44	孙子，姪儿	
+外*甥	ŋie44 lεiŋ44	外甥	
+外*孙	ŋie44 lɔuŋ44	外孙	
+孙孙囝	sɔuŋ21 nɔuŋ52 ŋiaŋ33	曾孙	
+丈侬	tyoŋ21 noyŋ52	岳父	
+丈奶	tyoŋ24 nε33	岳母	
+叔婶伯罕	tsyʔ12 siŋ21 pa52 aŋ33	妯娌	
+兄弟哥	hiaŋ21 nie44 ɔ44	弟兄	
+姐妹	tsia44 mui213	姐妹	
+郎爸囝	nɔuŋ21 ma52 iaŋ33	父子	
+娘奶囝	nyoŋ21 nε24 iaŋ33	母子	
+老*公妈	la21 uŋ52 ma33	夫妻	
+#十一、饮食	
+食*早*	sieʔ2 tsia33	吃早饭	
+食*昼*	sieʔ2 tau213	吃午饭	
+食*暝	sieʔ2 maŋ52	吃晚饭	
+糜粥	mui21 ʒøyʔ12	稀饭	
+燋饭*	ta52 βuoŋ242	干饭	
+漉饭*	lɔyʔ2 puoŋ242	捞饭	
+凊饭*	ts‘iŋ52 muoŋ242	冷饭	
+𣗬饭*	k‘iu52 βuoŋ242	硬饭	
+碎食*	ts‘oy44 lieʔ5	零食	
+熻饭*	hiʔ5 puog242	焖饭	
+焖饭	muŋ21 puoŋ242	焖饭	
+乇配	nɔ52 ui213	下饭菜	%原书后字即无声母
+白𬖞	pa44 li52	白粿	
+#p1305L	
+糖粿	t‘ɔuŋ21 ŋui33	甜糕	
+扁肉	pieŋ21 nyʔ5	馄饨	
+蹄库	tε21 k‘ou213	猪蹄膀上的肉	
+下水	a21 ʒy33	鸡鸭内𦛊	
+切面	ts‘ieʔ5 mieŋ242	切面	
+春饼	ts‘uŋ52 miaŋ33	春卷	
+燕皮	ieŋ44 p‘ui52	瘦肉制的馄饨皮	
+肥肉	pui44 nyʔ5	肥肉	
+㾪肉	sεiŋ21 nyʔ5	瘦肉	
+☐老	muaŋ44 lɔ33	猪舌	
+猪骹	ty44 k‘a44	猪脚	
+猪骹爪	ty21 a52 ʒau33	猪脚的前半部	
+骹柄	k‘a52 βaŋ213	猪脚的后半部	
+肉绒	nyʔ5 yŋ52	肉松	
+鱼丸	ŋy21 uoŋ52	鱼丸	
+鱼面	ŋy21 mieŋ242	鱼面	
+线面	siaŋ52 mieŋ242	线面	
+豆腐	ta21 ou242	豆腐	
+皮卵	p‘ui21 lɔuŋ242	松花蛋	
+腹*里*	puʔ12 tie33	动物内𦛊	
+煠卵*	saʔ2 lɔuŋ242	清水煮蛋	
+豉油	sie44 iu52	酱油	
+文饼	uŋ21 miaŋ33	油炸的面粉条	
+卵包	lɔuŋ44 mau44	荷包蛋	
+冰箸	pin52 tøy242	冰棒	
+漀茶	k‘iŋ21 ta52	倒茶	
+食*茶	sieʔ2 ta52	喝茶	
+食*薰	sieʔ5 hɔuŋ44	抽烟	
+食*酒	sieʔ2 tsiu33	喝酒	
+食*饭*	sieʔ puoŋ242	吃饭	
+豆干	tau44 uaŋ44	硬些的豆腐	
+香干	hyoŋ44 ŋaŋ44	𰛮豆腐干	
+#十二、起居	
+爬起	pa52 k‘i33	起来	
+洗面	sε44 meiŋ213	洗脸	
+洗汤	sε21 lɔuŋ44	洗澡	
+#p1305R	
+洗牙齿	sε44 ŋa21 i33	刷牙	
+澉身	kaŋ21 niŋ44	擦身	
+泡茶	p‘au44 ta52	沏茶	
+颂衣裳	sy21 i44 lyoŋ52	穿衣服	
+褪衣裳	t‘ɔug21 i44 lyoŋ52	脱衣服	
+行*𰉣	kiaŋ21 tuo242	走路	
+客蹓	k‘a44 liu52	玩耍	
+去*街	k‘ɔ44 kε44	上街	
+去*斋	k‘ɔ44 ʒe44	上学	
+睶	ts‘uŋ33	打瞌睡	
+转厝	tuoŋ44 ts‘uo213	回家	
+做依客*	tsɔ44 noyŋ21 ŋaʔ12	做客	
+剃头	t‘ie44 lau52	理发	
+睏昼	k‘ɔuŋ52 nau213	午睡	
+狂眠	kuoŋ21 miŋ52	讲梦话	
+腹*老空*	puʔ12 lɔ52 k‘oyŋ44	肚子饿	
+扫厝	sau52 ʒuo213	扫地	
+好睏	hɔ44 ɔuŋ213	好睡	
+睏𫧃着	k‘ɔuŋ213 mε44 lyoʔ5	睡不着	
+毛眠睏	mɔ21 miŋ21 ŋɔuŋ213	睡不着	
+清醒*	ts‘iŋ52 ʒiaŋ33	睡醒	
+门头	muoŋ21 nau52	送礼	
+熬暝	ŋɔ21 ma52	熬夜	
+拉尿	na21 niu242	拉尿	
+拉屎	na21 sai33	拉屎	
+摒粪倒	piaŋ21 puŋ52 nɔ213	倒垃圾	
+#十三、服饰	
+衣裳	i44 lyoŋ52	衣服，上衣	
+衣裳衫颂	i21 lyoŋ21 naŋ52 nøyŋ242	衣衫	
+裤	k‘ou213	裤子	
+裤郎囝	k‘u52 lɔuŋ21 ŋiaŋ33	短裤	
+半长裤	puaŋ44 nɔuŋ21 ŋou213	短裤	
+放*斗裤	puŋ21 nau44 ou213 开裆裤	
+颂睏裤	syŋ21 ŋouŋ52 ŋou213	睡裤	
+裙	kuŋ52	裙子	
+背心	pui44 liŋ44	背心	
+#p1306L	
+汗𧜛	kaŋ21 lɔuŋ33	汗衣	
+羊毛𧜛	yoŋ21 mɔ21 lɔuŋ33	羊毛衣	
+背褡	pui52 laʔ12	背心	
+羊毛䘥	yoŋ21 mɔ21 kaʔ12	羊毛背心	
+长衫	tɔuŋ44 naŋ44	长袍	
+鲜衣	ts‘ieŋ44 i44	旗袍	
+大衣	tuai44 i44	大衣	
+裤头带	k‘u44 lau21 lai213	裤带	
+颂睏衫	syŋ21 ŋɔuŋ44 naŋ44	睡腰衣	
+鞋靸	ε21 liaʔ12	拖鞋	
+鞋屐	ε44 k‘iaʔ5	木屐	
+鞋☐屐	ε21 lɔ44 k‘iaʔ5	木屐	
+☐☐帽	ŋiaŋ21 ŋiaŋ52 mɔ242	有舌帽	
+碗帽	uaŋ44 mɔ242	瓜皮帽	
+草履靸	ts‘au21 i44 liaʔ12	草编拖鞋	
+围身裙	ui21 liŋ44 ŋuŋ52	围裙	
+领巾	liaŋ21 ŋyŋ44	围巾	
+鞋套	ε21 t‘ɔ213	雨鞋	
+雨靴	y21 uo44	长统雨鞋	%原书即为统
+尿燥	niu21 lɔ213	尿布	
+𪢌遮	laŋ21 ʒia44	围嘴儿	
+袜	uaʔ5	袜子	
+耳坠	ŋi21 lui242	耳坠子	
+手镯	ts‘iu21 lɔʔ5	手镯子	
+手指	ts‘iu24 ʒi33	戒指	
+手𦃆	tsiu44 lɔʔ12	手套	
+手巾	ts‘iu21 yŋ44	手帕	
+袄轮	ɔ21 luŋ52	套衫	
+手䘼	ts‘iu24 uoŋ33	袖子	
+脰领	tau21 liaŋ33	领子	
+裤斗	k‘u52 lau33	裤裆	
+长*䘼	touŋ21 ŋuoŋ33	长袖	
+短*䘼	tøy24 uoŋ33	短袖	
+#十四、身体	
+头*	t‘au52	脑袋	
+头*发	t‘au21 uoʔ12	头发	
+额头*	ŋia44 lau52	额头	
+眉毛	mi21 mɔ52	眉毛	
+目*霎	moyʔ2 sia12	睫毛	
+目*睭	mεiʔ5 tsiu44	眼睛	
+面*𱂮	miŋ52 mε33	脸蛋儿	%䫌
+鼻	p‘ei213	鼻子	
+耳*	ŋei242	耳朵	
+喙	ts‘ui213	嘴	
+喙皮*	ts‘ui44 βui52	嘴唇	
+牙齿	ŋa21 i33	牙齿	
+喙舌	ts‘ui44 lieʔ5	舌头	
+喙⿱髟须	ts‘ui44 liu44	胡须	%鬚
+下颏	a44 hai52	下巴	
+喉咙	hœ21 loyŋ52	喉咙	
+脰𦜩	tau21 uoʔ12	脖子	
+心肝	siŋ44 ŋaŋ44	胸部	
+六条骨	loyʔ2 teu21 ɔuʔ12	肋骨	
+𬂌	nεiŋ52	乳房	
+腹*老	puʔ12 lɔ33	肚子	
+腹*脐*	puʔ12 sai52	肚脐	
+手肚	ts‘iu24 lu33	手臂	
+胳洛下	kɔʔ12 lɔuʔ5 a242	腋下	
+巴掌	pa52 ʒyoŋ33	手掌	
+掌指	tsieŋ24 ʒai33 手指	
+掌甲	tsieŋ44 ŋaʔ12	指甲	
+掌头母*	tsieŋ24 nau21 mɔ33	大母指	
+鸡角指*	kie21 oyʔ12 tsai33	食指	
+台中*指*	tai21 lɔuŋ52 tsai33	中指	
+无*名*指*	mɔ21 miaŋ21 ʒai33	无名指	
+尾掌指*	mui21 ʒieŋ24 ʒai33	小指	
+骹肚囝	k‘a21 lu24 iaŋ33	小腿	
+骹𩨑	k‘a44 naŋ44	脚后跟	
+骹☐底	k‘a21 ʒyo24 lε33	脚底	
+骹目睭	k‘a21 mεiʔ5 tsiu44	脚踝	
+骹腹*头*	k‘a21 βuʔ12 t‘au52	膝盖	
+骹掌指*	k‘a21 ʒieŋ24 ʒai33	脚指	
+骹柄下	k‘a21 βaŋ52 ŋa242	胯下	
+股川	ku21 ʒyoŋ44	屁股	
+#p1307L	
+肾脬	liŋ44 p‘a44	阴囊	
+肾核子	liŋ21 ŋuoʔ2 tsi33	睾丸	
+朘友	noy21 iu33	男阴	
+姕𱂮	tsi52 βε33	女阴	%䫌
+目滓	mɔyʔ2 tsai33	眼泪	
+鼻☐	p‘i52 lœ52	鼻涕	
+鼻屎	pi52 lai33	鼻精(干结的鼻涕)	
+𪢌	laŋ33	口水	
+苦毛	k‘u21 mo52	毫毛	
+#十五、疾病	
+破*病*	p‘uai52 βaŋ242	生病	
+无*力*☐	mɔ21 niʔ5 ai52	不舒服，病了	
+喫亏	k‘iʔ12 k‘ui44	难受	
+看病*	k‘aŋ52 paŋ242	医病	
+牧病*	muoʔ2 paŋ242	医病	
+惊凊	kiaŋ52 ts‘eiŋ213	怕冷	
+嗽	sau213	咳嗽	
+吐	t‘ou213	呕吐	
+病泻	paŋ21 nia213	拉肚子	
+过	kuo213	传染	
+发烧	huaʔ12 siu44	发热	
+头*眩*	t‘au52 hiŋ52	头晕	
+生*𭼕	saŋ52 huoŋ213	长疖子	
+生*痱	sanŋ52 pui213	长痱子	
+拍*腹*寒*	pa21 puʔ12 kaŋ52	打摆子	%原书即为pa21
+病疳	paŋ44 kaŋ44	疳积	
+病囝	paŋ21 ŋiaŋ33	害喜	
+病腿	paŋ21 t‘ɔy33	痳疯病	
+生*㾸𤶁	saŋ52 kɔ21 lɔ242	长疥疮	
+生疥	saŋ52 kε213	长疥疮	
+病哑	paŋ21 ŋa33	哑巴	
+耳聋	ŋi44 loyŋ52	耳朵聋	
+眚盲	ts‘aŋ44 maŋ52	眼瞎	
+光瞎	kuoŋ52 ŋaʔ12	青光眼	
+缺喙	k‘ieʔ5 ts‘ui213	豁唇	
+病*颤疯	paŋ21 ʒieŋ44 ŋuŋ44	肢体颤抖	
+#p1307R	
+瘌头	laʔ12 t‘au52	秃头	
+麻面	ma21 meiŋ213	麻脸	
+大舌☐	tuai21 lieʔ5 pœ33	口吃	
+出铺	ts‘uʔ12 p‘uo44	出麻疹	
+出水珠	ts‘uʔ12 tsy21 ʒuo44	出水痘	
+中风	tyŋ44 ŋuŋ4	脑溢血	
+摆骹	pai21 k‘a44	跛脚	
+弯髀	uaŋ44 p‘iaŋ4	驼背	
+羊眩*	yoŋ21 hiŋ52	羊癫病	
+冻子	toyŋ52 ʒi33	冻疮	
+☐肠头	t‘ouʔ5 tɔuŋ21 nau52	疝气	
+结肠	kieʔ12 tyoŋ52	便秘	
+啡血	p‘ui52 hεiʔ12	吐血	
+发*核	puoʔ12 houʔ5	鼠疫	
+泼尿	puaʔ5 niu242	泄尿	
+拈药	nieŋ44 yoʔ5	抓药	
+食药	sieʔ5 yoʔ5	服药	
+破相	p‘ɔ52 lyoŋ213	五官缺陷	
+#十六、风俗	
+讨親	t‘ɔ21 ʒiŋ44	娶親	
+讨新妇	t‘ɔ21 liŋ52 mou242	娶媳妇	
+做新妇	tsɔ21 liŋ52 mou242 出嫁	
+出门	ts‘uʔ12 muoŋ52	出嫁	
+过门	kuo44 muoŋ52	出嫁	
+送门头	soyŋ44 muoŋ44 nau52	送礼	
+做十	tsɔ44 sεiʔ5	做寿	
+做晬	ts52 tsoy213	庆婴儿周岁	
+做三旦	tsɔ21 saŋ52 naŋ213	庆婴儿出生三天	
+做满月	tsɔ21 muaŋ21 ŋuokʔ5	庆婴儿出生一个月	
+生去*	sεiŋ44 ŋɔ213	死去	
+过后	kuo52 au242	去世	
+收☐	siu44 liʔ5	收殓	
+进葬	tsiŋ52 ʒɔuŋ213	出葬	
+头七	t‘au21 ʒeiʔ12	人死后第七天祭奠	
+断七	tɔuŋ21 ʒeiʔ12	人死后第四十九天祭奠	
+安三	aŋ44 naŋ4	葬后第三天上墓山祭奠	
+#p1308L	
+硩纸	ta52 ʒai33	扫墓后把冥钱压在坟头	
+地理先生	ti21 li21 siŋ44 naŋ44	看风水选墓址的人	
+道士	tɔ21 lai242	祭奠死者时念经的道士	
+金银箔	kiŋ44 ŋyŋ44 mɔʔ5	冥钱	
+元宝箔	ŋuoŋ21 mo31 βɔʔ5	冥钱	
+香线	hyoŋ52 niaŋ213	香	
+糙衫	ts‘ɔ44 laŋ44	麻衣	
+断杖	tɔuŋ21 nyoŋ242	哭丧棒	
+筅堂	ts‘εiŋ21 nouŋ52	过年大扫除	
+做年	tsɔ44 nieŋ52	过年	
+硩岁钱	ta21 ui44 ʒieŋ52	压岁钱	
+字运	tsi21 ouŋ242	运气	
+过运	kuo52 ouŋ242	度过厄运	
+公婆龛	kuŋ44 mɔ44 k‘aŋ44	祖宗牌位	
+行第	ɔuŋ21 nε242	辈份	
+#十七、农事	
+粪池	puŋ44 nie52	粪池，厕所	
+镰𬭴	lieŋ21 ŋεiʔ12	镰刀	
+播田	puo44 ʒεiŋ52	插秧	
+薅草	hau52 ʒau33	除草	
+割粙	kaʔ5 tiu242	割稻子	
+做田	tsɔ44 ts‘εiŋ52	种田	
+饲*牛	tsi44 ŋu52	看牛	%原书即为ts
+拾*猪屎	k‘aʔ12 ty52 lai33	拣猪粪	
+棕蓑	tsoyŋ44 nai44	蓑衣	
+扁担	pieŋ21 naŋ44	扁挑	
+沃料	uo52 leu242	浇肥	
+曝栗	p‘uo21 ʒuoʔ12	晒谷子	
+栽菜	tsai52 ts‘ai213	种菜	
+硩番薯	ta21 uaŋ44 ny52	种番薯	
+拾*柴	k‘aʔ12 ts‘ia52	砍柴火	
+剉树*	ts‘oy52 ts‘iu213	砍树	
+摔粙	soyʔ5 tiu242	打谷子	
+牛栏	ŋu21 laŋ52	牛栏	
+鸡宿	kie52 liu213	鸡窝	
+擦番薯米	ts‘iaʔ12 huaŋ52 ny21 mi33	刨番薯丝	
+#p1308R	
+犁	lε52	犁	
+耙	pa242	松土，碎土	
+粪☐	puŋ44 ts‘iaʔ5	粪勺	
+涂箕	t‘u44 i44	土箕	
+水车	tsy21 ʒia44	水车	
+水碓	tsy44 lai213	水力带动碾米、磨麦的机器	
+麦房	ma44 βuŋ52	磨麦作坊	
+#十八、工艺	
+做度绳	tsɔ21 tu44 liŋ52	盖房屋司付	
+做细桌	tsɔ21 sε52 lɔʔ12	制木器司付	
+衣裳司付	i21 lyoŋ21 na52 ou242	做衣服司付	
+做涂司付	tsɔ44 t‘u52 sa52 ou242	泥水匠	
+厨司付	tuo21 la52 ou242	厨师	
+做竹司付	tsɔ52 tøyʔ12 sa52 ou242	竹器匠	
+拍*铁	p‘a52 t‘ieʔ12	打铁	
+拍*石*	p‘a44 lyoʔ5	打石头	
+佮桶	kaʔ12 t‘oyŋ33	制桶	
+拍席	p‘a44 ts‘yoʔ5	编草席	
+鞝鞋	ts‘yoŋ44 ε52	把鞋帮、鞋底缝合成鞋	
+拾搭厝	k‘a21 laʔ5 ts‘uo213	修理房屋	
+起厝	k‘i44 ts‘uo213	盖房屋	
+弹棉	taŋ21 mieŋ52	弹棉花	
+箍桶	k‘u52 t‘oyŋ33	箍桶	
+铸鼎	tsuo52 tiaŋ33	铸锅	
+补鼎	puo24 tiaŋ33 补锅	
+针黹	tsεiŋ52 ʒi33 做针线活	
+㔏墙	lie21 ts‘yoŋ52	砌墙	
+砌墙	ts‘ieʔ12 ts‘yoŋ52	砌墙	
+㔏灶	lie44 tsau213	砌灶	
+拍金	p‘a44 kiŋ44	打金首饰	
+拍锡	p‘a52 seiʔ12	打锡制品	
+搭被	taʔ5 p‘ui242	缝被子	
+𬘜衣裳	t‘ieŋ21 i44 lyoŋ52	缝衣服	
+铰布	ka52 puo213	剪布	
+做饼	tsɔ52 piaŋ33	制饼	
+做竹	tsɔ52 tøyʔ12	制竹器	
+#1309L	
+破*篾	p‘uai44 mieʔ5	破竹子	
+#十九、商业	
+做生意	tsɔ21 lεiŋ52 ŋei213	做生意	
+老板	lɔ21 pεiŋ33	老板	
+伙计	huo44 ei213	伙计	
+师兄	sai44 iaŋ44	伙计，学徒	
+京果店	kiŋ21 ŋou44 lεiŋ213	食品干果店	
+苏纺店	su21 uoŋ44 nεiŋ213	百货店	
+酱园店	tsyoŋ44 ŋuoŋ21 nεiŋ213	酱制食品店	
+药材店	yo21 ʒai21 lεiŋ213	中药铺	
+退衣店	t‘ɔ21 i52 lεiŋ213	估衣店	
+馆店	kuaŋ44 nεiŋ213	菜馆	
+剃头店	t‘ie44 lau21 leiŋ213	理发店	
+客栈	k‘a52 ʒiaŋ242	旅社	
+茶店	ta21 lεiŋ214	茶馆	
+硋店	hai21 lεiŋ213	陶瓷器店	
+数簿桌	su21 βuo52 loʔ242	账房	
+柜头	kui44 lau52	柜台	
+番钱	huaŋ44 ʒieŋ52	银圆	
+银角	ŋyŋ21 ŋoyʔ12	小银圆	
+铜片	toyŋʔ21 p‘ieŋ213	小铜钱	
+工钱	koyŋ44 ʒieŋ52	工资	
+花采钱	hua21 ʒai21 ʒieŋ52	小费	
+趁钱	t‘iŋ44 ts‘ieŋ52	赚钱	%原书即为ts‘ieŋ52
+折本	sieʔ2 puoŋ33	亏本	
+讲价	kɔug44 ka213	讲价钱	
+起价	k‘i44 a213	涨价	
+填价	tεiŋ21 ka213	还价，讨价	
+倩工	ts‘iaŋ44 koyŋ44	雇工	
+籴米	tieʔ2 mi33	买米	
+粜粟	t‘iu52 ts‘uoʔ12	卖谷子	
+碎钱	ts‘oy44 ʒieŋ52	零钱	
+权钱	kuoŋ21 ʒieŋ52	整钱	
+欠数	k‘ieŋ52 nou213	欠账	
+赊数	sia52 lou213	赊账	
+倒街	tɔ21 kε44	商品过剩	
+拍倒店	p‘a21 lɔ44 lεiŋ213	店铺倒闭	
+#p1309R	
+成花	siaŋ44 ŋua44	成交	
+#二十、文教	
+学堂	hɔuʔ5 tɔuŋ52	学校	
+去*斋	k‘o44 tsε44	上学	
+上堂	syoŋ44 tɔuŋ52	上课	
+落堂	lɔ44 lɔuŋ52	下课	
+放*昼*	puŋ52 nau213 放午学	
+放暝	puŋ44 maŋ52	放晚学	
+背书	pui44 tsy44	背诵课文	
+水笔	tsy44 βeiʔ12	毛笔	
+洋笔	yoŋ21 meiʔ12	铅笔	
+几何车	ki44 o44 ʒia44	圆规	
+簿簿	puo21 puo242	练习本	
+做码	tsɔ52 ma33	考书做弊	
+鸭母卵	aʔ12 mo44 lɔuŋ242	考书得零分	
+头*名*	t‘au21 miaŋ52	第一名	
+尾名	mui21 miaŋ52	最后一名	
+关*昼*	kuoŋ44 nau213	中午不让学生放学	
+关*暝	kuoŋ44 maŋ52	下午不让学生放学	
+徛堂	k‘ie44 lɔuŋ52	站着上课	
+走*走*搦	tsau21 tsau21 nieʔ5	一种追抓跑者的游戏	
+屈屈密	k‘uʔ12 k‘uʔ12 mεiʔ5	一种寻找躲藏者的游戏	
+抛*粪斗	p‘a21 puŋ24 nau33	打滚翻	
+行*棋	kiaŋ21 ki52	下棋	
+放*纸鹞	puŋ21 tsai44 iu242	放风筝	
+舞龙	u21 lyŋ52	舞龙	
+拍*狮	p‘a44 lai44	舞狮子	
+泅水	siu21 ʒy33	游泳	
+做戏	tsɔ52 hie213	演戏	
+拍*打	p‘a52 la33	武打	
+伬唱	ts‘ie52 ʒyoŋ213	有伴奏的民间戏曲演唱	
+十番伬	sieʔ2 huaŋ44 ts‘ie44	民间音乐合奏	%原书即为sieʔ
+锣鼓板	lɔ21 u24 βεiŋ33	锣鼓钹等民间敲打乐器合奏	
+#p1310L	
+批	p‘ie44	信	
+批袋	p‘ie52 loy242	信封	
+批纸	p‘ie52 ʒai33	信笺	
+批肉	p‘ie44 nyʔ5	信封里的信	
+#二十一、动作	
+觑	ts‘øy213	看	
+望	mɔuŋ242	看	
+盻	hε33	怒视，白眼	
+相	syoŋ213	细看	
+☐	sau33	快看	
+☐	t‘iaʔ12	眨眼	
+䀫	k‘εiʔ12	闭眼	
+☐鼻	t‘au44 p‘ei213	擤鼻涕	
+☐	tsoyʔ12	吻	
+啜	ts‘uoʔ12	喝	
+𠲿	soʔ12	吮吸	
+㖹	puŋ52	吹	
+嗅	hiu213	闻	
+告	kœ213	叫	
+吼	hau33	招呼	
+告叫	kœ52 kiu213	大声喊叫	
+☐	k‘ε33	啃	
+☐	ka242	咬	
+嚗	pɔʔ12	骂	
+𠿝	ts‘œ52	呵叱	
+𠰭	mau33	闭唇	
+啡𪢌𪢌	p‘ui21 laŋ33	吐口水	%原书重字
+诅	tsou213	咒骂	
+诅喙	tsu52 ʒui213	赌咒	
+嚼	tsyoʔ5	咀嚼	
+𫼗	ma44	五指抓	
+撚	nɔuŋ52	两指揉	
+掇	tɔuʔ12	端	
+捽	tsɔuʔ22	扯	
+𢯾	mɔ213 敲打	
+𪮋	soyʔ12	摔打	
+捭	pi44	拉	
+#p1310R	
+𢪱	uʔ5	挥舞	
+𢱤	soyŋ33	推搡	
+捵	t‘iaŋ33	推开	
+拍*	paʔ12	打	
+捋	laʔ5	挽，摩	
+瘿	εiŋ44	放	
+羁	kie44	结，扣	
+抔	pouʔ12	双手捧	
+掼	kuaŋ242	提	
+㧾	houʔ12	用条物打	
+抾	k‘œ33	扔	
+掏	tɔ52	拿	
+拈	nieŋ44	拿	
+刡	mie44	削皮	
+摒	piaŋ213	倒掉	
+☐	lɔuŋ44	拳打	
+舂	tsyŋ44	拳打	
+櫼	tsieŋ44	打入，挤入	
+鼓(搅)	ku33	搅拌	
+抖	teu33	抽打	
+克	k‘εiʔ12	挤	
+硩	taʔ12	压	
+☐	sa52	乱拿	
+磕	k‘ouʔ5	碰，敲打	
+扛	kɔuŋ44	抬	
+杠	k‘ɔuŋ52	肩负	
+☐	kiaʔ5	单头挑	
+☐	t‘ie33	撕	
+☐	hieŋ213	扔	
+☐	liu44	扔	
+𫦉	leu33	剜	
+挢	kiu242	撬	
+𰫋	maŋ44	蒙上	%䊟
+泯	miŋ44	躲	
+囥	k‘ɔuŋ213	藏起	
+𦃆	lɔʔ12	套入	
+拭	ts‘eiʔ12	擦	
+抹	muaʔ12	涂上	
+#p1311L	
+𢶀	ts‘oy213	寻找	
+行*	kiaŋ52	走	
+走*	tsau33	逃	
+躃	pie213	跑	
+☐	k‘iu213	蹲	
+踅	suoʔ5	旋转	
+𢬳	t‘uʔ‘	刺入	%注意字形，原书为⿰扌秃(大陆)，天珩为⿰扌禿(台湾)
+☐	keiʔ12	刺入	
+炬	køy242	点火	
+☐	leiʔ12	跳跃	
+跞	louʔ2	散步	
+趖	ts‘ɔʔ5	急奔	
+跋	puaʔ5	跌	
+㰹	haŋ213	告知	
+伐	p‘uaʔ5	跨步	
+☐	iaʔ5	招手	
+#二十二、行为	
+佮	kaʔ12	合作，合秋	%原书即为合秋，为错字
+泎	tsiaʔ12	溅	
+拾*	k‘aʔ12	捡	
+拣	kεiŋ33	挑选	
+匀	yŋ52	分出	
+行*动*	kiaŋ21 noyŋ242	走动	
+对手	toy52 ʒiu33	帮忙	
+讲证	kɔuŋ44 tseiŋ213	谈天道地	
+讲☐☐	kɔuŋ44 hɔ21 lɔ213	说笑	
+讲畅	kɔuŋ44 tyoŋ213	说着玩	
+碎讲	ts‘oy44 ouŋ33	闲聊	
+蛮笑	maŋ21 ts‘iu213	开玩笑	
+解*闷	kε44 mouŋ242	寻开心，拿别人开玩笑	
+解*衰	kε21 soy44	捉弄人	
+刺*溪	ts‘ie44 k‘ε44	取笑，挖苦别人	
+加三码	k21 laŋ52 ma33	弄虚作假	
+保削	pɔ44 lyoʔ12	爱惜，保护	
+容纵	yŋ21 ʒoyŋ213	纵容	
+做愆	tsɔ44 k‘ieŋ44	做孽	
+#p1311R	
+做证	tsɔ52 ʒeiŋ213	设计使人上当	
+做胡	tsɔ44 hu52	马虎，骗人	
+做死胚	tsɔ52 li21 βui44	耍赖	
+做码	tsɔ52 ma33	作弊	
+做水	tsɔ52 ʒy33	食物中掺水加重	
+做呆	tsɔ44 ŋai52	破罐子破摔	
+做畅	tsɔ52 t‘yoŋ213	开玩笑	
+做家	tsɔ44 a44	节约	
+拍*𰺲	p‘a52 tɔuŋ242 丢掉	%逷盪
+拍*☐	p‘a52 loyʔ12	丢掉	
+拍*无*	p‘a52 mɔ52	丢失	
+拍*𰺲阵	p‘a21 lɔuŋ52 neiŋ242	迷路	
+拍*𰺲𰉣	p‘a21 lɔuŋ52 nuo242 迷路	
+爆*家	pouʔ2 ka44	暴露，败露	
+摊拍*	t‘aŋ52 maʔ12	排场	
+无*☐	mɔ44 ts‘yoʔ5	不理 睬	
+无*察	mo21 ts‘iaʔ12	不管	
+拨醒*	puaʔ12 ts‘iaŋ33	经点拨醒悟	
+变面*	pieŋ52 meiŋ213	翻脸	
+问*算	muoŋ52 nɔuŋ213	责问	
+拍*算	p‘a52 lɔuŋ213	打算	
+褪沏*沏*	t‘ɔuŋ21 na52 aʔ12	打赤膊	
+褪股马	t‘ɔuŋ21 ŋu24 ma33	光臀	
+学*	ɔʔ5	学习；背后传话	
+受治	siu21 lei42	被虐待	
+受怪	siu21 uai213	可怜	
+定动*	tiŋ21 noyŋ242	动弹	
+填谜	tεiŋ21 mei242	猜谜	
+拍*施	p‘a44 lie44	散落	
+听喙	t‘iaŋ52 ʒu213	听话	
+#二十三、心理	
+八	pεiʔ12	知道	
+八传	pεiʔ2 tyoŋ52	知道	
+会八	ε242 pεiʔ12	知道，懂得，认识	
+𫧃八	mε21 βεiʔ12	不知道，不懂，不认识	
+会捨	ε242 sia33	捨得	
+#p1312L	
+𫧃捨	mε21 lia33	捨不得	
+八症	pεiʔ12 tseiŋ213	识相，懂规矩	
+当𫧃殆	tɔuŋ21 mε52 tai213	受不了	
+气	k‘ei213	生气	
+恻	ts‘εiʔ12	悲切，生气	
+愁*	teu52	愁闷	
+欢喜	huaŋ52 ni33	喜欢	
+见觉	kieŋ52 ŋoyʔ12	感觉	
+退悔	t‘oy52 ui213	后悔	
+慌瘴	huoŋ44 tsyoŋ44	慌张	
+苦	k‘u33	发愁	
+蒻	yoʔ12	疲劳，泄气	
+会意	hui52 ei213	理解	
+𫧃会意	mε44 hui21 ei213	不理解	
+惊	kiaŋ44	怕	
+伓惊	iŋ44 ŋiaŋ44	不怕	
+透骹	t‘au44 k‘a44	舒服	
+念	nεiŋ242	想念	
+安心	aŋ44 niŋ44	放心	
+#二十四、性状	
+敆壳	kaʔ2 k‘oyʔ12	卡壳，难缠	
+平*直	paŋ44 niʔ5	整齐，诚实	
+平*搭	paŋ21 naʔ12	稳妥，周到	
+平*正*	paŋ21 ʒiaŋ213	质地不好	
+平*长*	paŋ21 nɔuŋ52	一样长	
+残	ts‘iaŋ52	心狠	
+𠏋	k‘œ52 傻，笨	
+𪴯	ŋɔuŋ242	傻	
+恶	ouʔ12	凶	
+臒	oʔ12	乖，听话	
+下邪	a44 lia52	耍赖，占便宜	
+缠绊	tieŋ21 muaŋ242	纠缠不清	
+好高瘌	hɔ21 kɔ52 laʔ12	自大，好表现	
+呆*乇	ŋai21 noʔ12	坏东西，坏蛋	
+好脚	hɔ44 yoʔ12	强手	
+死脚	si44 yoʔ	呆板，不灵活，不好用的脚色	%原书音调脱漏
+#p1312R	
+本事	puoŋ44 nøy242	有本事	
+墘角	kieŋ21 ŋoyʔ12	严密周到	
+四角	si52 koyʔ12	刻板，太认真	
+利落*	li44 lɔʔ5	勤快	
+定*着	tiaŋ44 tyoʔ5	老实，守规矩	
+定*虫	tiaŋ44 t‘oyŋ52	懒惰	
+细腻	sε52 nei242	小心，客气	
+好疼	hɔ44 liaŋ213	可爱，和蔼	
+𫦉骨	leu21 ɔuʔ12	尖刻	
+顽	ŋuaŋ52	顽皮	
+奸尻利	kaŋ21 iu44 lei242	吝啬	
+病*净洁	paŋ44 ʒiŋ21 ŋieʔ12	洁癖	
+𡟑	heu52	女人不正派	
+无*定*	mɔ21 liaŋ242	好动，不规矩	
+𡟑无*定*	heu21 mɔ21 liaŋ242	女人不正派	
+臭硬	ts‘au52 ŋεiŋ242	死硬	
+假师*	ka21 sa44	不懂装懂	
+了离	liu44 lie242	清楚，敏捷	
+纳闷	naʔ12 mɔuŋ242	傻样，不清楚	
+伓是胚	iŋ21 ni44 p‘ui44	不是好东西	
+王道	uog21 nɔ242	厚道，善良	
+慒	tsœ44	胡涂，马虎	
+橂(𠕆)	tεiŋ242	结实	
+冇	p‘aŋ213	不结实	
+滥	laŋ242	沾水	
+烂	laŋ242	煮熟、腐烂	
+瘼	mouʔ12	烂糊	
+燋	ta44	干	
+润*	nouŋ213	潮湿	
+𬲕	tsiaŋ33	味淡	
+糗	k‘iu213	硬	
+清	tsiŋ44	稀	
+𬇴	kyʔ5	浓	
+☐	kuai44	(菜)老	
+幼	iu213	不成熟	
+戋	tsieŋ33	不成熟	
+宿	søyʔ12	成熟	
+#p1313L	
+肥	pui52	肥，胖	
+𤸬	soy44	(人)瘦	
+矬	tsɔ242	矮胖	
+滇	tieŋ242	满	
+抽	t‘iu44	瘦长	
+生*	ts‘iaŋ44	生的	
+価	sε242	多	%⿰亻西
+稠	seu52	均匀，经常	
+俊	tsouŋ213	美	
+好疼	hɔ44 liaŋ213	可爱，漂亮	
+拉查	la44 ʒia44	肮脏	
+麻渣	ma21 tsia52	肮脏	
+沏*洁	t‘a52 εiʔ12	清洁	
+闹热	nau44 ieʔ5	热闹	
+惯势	kεiŋ52 sie213	习惯	
+盘数	puaŋ21 nou213	傻瓜，做傻事	
+无*块死	mɔ21 noy53 si33	质差	
+无*乇使*	mɔ21 nɔ52 lai33	无用	
+无*成*乇	mɔ21 liaŋ21 nɔʔ12	不成样子	
+无亥数	mo21 ai52 lou213	没本事，没希望	
+张死款	tyoŋ21 si24 k‘uaŋ33	装腔作势	
+臭酸	tsau44 sɔug44	闻出酸味	
+行*时	kiaŋ21 ni52	时髦	
+时式	si52 leiʔ12	时兴	
+无*样	mɔ21 yoŋ242	丢脸	
+玩愚	ŋuaŋ21 ŋøy242	丢脸	
+困*落*	εiŋ44 lɔʔ5	清闲	
+背	pui242	倒霉	
+赘*闷	t‘ui52 mouŋ242	啰嗦	
+跋摔	puaʔ2 soyʔ12	颠簸	
+白老鼠	pa21 lɔ24 ʒy33	分文俱无	
+罔去*	muŋ44 ŋɔ213	将就，随便	
+快*脆	k‘ε52 ʒui213	快捷	
+有*硬	u21 ŋεiŋ242	结实	
+有*使*	u21 lai33	经用	
+有*影*	u21 iaŋ33	有效	
+#p1313R	
+#二十五、指代	
+我*	ŋuai33	我	
+汝	ny33	你	
+伊	i44	他	
+我*各侬	ŋuai33 koʔ5 noyŋ52	我们	
+依家各侬	noyŋ44 ŋa44 kɔʔ5 noyŋ52	咱们	
+汝各侬	ny33 koʔ5 noyŋ52	你们	
+伊各侬	i44 koʔ5 noyŋ52	他们	
+大家侬	tai21 a44 noyŋ52	大家	
+自家	tsi44 a44	自己	
+别侬	pieʔ12 noyŋ52	别人	
+这只*	tsi21 ʒieʔ12	这个	
+☐只*	hi21 (hie21) ʒieʔ12	那个	
+者辰候	tsia44 lεiŋ21 ŋau242	这时候	
+☐辰候	hia44 lεiŋ21 ŋau242	那时候	
+☐☐	tsu44 uai213	这里	
+☐☐	hu44 uai213	那里	
+这𣆯	tsi21 ɔuŋ52	这么久	
+☐𣆯	hi21 (hie21) ɔuŋ52	那么久	
+蒋款	tsyoŋ24 ŋuaŋ33	这样	
+响款	hyoŋ24 uaŋ33	那样	
+☐侬	tœ44 loyŋ52	谁	
+什乇侬	sieʔ2 nɔ44 noyŋ52	什么人	
+乇侬	nɔ44 noyŋ52	什么人	
+乜候	mieʔ5 ŋau242	什么时候	
+乇辰候	nɔ44 lεiŋ21 ŋau242	什么时候	
+乇事*计	nɔ44 lai21 ie213	什么事情，干什么	
+☐☐	taŋ24 nœ33	哪里	
+☐蜀*只*	taŋ44 nyo21 ʒieʔ12	哪一个	
+☐蜀间	taŋ44 nyo44 aŋ44	哪一间	
+这☐讲	tsie44 nie44 kɔuŋ33	怎么讲，怎样讲	
+蒋讲	tsyoŋ24 ŋɔuŋ33	怎么	
+蒋其	tsyoŋ21 ŋi52	怎样，怎么样	
+偌夥	nyo21 uai242	多少	
+偌価	nyo21 lε242	多少	%⿰亻西
+偌夥価	nyo21 uai21 sε242	多少	%⿰亻西
+#p1314L	
+偌大	nyo21 tuai242	多大	
+偌夥大	nyo44 uai21 tuai242	多大	
+偌𣆯	nyo21 ɔuŋ52	多久	
+偌夥𣆯	nyɔ44 uai44 ɔuŋ52	多久	
+偌夥侬	nyɔ44 uai44 noyŋ52	多少人	
+几*只*侬	kui44 ʒieʔ12 noyŋ52	几个人	
+偌夥件	nyo44 uai21 yoŋ242	多少件	
+几*件	kui44 yoŋ242	几件	
+#二十六、数量	
+一	eiʔ12	一	
+蜀*	syoʔ5	一	
+二	nei242	二	
+两	laŋ242	两	
+三	saŋ44	三	
+四	sei213	四	
+五	ŋou242	五	
+六	loyʔ5	六	
+七	ts‘eiʔ12	七	
+八	pεiʔ12	八	
+九	kau33	九	
+十	sεiʔ5	十	
+二十	ni44 leiʔ5	二十	
+廿一	nieʔ5 eiʔ12	二十一	
+百	paʔ12	百	
+千	ts‘ieŋ44	千	
+万	uaŋ242	万	
+亿	ei213	亿	
+(蜀)*菩(花)	puo52	(一)朵(花)	
+(蜀)*只(侬)	tsieʔ12	(一)个(人)	
+(蜀)*头(猪)	t‘au52	(一)只(猪)	
+#p1314R	
+(蜀)*把(笔)	pa33	(一)枝(笔)	
+(蜀)*条(竹)	teu52 	(一)根(竹子)	
+(蜀)*蔸(树)	tau44	(一)株(树)	
+(蜀)*块(衣裳)	toy213	(一)件(衣服)	
+(蜀)*奇(鞋)	k‘ia44	(一)只(鞋)	
+(蜀)*喙(饭)	ts‘ui213	(一)口(饭)	
+(蜀)*架(手表)	ka213	(一)块(手表)	
+(蜀)*落(厝)	loʔ5	(一)座(房子)	
+(蜀)*厝(侬)	ts‘uo213	(一)家(人)	
+(蜀)*堵(房间) 	tu33	(一)间(房间)	
+(蜀)*箬(树箬)	nyoʔ5	(一)叶(树叶)	
+(蜀)*条(手巾)	teu52	(一)条(手帕)	
+(蜀)*块(杯)	toy213	(一)个(杯子)	
+(蜀)*骹(布袋)	k‘a44	(一)个(布袋)	
+(蜀)*只(花瓶)	tsieʔ12	(一)个(花瓶)	
+(蜀)*条(椅)	teu52	(一)把(椅子)	
+(蜀)*架(汽车)	ka213	(一)辆(汽车)	
+(蜀)*张(批)	t‘yoŋ44	(一)封(信)	
+(蜀)*只*(批袋)	tsieʔ12	(一)个(信封)	
+(蜀)*☐(屎)	pouʔ12	(一)泡(屎)	
+(踢蜀*)骹	k‘a44	(踢一)脚	
+(𪮋蜀*)掌	tsyoŋ33	(摔一)巴掌	
+(拍*蜀*)棍	kɔuŋ213	(打一)棍子	
+(拍*蜀*)槌	t‘ui52	(打一)拳头	
+(睏蜀*)醒	ts‘iaŋ33	(睡一)觉	
+(挟蜀*)箸	tøy242	(挟一)筷子	
+(行*蜀)☐	lau52	(走一)趟	
+(啜蜀)喙	ts‘ui213	(喝一)口	
+(来)蜀*𣆯	syo44 ɔuŋ52	(来)一会儿
