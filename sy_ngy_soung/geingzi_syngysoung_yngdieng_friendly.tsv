@@ -126,7 +126,7 @@ AB0	𰉣	路	tuo242	duo242	路		地理	1299	R
 30EA	年把两*	年把兩	nieŋ21 ma44 laŋ242	nieng21 ma55 lang242	一年多至两年		时间	1300	L	
 30F8	月把日	月把日	ŋuoʔ2 pa21 niʔ5	nguok2 ba21 nik5	一个多月		时间	1300	L	
 	十除工	十除工	sεiʔ5 ty44 oyŋ44	seik5 dy55 eoyng55	十来天		时间	1300	L	
-51BE	仂久*	仂久	{liʔ2 ku33,liʔ12 ku33}	lik24 gu33	一会儿		时间	1300	L	
+51BE	仂久*	仂久	liʔ2 ku33	lik24 gu33	一会儿		时间	1300	L	
 717	仱	仱	taŋ44	dang55	现在		时间	1300	L	
 3180	旧底	舊底	ku21 lε33	gu21 le33	以前		时间	1300	L	
 	往南帮	往兩幫	uoŋ21 naŋ44 mɔuŋ44	uong21 nang55 moung55	以前		时间	1300	L	
@@ -210,7 +210,7 @@ ACB	帐	帳	tyoŋ213	dyong213	蚊帐		器具	1301	L
 3789	笊篱	笊籬	tsia44 lie52	zia55 lie53	在水中捞物的用具		器具	1301	L	
 3783	水管*	水管	tsy24 uoŋ33	zy24 uong33	舀水竹简		器具	1301	L	
 	饭□	飯□	puɔŋ21 ʒeiŋ213	buong21 njeing213	蒸饭具		器具	1301	L	
-	拔桶	拔桶	{puaʔ2 t‘oyŋ33,puaʔ12 t‘oyŋ33}	buak24 teoyng33	吊水桶		器具	1301	L	
+	拔桶	拔桶	puaʔ2 t‘oyŋ33	buak24 teoyng33	吊水桶		器具	1301	L	
 3744	碗缸	碗缸	uaŋ21 kɔuŋ44	uang21 goung55	大碗		器具	1301	L	
 3745	碗囝	碗囝	uaŋ24 ŋiaŋ33	uang24 ngiang33	小碗		器具	1301	L	
 3762	酒盏	酒盞	tsiu24 ʒiaŋ33	ziu24 jiang33	酒杯		器具	1301	L	
@@ -291,7 +291,7 @@ B8C	铰刀	鉸刀	ka44 lɔ44	ga55 lo55	剪刀		器具	1301	R
 34F0	虼蚤	虼蚤	ka24 ʒau33	ga24 jau33	跳蚤		动物	1302	L	
 34EB	虱母*	蝨母	seiʔ mo33	seik mo33	虱子		动物	1302	L	
 34D1	猴蚓	蚯蚓	kau21 ɔuŋ33	gau21 oung33	蚯蚓		动物	1302	L	
-	目虱	目虱	{meiʔ2 sεiʔ12,meiʔ21 sεiʔ12}	meik21 seik24	臭虫		动物	1302	R	
+	目虱	目虱	meiʔ2 sεiʔ12	meik21 seik24	臭虫		动物	1302	R	
 	⿰粜蚤母	𧏫母	saʔ12 mo33	sak24 mo33	蟑螂		动物	1302	R	34F9
 34D7	仁蚣	紅蚣	iŋ44 ŋøyŋ44	ing55 ngeoyng55	蜈蚣		动物	1302	R	
 	黄蚁	黃蟻	uong21 ŋie242	uong21 ngie242	蚂蚁		动物	1302	R	34CD
@@ -332,7 +332,7 @@ F7F	龟	龜	kui44	gui55	龟		动物	1302	R
 96A	籼	粙	tiu242	diu242	稻子		植物	1303	L	
 67F	粟*	粟	ts‘uoʔ12	cuoh24	谷子		植物	1303	L	
 211B	稗	稗	p‘ε213	pe213	稗子		植物	1303	L	
-	秫粟*	秫粟	{suʔ2 ts‘uoʔ12,suʔ21 ts‘uoʔ12}	suk21 cuok24	糯谷		植物	1303	L	
+	秫粟*	秫粟	suʔ2 ts‘uoʔ12	suk21 cuok24	糯谷		植物	1303	L	
 	𬖞米	𥻵米	si21 mi33	si21 mi33	粳米		植物	1303	L	
 32AB	番薯	番薯	huaŋ44 ny52	huang55 ny53	红薯		植物	1303	L	
 32B4	番囝薯	番囝薯	huaŋ21 ŋiaŋ21 ny52	huang21 ngiang21 ny53	马铃薯		植物	1303	L	
@@ -456,70 +456,70 @@ DB7	囝	囝	kiaŋ33	giang33	儿子		人品	1304	R
 4F16	郎爸囝	郎罷囝	nɔuŋ21 ma52 iaŋ33	noung21 ma53 iang33	父子		人品	1304	R	
 4F13	娘奶囝	娘奶囝	nyoŋ21 nε24 iaŋ33	nyong21 ne24 iang33	母子		人品	1304	R	
 3AAF	老*公妈	老公媽	la21 uŋ52 ma33	la21 ung53 ma33	夫妻		人品	1304	R	
-4403	食*早*	食早	{sieʔ2 tsia33,sieʔ21 tsia33}	sieh21 zia33	吃早饭		饮食	1304	R	
-4406	食*昼*	食晝	{sieʔ2 tau213,sieʔ21 tau213}	sieh21 dau213	吃午饭		饮食	1304	R	
-4404	食*暝	食暝	{sieʔ2 maŋ52,sieʔ21 maŋ52}	sieh21 mang53	吃晚饭		饮食	1304	R	
+4403	食*早*	食早	sieʔ2 tsia33	sieh21 zia33	吃早饭		饮食	1304	R	
+4406	食*昼*	食晝	sieʔ2 tau213	sieh21 dau213	吃午饭		饮食	1304	R	
+4404	食*暝	食暝	sieʔ2 maŋ52	sieh21 mang53	吃晚饭		饮食	1304	R	
 	糜粥	糜粥	mui21 ʒøyʔ12	mui21 jeoyk24	稀饭		饮食	1304	R	
 	燋饭*	燋飯	ta52 βuoŋ242	da53 wuong242	干饭		饮食	1304	R	
 	漉饭*	漉飯	lɔyʔ2 puoŋ242	loyk2 buong242	捞饭		饮食	1304	R	
-	凊饭*	凊飯	ts‘iŋ52 muoŋ242	cing53 muong242	冷饭		饮食	1304	R	
-	𣗬饭*	𣗬飯	k‘iu52 βuoŋ242	kiu53 wuong242	硬饭		饮食	1304	R	
-	碎食*	碎食	ts‘oy44 lieʔ5	coy55 liek5	零食		饮食	1304	R	
-	熻饭*	熻飯	hiʔ5 puog242	hik5 buog242	焖饭		饮食	1304	R	
+3F69	凊饭*	凊飯	ts‘iŋ52 muoŋ242	cing53 muong242	冷饭		饮食	1304	R	
+179B	𣗬饭*	糗飯	k‘iu52 βuoŋ242	kiu53 wuong242	硬饭		饮食	1304	R	
+3F54	碎食*	碎食	ts‘oy44 lieʔ5	coy55 liek5	零食		饮食	1304	R	
+43C7	熻饭*	熻飯	hiʔ5 puog242	hik5 buog242	焖饭		饮食	1304	R	
 	焖饭	燜飯	muŋ21 puoŋ242	mung21 buong242	焖饭		饮食	1304	R	
 	乇配	乇配	nɔ52 ui213	no53 ui213	下饭菜		饮食	1304	R	
-	白𬖞	白𬖞	pa44 li52	ba55 li53	白粿		饮食	1304	R	
-	糖粿	糖粿	t‘ɔuŋ21 ŋui33	toung21 ngui33	甜糕		饮食	1305	L	
-	扁肉	扁肉	pieŋ21 nyʔ5	bieng21 nyk5	馄饨		饮食	1305	L	
+	白𬖞	白𥻵	pa44 li52	ba55 li53	白粿		饮食	1304	R	
+3FCE	糖粿	糖粿	t‘ɔuŋ21 ŋui33	toung21 ngui33	甜糕		饮食	1305	L	
+3FC1	扁肉	扁肉	pieŋ21 nyʔ5	bieng21 nyk5	馄饨		饮食	1305	L	
 	蹄库	蹄庫	tε21 k‘ou213	de21 kou213	猪蹄膀上的肉		饮食	1305	L	
-	下水	下水	a21 ʒy33	a21 jy33	鸡鸭内𦛊		饮食	1305	L	
+4015	下水	下水	a21 ʒy33	a21 jy33	鸡鸭内𦛊		饮食	1305	L	
 	切面	切面	ts‘ieʔ5 mieŋ242	ciek5 mieng242	切面		饮食	1305	L	
-	春饼	春餅	ts‘uŋ52 miaŋ33	cung53 miang33	春卷		饮食	1305	L	
+3FD7	春饼	春餅	ts‘uŋ52 miaŋ33	cung53 miang33	春卷		饮食	1305	L	
 	燕皮	燕皮	ieŋ44 p‘ui52	ieng55 pui53	瘦肉制的馄饨皮		饮食	1305	L	
 	肥肉	肥肉	pui44 nyʔ5	bui55 nyk5	肥肉		饮食	1305	L	
-	㾪肉	㾪肉	sεiŋ21 nyʔ5	seing21 nyk5	瘦肉		饮食	1305	L	
-	□老	□老	muaŋ44 lɔ33	muang55 lo33	猪舌		饮食	1305	L	
+3FDE	㾪肉	㾪肉	sεiŋ21 nyʔ5	seing21 nyk5	瘦肉		饮食	1305	L	
+	□老	□老	muaŋ44 lɔ33	muang55 lo33	猪舌		饮食	1305	L	3FF4
 	猪骹	豬骹	ty44 k‘a44	dy55 ka55	猪脚		饮食	1305	L	
 	猪骹爪	豬骹爪	ty21 a52 ʒau33	dy21 a53 jau33	猪脚的前半部		饮食	1305	L	
-	骹柄	骹柄	k‘a52 βaŋ213	ka53 wang213	猪脚的后半部		饮食	1305	L	
-	肉绒	肉絨	nyʔ5 yŋ52	nyk5 yng53	肉松		饮食	1305	L	
-	鱼丸	魚丸	ŋy21 uoŋ52	ngy21 uong53	鱼丸		饮食	1305	L	
+3FE8	骹柄	骹柄	k‘a52 βaŋ213	ka53 wang213	猪脚的后半部		饮食	1305	L	
+3FE7	肉绒	肉絨	nyʔ5 yŋ52	nyk5 yng53	肉松		饮食	1305	L	
+354D	鱼丸	魚丸	ŋy21 uoŋ52	ngy21 uong53	鱼丸		饮食	1305	L	
 	鱼面	魚面	ŋy21 mieŋ242	ngy21 mieng242	鱼面		饮食	1305	L	
-	线面	線面	siaŋ52 mieŋ242	siang53 mieng242	线面		饮食	1305	L	
-	豆腐	豆腐	ta21 ou242	da21 ou242	豆腐		饮食	1305	L	
-	皮卵	皮卵	p‘ui21 lɔuŋ242	pui21 loung242	松花蛋		饮食	1305	L	
-	腹*里*	腹裏	puʔ12 tie33	buk24 die33	动物内𦛊		饮食	1305	L	
+	线面	線面	siaŋ52 mieŋ242	siang53 mieng242	线面		饮食	1305	L	3F99
+4048	豆腐	豆腐	ta21 ou242	da21 ou242	豆腐		饮食	1305	L	
+4022	皮卵	皮卵	p‘ui21 lɔuŋ242	pui21 loung242	松花蛋		饮食	1305	L	
+4014	腹*里*	腹裏	puʔ12 tie33	buk24 die33	动物内𦛊		饮食	1305	L	
 	煠卵*	煠卵	saʔ2 lɔuŋ242	sak2 loung242	清水煮蛋		饮食	1305	L	
-	豉油	豉油	sie44 iu52	sie55 iu53	酱油		饮食	1305	L	
+4089	豉油	豉油	sie44 iu52	sie55 iu53	酱油		饮食	1305	L	
 	文饼	文餅	uŋ21 miaŋ33	ung21 miang33	油炸的面粉条		饮食	1305	L	
-	卵包	卵包	lɔuŋ44 mau44	loung55 mau55	荷包蛋		饮食	1305	L	
-	冰箸	冰箸	pin52 tøy242	bin53 deoy242	冰棒		饮食	1305	L	
-	漀茶	漀茶	k‘iŋ21 ta52	king21 da53	倒茶		饮食	1305	L	
-	食*茶	食茶	sieʔ2 ta52	siek2 da53	喝茶		饮食	1305	L	
-	食*薰	食薰	sieʔ5 hɔuŋ44	siek5 houng55	抽烟		饮食	1305	L	
-	食*酒	食酒	sieʔ2 tsiu33	siek2 ziu33	喝酒		饮食	1305	L	
-	食*饭*	食飯	sieʔ puoŋ242	siek buong242	吃饭		饮食	1305	L	
-	豆干	豆幹	tau44 uaŋ44	dau55 uang55	硬些的豆腐		饮食	1305	L	
-	香干	香幹	hyoŋ44 ŋaŋ44	hyong55 ngang55	𰛮豆腐干		饮食	1305	L	
-	爬起	爬起	pa52 k‘i33	ba53 ki33	起来		起居	1305	L	
-	洗面	洗面	sε44 meiŋ213	se55 meing213	洗脸		起居	1305	L	
-	洗汤	洗湯	sε21 lɔuŋ44	se21 loung55	洗澡		起居	1305	L	
-	洗牙齿	洗牙齒	sε44 ŋa21 i33	se55 nga21 i33	刷牙		起居	1305	R	
-	澉身	澉身	kaŋ21 niŋ44	gang21 ning55	擦身		起居	1305	R	
-	泡茶	泡茶	p‘au44 ta52	pau55 da53	沏茶		起居	1305	R	
+401B	卵包	卵包	lɔuŋ44 mau44	loung55 mau55	荷包蛋		饮食	1305	L	
+2F48	冰箸	冰箸	pin52 tøy242	bin53 deoy242	冰棒		饮食	1305	L	
+4675	漀茶	傾茶	k‘iŋ21 ta52	king21 da53	倒茶		饮食	1305	L	
+441A	食*茶	食茶	sieʔ2 ta52	sieh21 da53	喝茶		饮食	1305	L	
+4420	食*薰	食熏	sieʔ5 hɔuŋ44	sieh5 houng55	抽烟		饮食	1305	L	
+441B	食*酒	食酒	sieʔ2 tsiu33	siek2 ziu33	喝酒		饮食	1305	L	
+43F3	食*饭*	食飯	sieʔ puoŋ242	siek buong242	吃饭		饮食	1305	L	
+	豆干	豆乾	tau44 uaŋ44	dau55 uang55	硬些的豆腐		饮食	1305	L	
+4052	香干	香乾	hyoŋ44 ŋaŋ44	hyong55 ngang55	𰛮豆腐干		饮食	1305	L	
+4B69	爬起	爬起	pa52 k‘i33	ba53 ki33	起来		起居	1305	L	
+2310	洗面	洗面	sε44 meiŋ213	se55 meing213	洗脸		起居	1305	L	
+4454	洗汤	洗湯	sε21 lɔuŋ44	se21 loung55	洗澡		起居	1305	L	
+4442	洗牙齿	洗牙齒	sε44 ŋa21 i33	se55 nga21 i33	刷牙		起居	1305	R	
+4456	澉身	挸身	kaŋ21 niŋ44	gang21 ning55	擦身		起居	1305	R	
+40E3	泡茶	泡茶	p‘au44 ta52	pau55 da53	沏茶		起居	1305	R	
 	颂衣裳	頌衣裳	sy21 i44 lyoŋ52	sy21 i55 lyong53	穿衣服		起居	1305	R	
-	褪衣裳	褪衣裳	t‘ɔug21 i44 lyoŋ52	toug21 i55 lyong53	脱衣服		起居	1305	R	
-	行*𰉣	行路	kiaŋ21 tuo242	giang21 duo242	走路		起居	1305	R	
-	客蹓	客佻	k‘a44 liu52	ka55 liu53	玩耍		起居	1305	R	
-	去*街	去街	k‘ɔ44 kε44	ko55 ge55	上街		起居	1305	R	
-	去*斋	去齋	k‘ɔ44 ʒe44	ko55 je55	上学		起居	1305	R	
-	睶	睶	ts‘uŋ33	cung33	打瞌睡		起居	1305	R	
-	转厝	轉厝	tuoŋ44 ts‘uo213	duong55 cuo213	回家		起居	1305	R	
-	做侬客*	做儂客	tsɔ44 noyŋ21 ŋaʔ12	zo55 neoyng21 ngak24	做客		起居	1305	R	
-	剃头	剃頭	t‘ie44 lau52	tie55 lau53	理发		起居	1305	R	
-	睏昼	睏晝	k‘ɔuŋ52 nau213	koung53 nau213	午睡		起居	1305	R	
-	狂眠	狂眠	kuoŋ21 miŋ52	guong21 ming53	讲梦话		起居	1305	R	
-	腹*老空*	腹老空	puʔ12 lɔ52 k‘oyŋ44	buk24 lo53 keoyng55	肚子饿		起居	1305	R	
+4386	褪衣裳	褪衣裳	t‘ɔug21 i44 lyoŋ52	toug21 i55 lyong53	脱衣服		起居	1305	R	
+303E	行*𰉣	行路	kiaŋ21 tuo242	giang21 duo242	走路		起居	1305	R	
+44EB	客蹓	客佻	k‘a44 liu52	ka55 liu53	玩耍		起居	1305	R	
+44DC	去*街	去街	k‘ɔ44 kε44	ko55 ge55	上街		起居	1305	R	
+497B	去*斋	去齋	k‘ɔ44 ʒe44	ko55 je55	上学		起居	1305	R	
+64F	睶	睶	ts‘uŋ33	cung33	打瞌睡		起居	1305	R	
+44D5	转厝	轉厝	tuoŋ44 ts‘uo213	duong55 cuo213	回家		起居	1305	R	
+464F	做侬客*	做儂客	tsɔ44 noyŋ21 ŋaʔ12	zo55 neoyng21 ngak24	做客		起居	1305	R	
+47F7	剃头	剃頭	t‘ie44 lau52	tie55 lau53	理发		起居	1305	R	
+4495	睏昼	睏晝	k‘ɔuŋ52 nau213	koung53 nau213	午睡		起居	1305	R	
+44AD	狂眠	狂眠	kuoŋ21 miŋ52	guong21 ming53	讲梦话		起居	1305	R	
+	腹*老空*	腹老空	puʔ12 lɔ52 k‘oyŋ44	buk24 lo53 keoyng55	肚子饿		起居	1305	R	4422
 	扫厝	掃厝	sau52 ʒuo213	sau53 juo213	扫地		起居	1305	R	
 	好睏	好睏	hɔ44 ɔuŋ213	ho55 oung213	好睡		起居	1305	R	
 	睏𫧃着	睏儥著	k‘ɔuŋ213 mε44 lyoʔ5	koung213 me55 lyok5	睡不着		起居	1305	R	
