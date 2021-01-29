@@ -430,7 +430,7 @@ F7F	龟	龜	kui44	gui55	龟		动物	1302	R
 3A9C	依妗	依妗	i52 keiŋ242	i53 geing242	舅母		人品	1304	L	
 	姨姨	姨姨	i21 i52	i21 i53	姨母		人品	1304	L	
 3AA4	姨丈	姨丈	i21 lyoŋ242	i21 lyong242	姨丈		人品	1304	L	
-	姑妈	姑媽	ku44 ma44	gu55 ma55	姑母		人品	1304	L	
+3A9D	姑妈	姑嬤	ku44 ma44	gu55 ma55	姑母		人品	1304	L	
 3A9E	姑丈	姑丈	ku52 lyoŋ242	gu53 lyong242	姑丈		人品	1304	L	
 3AE8	依姐	依姐	i52 tsia33	i53 zia33	姐姐		人品	1304	L	
 3AEA	姐夫	姐夫	tsia21 u44	zia21 u55	姐夫		人品	1304	L	
@@ -439,7 +439,7 @@ F7F	龟	龜	kui44	gui55	龟		动物	1302	R
 3ADA	依哥	依哥	i44 kɔ44	i55 go55	哥哥		人品	1304	R	
 3ADF	依嫂	依嫂	i52 sɔ33	i53 so33	嫂子		人品	1304	R	
 3AE2	依弟	依弟	i52 tie242	i53 die242	弟弟		人品	1304	R	
-3AE5	{弟*人*,弟*人}	弟人	tie44 iŋ52	die55 ing53	弟媳		人品	1304	R	
+3AE5	弟人**	弟人	tie44 iŋ52	die55 ing53	弟媳		人品	1304	R	
 	爹官	爹官	tε44 uaŋ44	de55 uang55	公公		人品	1304	R	
 	爹家	爹家	tε44 a44	de55 a55	婆婆		人品	1304	R	
 DB7	囝	囝	kiaŋ33	giang33	儿子		人品	1304	R	
@@ -524,102 +524,102 @@ DB7	囝	囝	kiaŋ33	giang33	儿子		人品	1304	R
 	好睏	好睏	hɔ44 ɔuŋ213	ho55 oung213	好睡		起居	1305	R	
 	睏𫧃着	睏儥著	k‘ɔuŋ213 mε44 lyoʔ5	koung213 me55 lyok5	睡不着		起居	1305	R	
 	毛眠睏	無眠睏	mɔ21 miŋ21 ŋɔuŋ213	mo21 ming21 ngoung213	睡不着		起居	1305	R	
-	清醒*	清醒	ts‘iŋ52 ʒiaŋ33	cing53 njiang33	睡醒		起居	1305	R	
+44AE	清醒*	清醒	ts‘iŋ52 ʒiaŋ33	cing53 njiang33	睡醒		起居	1305	R	
 	门头	門頭	muoŋ21 nau52	muong21 nau53	送礼		起居	1305	R	
-	熬暝	熬暝	ŋɔ21 ma52	ngo21 ma53	熬夜		起居	1305	R	
-	拉尿	拉尿	na21 niu242	na21 niu242	拉尿		起居	1305	R	
-	拉屎	拉屎	na21 sai33	na21 sai33	拉屎		起居	1305	R	
-	摒粪倒	摒糞倒	piaŋ21 puŋ52 nɔ213	biang21 bung53 no213	倒垃圾		起居	1305	R	
-	衣裳	衣裳	i44 lyoŋ52	i55 lyong53	衣服，上衣		服饰	1305	R	
+5840	熬暝	熬暝	ŋɔ21 ma52	ngo21 ma53	熬夜		起居	1305	R	
+445D	拉尿	拉尿	na21 niu242	na21 niu242	拉尿		起居	1305	R	
+4461	拉屎	拉屎	na21 sai33	na21 sai33	拉屎		起居	1305	R	
+	摒粪倒	摒糞掃	piaŋ21 puŋ52 nɔ213	biang21 bung53 no213	倒垃圾		起居	1305	R	
+3E3D	衣裳	衣裳	i44 lyoŋ52	i55 lyong53	衣服，上衣		服饰	1305	R	
 	衣裳衫颂	衣裳衫頌	i21 lyoŋ21 naŋ52 nøyŋ242	i21 lyong21 nang53 neoyng242	衣衫		服饰	1305	R	
-	裤	褲	k‘ou213	kou213	裤子		服饰	1305	R	
-	裤郎囝	褲郎囝	k‘u52 lɔuŋ21 ŋiaŋ33	ku53 loung21 ngiang33	短裤		服饰	1305	R	
-	半长裤	半長褲	puaŋ44 nɔuŋ21 ŋou213	buang55 noung21 ngou213	短裤		服饰	1305	R	
-	放*斗裤	放斗褲	puŋ21 nau44 ou213	bung21 nau55 ou213	开裆裤		服饰	1305	R	
+17C6	裤	褲	k‘ou213	kou213	裤子		服饰	1305	R	
+	裤郎囝	褲郎囝	k‘u52 lɔuŋ21 ŋiaŋ33	ku53 loung21 ngiang33	短裤		服饰	1305	R	3E8D
+3E8E	半长裤	半長褲	puaŋ44 nɔuŋ21 ŋou213	buang55 noung21 ngou213	短裤		服饰	1305	R	
+	放*斗裤	放斗褲	puŋ21 nau44 ou213	bung21 nau55 ou213	开裆裤		服饰	1305	R	3E96
 	颂睏裤	頌睏褲	syŋ21 ŋouŋ52 ŋou213	syng21 ngoung53 ngou213	睡裤		服饰	1305	R	
-	裙	裙	kuŋ52	gung53	裙子		服饰	1305	R	
+F11	裙	裙	kuŋ52	gung53	裙子		服饰	1305	R	
 	背心	背心	pui44 liŋ44	bui55 ling55	背心		服饰	1305	R	
-	汗𧜛	汗𧜛	kaŋ21 lɔuŋ33	gang21 loung33	汗衣		服饰	1306	L	
-	羊毛𧜛	羊毛𧜛	yoŋ21 mɔ21 lɔuŋ33	yong21 mo21 loung33	羊毛衣		服饰	1306	L	
-	背褡	背褡	pui52 laʔ12	bui53 lak24	背心		服饰	1306	L	
-	羊毛䘥	羊毛䘥	yoŋ21 mɔ21 kaʔ12	yong21 mo21 gak24	羊毛背心		服饰	1306	L	
-	长衫	長衫	tɔuŋ44 naŋ44	doung55 nang55	长袍		服饰	1306	L	
-	鲜衣	鮮衣	ts‘ieŋ44 i44	cieng55 i55	旗袍		服饰	1306	L	
-	大衣	大衣	tuai44 i44	duai55 i55	大衣		服饰	1306	L	
-	裤头带	褲頭帶	k‘u44 lau21 lai213	ku55 lau21 lai213	裤带		服饰	1306	L	
+3E6B	汗𧜛	汗𧜛	kaŋ21 lɔuŋ33	gang21 loung33	汗衣		服饰	1306	L	
+3E70	羊毛𧜛	羊毛𧜛	yoŋ21 mɔ21 lɔuŋ33	yong21 mo21 loung33	羊毛衣		服饰	1306	L	
+3E6C	背褡	背褡	pui52 laʔ12	bui53 lak24	背心		服饰	1306	L	
+3E6F	羊毛䘥	羊毛䘥	yoŋ21 mɔ21 kaʔ12	yong21 mo21 gak24	羊毛背心		服饰	1306	L	
+3E46	长衫	長衫	tɔuŋ44 naŋ44	doung55 nang55	长袍		服饰	1306	L	
+3E4B	鲜衣	鮮衣	ts‘ieŋ44 i44	cieng55 i55	旗袍		服饰	1306	L	3E49
+3E56	大衣	大衣	tuai44 i44	duai55 i55	大衣		服饰	1306	L	
+3E9D	裤头带	褲頭帶	k‘u44 lau21 lai213	ku55 lau21 lai213	裤带		服饰	1306	L	
 	颂睏衫	頌睏衫	syŋ21 ŋɔuŋ44 naŋ44	syng21 ngoung55 nang55	睡腰衣		服饰	1306	L	
-	鞋靸	鞋靸	ε21 liaʔ12	e21 liak24	拖鞋		服饰	1306	L	
-	鞋屐	鞋屐	ε44 k‘iaʔ5	e55 kiak5	木屐		服饰	1306	L	
-	鞋□屐	鞋□屐	ε21 lɔ44 k‘iaʔ5	e21 lo55 kiak5	木屐		服饰	1306	L	
+3EAC	鞋靸	鞋靸	ε21 liaʔ12	e21 liak24	拖鞋		服饰	1306	L	
+	鞋屐	鞋屐	ε44 k‘iaʔ5	e55 kiak5	木屐		服饰	1306	L	3EAD
+3EBB	鞋□屐	鞋老屐	ε21 lɔ44 k‘iaʔ5	e21 lo55 kiak5	木屐		服饰	1306	L	3EAD
 	□□帽	□□帽	ŋiaŋ21 ŋiaŋ52 mɔ242	ngiang21 ngiang53 mo242	有舌帽		服饰	1306	L	
-	碗帽	碗帽	uaŋ44 mɔ242	uang55 mo242	瓜皮帽		服饰	1306	L	
+3ED9	碗帽	碗帽	uaŋ44 mɔ242	uang55 mo242	瓜皮帽		服饰	1306	L	
 	草履靸	草履靸	ts‘au21 i44 liaʔ12	cau21 i55 liak24	草编拖鞋		服饰	1306	L	
-	围身裙	圍身裙	ui21 liŋ44 ŋuŋ52	ui21 ling55 ngung53	围裙		服饰	1306	L	
-	领巾	領巾	liaŋ21 ŋyŋ44	liang21 ngyng55	围巾		服饰	1306	L	
-	鞋套	鞋套	ε21 t‘ɔ213	e21 to213	雨鞋		服饰	1306	L	
+3F07	围身裙	圍身裙	ui21 liŋ44 ŋuŋ52	ui21 ling55 ngung53	围裙		服饰	1306	L	
+3F1C	领巾	領巾	liaŋ21 ŋyŋ44	liang21 ngyng55	围巾		服饰	1306	L	
+3EBA	鞋套	鞋套	ε21 t‘ɔ213	e21 to213	雨鞋		服饰	1306	L	
 	雨靴	雨靴	y21 uo44	y21 uo55	长统雨鞋		服饰	1306	L	
 	尿燥	尿燥	niu21 lɔ213	niu21 lo213	尿布		服饰	1306	L	
-	𪢌遮	{㘓,灠}遮	laŋ21 ʒia44	lang21 njia55	围嘴儿		服饰	1306	L	
-	袜	襪	uaʔ5	uak5	袜子		服饰	1306	L	
-	耳坠	耳墜	ŋi21 lui242	ngi21 lui242	耳坠子		服饰	1306	L	
-	手镯	手鐲	ts‘iu21 lɔʔ5	ciu21 lok5	手镯子		服饰	1306	L	
-	手指	手指	ts‘iu24 ʒi33	ciu24 ji33	戒指		服饰	1306	L	
-	手𦃆	手𦃆	tsiu44 lɔʔ12	ziu55 lok24	手套		服饰	1306	L	
-	手巾	手巾	ts‘iu21 yŋ44	ciu21 yng55	手帕		服饰	1306	L	
-	袄轮	襖輪	ɔ21 luŋ52	o21 lung53	套衫		服饰	1306	L	
-	手䘼	手䘼	ts‘iu24 uoŋ33	ciu24 uong33	袖子		服饰	1306	L	
-	脰领	脰領	tau21 liaŋ33	dau21 liang33	领子		服饰	1306	L	
-	裤斗	褲斗	k‘u52 lau33	ku53 lau33	裤裆		服饰	1306	L	
+3F09	𪢌遮	灠遮	laŋ21 ʒia44	lang21 njia55	围嘴儿		服饰	1306	L	
+28F3	袜	襪	uaʔ5	uak5	袜子		服饰	1306	L	
+3F00	耳坠	耳墜	ŋi21 lui242	ngi21 lui242	耳坠子		服饰	1306	L	
+3EED	手镯	手鐲	ts‘iu21 lɔʔ5	ciu21 loh5	手镯子		服饰	1306	L	
+3EF1	手指	手指	ts‘iu24 ʒi33	ciu24 ji33	戒指		服饰	1306	L	
+3F1F	手𦃆	手絡	ts‘iu44 lɔʔ12	ciu55 looh24	手套		服饰	1306	L	
+3F19	手巾	手巾	ts‘iu21 yŋ44	ciu21 yng55	手帕		服饰	1306	L	3F1A
+3E4E	袄轮	襖輪	ɔ21 luŋ52	o21 lung53	套衫		服饰	1306	L	
+3E7D	手䘼	手䘼	ts‘iu24 uoŋ33	ciu24 uong33	袖子		服饰	1306	L	
+3E7A	脰领	脰領	tau21 liaŋ33	dau21 liang33	领子		服饰	1306	L	
+3E98	裤斗	褲斗	k‘u52 lau33	ku53 lau33	裤裆		服饰	1306	L	
 	长*䘼	長䘼	touŋ21 ŋuoŋ33	doung21 nguong33	长袖		服饰	1306	L	
 	短*䘼	短䘼	tøy24 uoŋ33	deoy24 uong33	短袖		服饰	1306	L	
-	头*	頭	t‘au52	tau53	脑袋		身体	1306	L	
-	头*发	頭发	t‘au21 uoʔ12	tau21 uok24	头发		身体	1306	L	
-	额头*	額頭	ŋia44 lau52	ngia55 lau53	额头		身体	1306	L	
-	眉毛	眉毛	mi21 mɔ52	mi21 mo53	眉毛		身体	1306	R	
+2720	头*	頭	t‘au52	tau53	脑袋		身体	1306	L	
+3B63	头*发	頭髮	t‘au21 uoʔ12	tau21 uok24	头发		身体	1306	L	
+3B6F	额头*	額頭	ŋia44 lau52	ngia55 lau53	额头		身体	1306	L	
+3BC1	眉毛	眉毛	mi21 mɔ52	mi21 mo53	眉毛		身体	1306	R	
 	目*霎	目霎	moyʔ2 sia12	moyk2 sia24	睫毛		身体	1306	R	
-	目*睭	目睭	mεiʔ5 tsiu44	meik5 ziu55	眼睛		身体	1306	R	
-	面*𱂮	面䫌	miŋ52 mε33	ming53 me33	脸蛋儿		身体	1306	R	
-	鼻	鼻	p‘ei213	pei213	鼻子		身体	1306	R	
-	耳*	耳	ŋei242	ngei242	耳朵		身体	1306	R	
-	喙	喙	ts‘ui213	cui213	嘴		身体	1306	R	
-	喙皮*	喙皮	ts‘ui44 βui52	cui55 wui53	嘴唇		身体	1306	R	
-	牙齿	牙齒	ŋa21 i33	nga21 i33	牙齿		身体	1306	R	
-	喙舌	喙舌	ts‘ui44 lieʔ5	cui55 liek5	舌头		身体	1306	R	
-	喙⿱髟须	喙鬚	ts‘ui44 liu44	cui55 liu55	胡须		身体	1306	R	
-	下颏	下頦	a44 hai52	a55 hai53	下巴		身体	1306	R	
-	喉咙	喉嚨	hœ21 loyŋ52	heo21 leoyng53	喉咙		身体	1306	R	
-	脰𦜩	脰𦜩	tau21 uoʔ12	dau21 uok24	脖子		身体	1306	R	
-	心肝	心肝	siŋ44 ŋaŋ44	sing55 ngang55	胸部		身体	1306	R	
+3BA0	目*睭	目睭	mεiʔ5 tsiu44	meik5 ziu55	眼睛		身体	1306	R	
+3B85	面*𱂮	面䫌	miŋ52 mε33	ming53 me33	脸蛋儿		身体	1306	R	
+2154	鼻	鼻	p‘ei213	pei213	鼻子		身体	1306	R	
+1D45	耳*	耳	ŋei242	ngei242	耳朵		身体	1306	R	
+674	喙	喙	ts‘ui213	cui213	嘴		身体	1306	R	
+3BDC	喙皮*	喙皮	ts‘ui44 βui52	cui55 wui53	嘴唇		身体	1306	R	
+1D1F	牙齿	牙齒	ŋa21 i33	nga21 i33	牙齿		身体	1306	R	
+3BE1	喙舌	喙舌	ts‘ui44 lieʔ5	cui55 liek5	舌头		身体	1306	R	
+3C10	喙⿱髟须	喙鬚	ts‘ui44 liu44	cui55 liu55	胡须		身体	1306	R	
+3C09	下颏	下頦	a44 hai52	a55 hai53	下巴		身体	1306	R	
+3C0B	喉咙	喉嚨	hœ21 loyŋ52	heo21 leoyng53	喉咙		身体	1306	R	
+3B80	脰𦜩	脰骨	tau21 uoʔ12	dau21 uok24	脖子		身体	1306	R	
+3D69	心肝	心肝	siŋ44 ŋaŋ44	sing55 ngang55	胸部		身体	1306	R	
 	六条骨	六條骨	loyʔ2 teu21 ɔuʔ12	loyk2 deu21 ouk24	肋骨		身体	1306	R	
-	𬂌	𬂌	nεiŋ52	neing53	乳房		身体	1306	R	
-	腹*老	腹老	puʔ12 lɔ33	buk24 lo33	肚子		身体	1306	R	
-	腹*脐*	腹臍	puʔ12 sai52	buk24 sai53	肚脐		身体	1306	R	
+19BA	𬂌	乳	nεiŋ52	neing53	乳房		身体	1306	R	
+3C96	腹*老	腹老	puʔ12 lɔ33	buk24 lo33	肚子		身体	1306	R	
+3C98	腹*脐*	腹臍	puʔ12 sai52	buk24 sai53	肚脐		身体	1306	R	
 	手肚	手肚	ts‘iu24 lu33	ciu24 lu33	手臂		身体	1306	R	
-	胳洛下	胳洛下	kɔʔ12 lɔuʔ5 a242	gok24 louk5 a242	腋下		身体	1306	R	
-	巴掌	巴掌	pa52 ʒyoŋ33	ba53 jyong33	手掌		身体	1306	R	
+3C23	胳洛下	胳絡下	kɔʔ12 lɔuʔ5 a242	gok24 louk5 a242	腋下		身体	1306	R	
+3C44	巴掌	巴掌	pa52 ʒyoŋ33	ba53 jyong33	手掌		身体	1306	R	
 	掌指	掌指	tsieŋ24 ʒai33	zieng24 njai33	手指		身体	1306	R	
-	掌甲	掌甲	tsieŋ44 ŋaʔ12	zieng55 ngak24	指甲		身体	1306	R	
-	掌头母*	掌頭母	tsieŋ24 nau21 mɔ33	zieng24 nau21 mo33	大母指		身体	1306	R	
-	鸡角指*	雞角指	kie21 oyʔ12 tsai33	gie21 oyk24 zai33	食指		身体	1306	R	
-	台中*指*	臺中指	tai21 lɔuŋ52 tsai33	dai21 loung53 zai33	中指		身体	1306	R	
-	无*名*指*	無名指	mɔ21 miaŋ21 ʒai33	mo21 miang21 njai33	无名指		身体	1306	R	
-	尾掌指*	尾掌指	mui21 ʒieŋ24 ʒai33	mui21 jieng24 njai33	小指		身体	1306	R	
-	骹肚囝	骹肚囝	k‘a21 lu24 iaŋ33	ka21 lu24 iang33	小腿		身体	1306	R	
-	骹𩨑	骹𩨑	k‘a44 naŋ44	ka55 nang55	脚后跟		身体	1306	R	
-	骹□底	骹□底	k‘a21 ʒyo24 lε33	ka21 jyo24 le33	脚底		身体	1306	R	
+3C40	掌甲	掌甲	tsieŋ44 ŋaʔ12	zieng55 ngak24	指甲		身体	1306	R	
+	掌头母*	掌頭母	tsieŋ24 nau21 mɔ33	zieng24 nau21 mo33	大母指		身体	1306	R	3C38
+3C39	鸡角指*	鷄角指	kie21 oyʔ12 tsai33	gie21 oyk24 zai33	食指		身体	1306	R	
+3C3B	台中*指*	臺中指	tai21 lɔuŋ52 tsai33	dai21 loung53 zai33	中指		身体	1306	R	
+3C3D	无*名*指*	無名指	mɔ21 miaŋ21 ʒai33	mo21 miang21 njai33	无名指		身体	1306	R	
+3C3F	尾掌指*	尾掌指	mui21 ʒieŋ24 ʒai33	mui21 jieng24 njai33	小指		身体	1306	R	3C3E
+3C59	骹肚囝	骹肚囝	k‘a21 lu24 iaŋ33	ka21 lu24 iang33	小腿		身体	1306	R	
+3C86	骹𩨑	骹𩨑	k‘a44 naŋ44	ka55 nang55	脚后跟		身体	1306	R	
+4E9C	骹□底	骹厝底	k‘a21 ʒyo24 lε33	ka21 jyo24 le33	脚底		身体	1306	R	
 	骹目睭	骹目睭	k‘a21 mεiʔ5 tsiu44	ka21 meik5 ziu55	脚踝		身体	1306	R	
-	骹腹*头*	骹腹頭	k‘a21 βuʔ12 t‘au52	ka21 wuk24 tau53	膝盖		身体	1306	R	
+3C5D	骹腹*头*	骹腹頭	k‘a21 βuʔ12 t‘au52	ka21 wuk24 tau53	膝盖		身体	1306	R	
 	骹掌指*	骹掌指	k‘a21 ʒieŋ24 ʒai33	ka21 jieng24 njai33	脚指		身体	1306	R	
-	骹柄下	骹柄下	k‘a21 βaŋ52 ŋa242	ka21 wang53 nga242	胯下		身体	1306	R	
-	股川	股川	ku21 ʒyoŋ44	gu21 jyong55	屁股		身体	1306	R	
-	肾脬	腎脬	liŋ44 p‘a44	ling55 pa55	阴囊		身体	1307	L	
-	肾核子	腎核子	liŋ21 ŋuoʔ2 tsi33	ling21 nguok2 zi33	睾丸		身体	1307	L	
-	朘友	朘友	noy21 iu33	noy21 iu33	男阴		身体	1307	L	
-	姕𱂮	姕䫌	tsi52 βε33	zi53 we33	女阴		身体	1307	L	
-	目滓	目滓	mɔyʔ2 tsai33	moyk2 zai33	眼泪		身体	1307	L	
-	鼻□	鼻□	p‘i52 lœ52	pi53 leo53	鼻涕		身体	1307	L	
-	鼻屎	鼻屎	pi52 lai33	bi53 lai33	鼻精(干结的鼻涕)		身体	1307	L	
-	𪢌	𪢌	laŋ33	lang33	口水		身体	1307	L	
+3C5F	骹柄下	骹柄下	k‘a21 βaŋ52 ŋa242	ka21 wang53 nga242	胯下		身体	1306	R	
+3C60	股川	股川	ku21 ʒyoŋ44	gu21 jyong55	屁股		身体	1306	R	
+3C6A	肾脬	𡳞脬	liŋ44 p‘a44	ling55 pa55	阴囊		身体	1307	L	
+3C6B	肾核子	𡳞核子	liŋ21 ŋuoʔ2 tsi33	ling21 nguok2 zi33	睾丸		身体	1307	L	
+3C69	朘友	螺鳥	noy21 iu33	noy21 iu33	男阴		身体	1307	L	
+2C5D	姕𱂮	姕䫌	tsi52 βε33	zi53 we33	女阴		身体	1307	L	
+3B9B	目滓	目滓	mɔyʔ2 tsai33	moyk2 zai33	眼泪		身体	1307	L	
+3BCC	鼻□	鼻驢	p‘i52 lœ52	pi53 leo53	鼻涕		身体	1307	L	
+3BCE	鼻屎	鼻屎	pi52 lai33	bi53 lai33	鼻精(干结的鼻涕)		身体	1307	L	
+1903	𪢌	灠	laŋ33	lang33	口水		身体	1307	L	
 	苦毛	苦毛	k‘u21 mo52	ku21 mo53	毫毛		身体	1307	L	
 	破*病*	破病	p‘uai52 βaŋ242	puai53 wang242	生病		疾病	1307	L	
 	无*力*□	無力□	mɔ21 niʔ5 ai52	mo21 nik5 ai53	不舒服，病了		疾病	1307	L	
@@ -631,7 +631,7 @@ DB7	囝	囝	kiaŋ33	giang33	儿子		人品	1304	R
 	吐	吐	t‘ou213	tou213	呕吐		疾病	1307	L	
 	病泻	病瀉	paŋ21 nia213	bang21 nia213	拉肚子		疾病	1307	L	
 	过	過	kuo213	guo213	传染		疾病	1307	L	
-	发烧	发燒	huaʔ12 siu44	huak24 siu55	发热		疾病	1307	L	
+	发烧	發燒	huaʔ12 siu44	huak24 siu55	发热		疾病	1307	L	
 	头*眩*	頭眩	t‘au52 hiŋ52	tau53 hing53	头晕		疾病	1307	L	
 	生*𭼕	生𭼕	saŋ52 huoŋ213	sang53 huong213	长疖子		疾病	1307	L	
 	生*痱	生痱	sanŋ52 pui213	sanng53 bui213	长痱子		疾病	1307	L	
@@ -845,7 +845,7 @@ DB7	囝	囝	kiaŋ33	giang33	儿子		人品	1304	R
 	嚗	嚗	pɔʔ12	bok24	骂		动作	1310	L	
 	𠿝	𠿝	ts‘œ52	ceo53	呵叱		动作	1310	L	
 	𠰭	𠰭	mau33	mau33	闭唇		动作	1310	L	
-	{啡𪢌𪢌,啡𪢌}	啡㘓	p‘ui21 laŋ33	pui21 lang33	吐口水		动作	1310	L	
+4BA0	{啡𪢌𪢌,啡𪢌}	啡灠	p‘ui21 laŋ33	pui21 lang33	吐口水		动作	1310	L	
 	诅	詛	tsou213	zou213	咒骂		动作	1310	L	
 	诅喙	詛喙	tsu52 ʒui213	zu53 jui213	赌咒		动作	1310	L	
 	嚼	嚼	tsyoʔ5	zyok5	咀嚼		动作	1310	L	
